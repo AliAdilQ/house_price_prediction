@@ -1,0 +1,129 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="Explore property values with Habitat, a Django and machine learning house price prediction portfolio project by AliAdilQ.">
+    <meta name="theme-color" content="#163e35">
+    <title>
+      {% block title %}Habitat · House Price Prediction{% endblock %}
+    </title>
+    <link rel="icon"
+          type="image/svg+xml"
+          href="{% static 'images/favicon.svg' %}">
+    <link rel="stylesheet"
+          href="{% static 'vendor/bootstrap/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    {% block head %}{% endblock %}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <svg xmlns="http://www.w3.org/2000/svg"
+         class="icon-definitions"
+         aria-hidden="true">
+      <symbol id="i-home" viewBox="0 0 24 24">
+      <path d="m3 10 9-7 9 7v10a1 1 0 0 1-1 1h-5v-8H9v8H4a1 1 0 0 1-1-1Z" />
+      </symbol>
+      <symbol id="i-arrow" viewBox="0 0 24 24">
+      <path d="M4 12h16m-6-6 6 6-6 6" />
+      </symbol>
+      <symbol id="i-spark" viewBox="0 0 24 24">
+      <path d="m12 3 2.5 6.5L21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5Z" />
+      </symbol>
+      <symbol id="i-chart" viewBox="0 0 24 24">
+      <path d="M4 3v17h17M8 15v-4m5 4V7m5 8V4" />
+      </symbol>
+      <symbol id="i-check" viewBox="0 0 24 24">
+      <path d="m5 12 4 4L19 6" />
+      </symbol>
+      <symbol id="i-pin" viewBox="0 0 24 24">
+      <path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z" />
+      <circle cx="12" cy="10" r="2" /></symbol>
+      <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1" /><rect x="14" y="3" width="7" height="7" rx="1" /><rect x="3" y="14" width="7" height="7" rx="1" /><rect x="14" y="14" width="7" height="7" rx="1" /></symbol>
+      <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" />
+      <path d="M12 7v5l3 2" />
+      </symbol>
+      <symbol id="i-code" viewBox="0 0 24 24">
+      <path d="m8 6-6 6 6 6m8-12 6 6-6 6m-3-15-2 18" />
+      </symbol>
+      <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" />
+      <path d="M12 11v6m0-10v1" />
+      </symbol>
+      <symbol id="i-bed" viewBox="0 0 24 24">
+      <path d="M3 19V5m0 10h18v4m0-4V9H9v6M3 9h6" />
+      </symbol>
+      <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6" />
+      <path d="m15 15 6 6" />
+      </symbol>
+    </svg>
+    <header class="site-header">
+      <nav class="navbar navbar-expand-lg container"
+           aria-label="Main navigation">
+        <a class="brand" href="{% url 'predictor:home' %}"><span class="brand-mark">
+          <svg class="icon">
+            <use href="#i-home" />
+          </svg>
+        </span>habitat<span class="brand-dot">.</span></a>
+        <button class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#mainNav"
+                aria-controls="mainNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="mainNav">
+          <div class="navbar-nav mx-auto">
+            <a class="nav-link
+                      {% if request.resolver_match.url_name == 'home' %}active{% endif %}"
+               href="{% url 'predictor:home' %}"
+               {% if request.resolver_match.url_name == 'home' %}aria-current="page"{% endif %}>Overview</a>
+            <a class="nav-link
+                      {% if request.resolver_match.url_name == 'predict' or request.resolver_match.url_name == 'result' %}
+                        active
+                      {% endif %}"
+               href="{% url 'predictor:predict' %}">Predict</a>
+            <a class="nav-link
+                      {% if request.resolver_match.url_name == 'history' %}active{% endif %}"
+               href="{% url 'predictor:history' %}">History</a>
+            <a class="nav-link
+                      {% if request.resolver_match.url_name == 'about' %}active{% endif %}"
+               href="{% url 'predictor:about' %}">About</a>
+          </div>
+          <div class="nav-actions">
+            <a class="nav-admin" href="{% url 'admin:index' %}">Admin <span aria-hidden="true">↗</span></a><a class="btn btn-outline-dark btn-sm"
+   href="https://github.com/AliAdilQ/house_price_prediction"
+   target="_blank"
+   rel="noopener noreferrer">
+              <svg class="icon">
+                <use href="#i-code" />
+              </svg>
+            GitHub <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main id="main">
+      {% block content %}{% endblock %}
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-top">
+        <a class="brand" href="{% url 'predictor:home' %}">habitat<span class="brand-dot">.</span></a>
+        <p>A little data. A clearer picture of home.</p>
+        <a href="https://github.com/AliAdilQ"
+           target="_blank"
+           rel="noopener noreferrer">Built by AliAdilQ <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="container footer-bottom">
+        <span>© {% now 'Y' %} AliAdilQ · MIT License</span><span>Synthetic data · Portfolio demonstration · Prices in USD</span>
+      </div>
+    </footer>
+    <script src="{% static 'vendor/bootstrap/bootstrap.bundle.min.js' %}" defer></script>
+    <script src="{% static 'js/main.js' %}" defer></script>
+    {% block scripts %}{% endblock %}
+  </body>
+</html>

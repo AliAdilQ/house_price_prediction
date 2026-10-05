@@ -1,0 +1,12 @@
+<div class="field-group
+            {% if field.name == 'area_sqft' %}wide-field{% endif %}">
+  <label class="form-label" for="{{ field.id_for_label }}">
+    {{ field.label }}
+    {% if field.field.required %}<span class="required-dot" aria-hidden="true">*</span>{% endif %}
+  </label>
+  {{ field }}
+  <div class="field-hint" id="hint_{{ field.name }}">{{ field.help_text }}</div>
+  <div class="field-errors" id="error_{{ field.name }}">
+    {% for error in field.errors %}<span>{{ error }}</span>{% endfor %}
+  </div>
+</div>

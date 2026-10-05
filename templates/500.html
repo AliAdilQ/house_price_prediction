@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}Something went wrong · Habitat{% endblock %}
+{% block content %}
+  <div class="container error-page">
+    <div class="error-number">500</div>
+    <div class="eyebrow">A MOMENT TO REGROUP</div>
+    <h1>
+      Something needs <em>a little attention.</em>
+    </h1>
+    <p>We couldn't complete this request. Please try again later.</p>
+    <a class="btn btn-primary" href="{% url 'predictor:home' %}">Return home</a>
+  </div>
+{% endblock %}

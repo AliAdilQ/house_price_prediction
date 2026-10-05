@@ -1,0 +1,34 @@
+name: Django and ML checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Verify schema and configuration
+        run: |
+          python manage.py check
+          python manage.py makemigrations --check --dry-run
+          python manage.py migrate --noinput
+      - name: Verify retraining and local demo setup
+        run: |
+          python manage.py train_model
+          python manage.py seed_demo_data
+          python manage.py seed_demo_data
+      - name: Run behavior and inference tests
+        run: python manage.py test
+      - name: Verify static assets
+        run: python manage.py collectstatic --noinput

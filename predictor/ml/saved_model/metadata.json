@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "selected_model": "Gradient Boosting",
+  "currency": "USD",
+  "trained_at": "2026-10-05T15:38:04.268561+00:00",
+  "random_state": 42,
+  "dataset_rows": 1600,
+  "removed_invalid_rows": 0,
+  "training_rows": 1280,
+  "test_rows": 320,
+  "selection": "3-fold cross-validation RMSE on training split",
+  "comparison": [
+    {
+      "name": "Linear Regression",
+      "r2": 0.9572585224640454,
+      "mae": 29548.73926438957,
+      "rmse": 38413.88455788374
+    },
+    {
+      "name": "Random Forest",
+      "r2": 0.9373092098733209,
+      "mae": 36455.7236710309,
+      "rmse": 46407.79782607951
+    },
+    {
+      "name": "Gradient Boosting",
+      "r2": 0.9688210117569013,
+      "mae": 25152.18100830988,
+      "rmse": 32805.02509706291
+    }
+  ],
+  "test_metrics": {
+    "r2": 0.9696327971676413,
+    "mae": 23344.442842689434,
+    "rmse": 31482.935351432065
+  },
+  "features": [
+    "location",
+    "property_type",
+    "furnishing_status",
+    "area_sqft",
+    "bedrooms",
+    "bathrooms",
+    "floors",
+    "property_age",
+    "parking_spaces",
+    "distance_city_center",
+    "nearby_school",
+    "nearby_hospital"
+  ],
+  "versions": {
+    "python": "3.12.14",
+    "scikit_learn": "1.7.2"
+  },
+  "dataset_sha256": "8e9908f37d88ed5e18655b532ada9494498687c2dd5d991f7849296210425c35",
+  "model_sha256": "d9f6558af838d27ea591c965dc4a2b1a0a9475ac13d0abae089109d7d3d002ab",
+  "synthetic": true
+}

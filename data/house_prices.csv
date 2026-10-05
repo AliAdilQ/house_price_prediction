@@ -1,0 +1,1601 @@
+location,property_type,furnishing_status,area_sqft,bedrooms,bathrooms,floors,property_age,parking_spaces,distance_city_center,nearby_school,nearby_hospital,price
+Downtown,Townhouse,Semi-furnished,2393,4,3,3,12,0,26.8,0,1,777475.87
+Hillcrest,Townhouse,Semi-furnished,888,1,2,2,50,2,8.3,1,1,332409.76
+Riverside,Detached,Fully furnished,2472,4,4,2,27,4,7.2,1,1,856270.92
+Greenfield,Detached,Semi-furnished,2436,5,4,2,19,4,16.7,1,1,566506.0
+Riverside,Detached,Semi-furnished,1442,2,3,2,46,4,13.9,1,0,508652.94
+Greenfield,Apartment,Semi-furnished,2630,5,1,1,47,3,27.4,1,0,454758.98
+Greenfield,Apartment,Unfurnished,1981,3,3,1,52,2,22.4,1,0,364870.97
+Greenfield,Apartment,Fully furnished,1530,2,2,1,16,2,8.6,1,1,361137.78
+Hillcrest,Detached,Semi-furnished,914,1,2,3,40,2,28.6,1,1,331486.99
+Greenfield,Townhouse,Semi-furnished,2133,4,4,1,57,0,15.9,1,1,428474.96
+Greenfield,Townhouse,Fully furnished,2179,5,1,2,58,1,24.6,1,0,415263.26
+Riverside,Townhouse,Unfurnished,1863,4,4,1,27,4,7.5,1,0,605768.32
+Oakwood,Detached,Semi-furnished,721,1,2,2,26,1,20.7,1,1,285885.23
+Greenfield,Townhouse,Unfurnished,969,1,1,1,41,0,6.4,0,0,198859.99
+West End,Detached,Fully furnished,878,2,1,2,29,2,3.4,1,1,364272.76
+Downtown,Townhouse,Fully furnished,1482,3,4,1,33,2,1.2,0,0,585524.57
+Oakwood,Detached,Semi-furnished,1153,2,1,1,17,1,25.6,0,1,349653.43
+Hillcrest,Apartment,Fully furnished,1885,2,1,1,33,1,28.4,1,0,490249.88
+West End,Apartment,Unfurnished,1834,3,4,1,57,2,15.5,0,0,430112.89
+Hillcrest,Villa,Semi-furnished,3335,6,1,2,1,3,13.4,1,0,1058298.63
+West End,Villa,Unfurnished,3432,6,2,1,50,4,6.7,1,0,919569.52
+Riverside,Detached,Fully furnished,1288,2,1,3,26,0,8.4,1,0,420972.94
+Downtown,Townhouse,Fully furnished,2208,5,4,2,12,4,25.2,0,1,802411.45
+Hillcrest,Townhouse,Fully furnished,1664,2,2,2,31,1,1.4,1,0,511056.43
+Hillcrest,Apartment,Unfurnished,2834,4,3,1,10,2,28.3,1,0,764034.98
+Hillcrest,Apartment,Semi-furnished,1106,2,3,1,28,1,21.4,0,0,304426.18
+West End,Townhouse,Semi-furnished,2523,5,3,3,52,1,9.1,1,0,653754.73
+Hillcrest,Apartment,Fully furnished,965,1,1,1,36,0,11.2,1,0,284049.93
+Downtown,Apartment,Unfurnished,1223,2,2,1,7,3,6.5,1,0,474823.7
+Greenfield,Townhouse,Semi-furnished,1290,2,3,2,48,4,6.8,1,1,382414.83
+Downtown,Townhouse,Unfurnished,978,2,1,1,50,0,32.4,1,0,314232.6
+Riverside,Detached,Fully furnished,2564,5,3,3,37,3,19.0,1,0,710485.45
+Downtown,Townhouse,Semi-furnished,2212,4,4,1,8,2,14.9,1,1,836627.54
+Greenfield,Townhouse,Fully furnished,1196,2,1,3,48,4,17.1,1,1,346923.76
+Hillcrest,Detached,Unfurnished,1206,2,3,3,38,0,25.9,1,0,376405.48
+Hillcrest,Apartment,Fully furnished,2334,4,4,1,44,2,5.2,0,0,683515.13
+Oakwood,Detached,Unfurnished,2139,4,5,3,44,2,21.8,1,0,616824.56
+Downtown,Townhouse,Semi-furnished,2150,4,3,3,48,2,21.2,0,1,640819.1
+Greenfield,Detached,Fully furnished,710,1,2,2,12,3,31.5,0,1,250108.38
+Oakwood,Townhouse,Semi-furnished,1397,2,1,1,57,2,13.7,0,0,345603.82
+Oakwood,Townhouse,Fully furnished,2502,4,1,2,0,3,4.6,0,0,669182.45
+Hillcrest,Detached,Fully furnished,900,1,2,1,27,3,10.7,1,1,383882.31
+West End,Detached,Fully furnished,1903,5,3,1,2,4,29.4,1,0,571607.22
+Riverside,Detached,Unfurnished,2194,4,1,3,1,1,5.4,0,1,714653.52
+Riverside,Apartment,Semi-furnished,2362,4,1,1,0,4,28.2,1,0,693956.68
+Greenfield,Villa,Semi-furnished,2854,5,1,3,50,4,7.5,1,1,706012.46
+Downtown,Detached,Unfurnished,703,1,2,3,44,0,9.8,0,0,272859.46
+West End,Detached,Semi-furnished,833,1,1,1,27,3,3.7,1,0,311702.62
+Riverside,Detached,Fully furnished,1382,2,2,2,8,1,10.9,1,0,507607.92
+Oakwood,Apartment,Semi-furnished,2647,5,3,1,31,4,4.6,1,1,751435.63
+West End,Detached,Fully furnished,1797,3,2,2,9,2,20.8,1,1,528732.31
+Riverside,Townhouse,Fully furnished,600,1,1,2,34,2,22.9,1,1,256881.8
+Oakwood,Townhouse,Fully furnished,2437,3,3,2,58,2,31.1,0,1,595776.4
+Greenfield,Detached,Unfurnished,1051,2,1,2,30,0,3.0,0,1,285238.67
+West End,Apartment,Unfurnished,777,2,3,1,19,4,29.0,0,1,244930.36
+Riverside,Apartment,Fully furnished,1977,4,3,1,22,0,27.1,1,0,540795.1
+Greenfield,Detached,Semi-furnished,1511,2,2,1,46,2,6.2,0,0,346077.6
+Downtown,Detached,Semi-furnished,2496,5,5,2,27,4,3.3,0,1,996957.67
+Hillcrest,Apartment,Unfurnished,996,1,1,1,55,3,10.6,1,0,240710.16
+Downtown,Apartment,Semi-furnished,939,1,2,1,51,2,23.6,0,1,287565.83
+Greenfield,Townhouse,Fully furnished,1865,3,4,3,32,3,17.9,0,0,419118.57
+Hillcrest,Townhouse,Semi-furnished,1566,3,2,2,6,0,32.1,1,1,500367.04
+Riverside,Apartment,Unfurnished,1023,1,2,1,56,2,21.1,1,1,276274.24
+West End,Villa,Semi-furnished,2479,4,5,2,60,3,25.4,0,0,636733.06
+Hillcrest,Apartment,Fully furnished,1380,3,3,1,39,2,34.0,0,1,429766.41
+West End,Detached,Fully furnished,1667,4,2,1,2,2,17.4,0,1,468692.68
+Riverside,Detached,Unfurnished,1534,3,3,1,32,4,28.9,1,1,538323.02
+Hillcrest,Apartment,Unfurnished,2151,5,4,1,40,3,26.0,0,1,552387.83
+Hillcrest,Detached,Fully furnished,1298,2,3,3,31,1,1.5,1,0,526818.64
+Riverside,Detached,Fully furnished,2003,2,2,2,55,1,14.2,1,0,565118.02
+West End,Apartment,Semi-furnished,1711,4,2,1,25,4,10.7,1,1,473411.32
+Hillcrest,Villa,Fully furnished,2485,6,4,1,23,2,17.6,1,1,798277.64
+Oakwood,Apartment,Semi-furnished,1339,2,1,1,27,4,15.0,0,0,343968.42
+Hillcrest,Villa,Unfurnished,837,2,2,1,54,4,26.1,1,0,357750.27
+West End,Apartment,Unfurnished,1387,2,1,1,21,4,19.9,0,0,340890.4
+Riverside,Townhouse,Fully furnished,2404,5,5,1,49,3,27.7,1,0,772801.25
+Oakwood,Villa,Fully furnished,2061,4,4,2,8,0,4.1,1,1,709623.74
+Hillcrest,Townhouse,Unfurnished,1601,2,2,1,3,4,13.8,1,0,487248.9
+Hillcrest,Townhouse,Semi-furnished,1286,2,1,2,17,0,0.5,1,1,413534.56
+Hillcrest,Townhouse,Unfurnished,1423,3,4,2,15,1,8.9,1,0,499986.37
+Greenfield,Villa,Unfurnished,976,2,2,1,52,3,2.1,1,0,375256.96
+Downtown,Apartment,Semi-furnished,2096,5,1,1,43,3,20.1,1,0,642745.79
+Riverside,Detached,Fully furnished,1854,3,3,3,47,4,9.3,0,1,688280.22
+Hillcrest,Townhouse,Unfurnished,2789,5,4,3,33,3,8.0,1,1,822274.59
+West End,Apartment,Semi-furnished,2153,4,2,1,42,0,24.9,0,1,463817.04
+Greenfield,Detached,Unfurnished,1346,2,1,3,42,0,18.0,0,1,291800.39
+West End,Detached,Semi-furnished,2619,5,2,1,5,4,22.0,1,1,678963.51
+West End,Apartment,Unfurnished,789,2,2,1,11,0,8.5,0,1,210676.12
+West End,Detached,Semi-furnished,1816,3,2,2,44,3,26.7,0,1,481684.96
+Hillcrest,Detached,Fully furnished,728,1,1,2,57,0,14.1,1,1,267758.62
+Hillcrest,Apartment,Fully furnished,1804,4,1,1,20,2,30.8,1,1,539393.36
+Greenfield,Detached,Fully furnished,2147,3,4,2,6,3,30.4,0,1,564564.53
+Oakwood,Apartment,Fully furnished,2139,4,2,1,59,4,31.1,1,1,605576.05
+West End,Townhouse,Unfurnished,1608,3,1,2,30,2,13.5,1,1,424980.23
+Riverside,Detached,Unfurnished,1056,1,1,3,14,0,26.5,0,1,367424.08
+Hillcrest,Townhouse,Unfurnished,856,1,1,2,7,0,33.6,1,1,247182.16
+Oakwood,Apartment,Fully furnished,841,1,1,1,18,4,34.5,0,0,242975.38
+Hillcrest,Apartment,Fully furnished,2429,5,2,1,25,0,21.8,1,1,651448.88
+Hillcrest,Apartment,Fully furnished,680,1,2,1,31,3,13.3,1,0,251119.93
+Riverside,Apartment,Fully furnished,2706,4,5,1,14,4,9.6,0,1,870133.62
+Downtown,Townhouse,Fully furnished,1146,1,1,1,51,2,12.2,1,1,381604.81
+Riverside,Villa,Unfurnished,709,1,1,3,20,2,18.8,1,1,364267.14
+Oakwood,Apartment,Unfurnished,1196,1,2,1,50,4,19.6,1,1,328822.45
+Downtown,Apartment,Unfurnished,1118,1,2,1,55,3,14.3,1,1,311755.28
+Oakwood,Detached,Fully furnished,2067,5,4,3,9,4,12.3,1,1,684824.41
+West End,Detached,Semi-furnished,2582,4,4,3,12,4,22.5,1,0,708301.78
+Oakwood,Apartment,Fully furnished,1299,2,2,1,26,0,14.1,0,1,335820.79
+West End,Townhouse,Fully furnished,893,2,2,1,28,3,12.3,1,0,320079.66
+West End,Townhouse,Unfurnished,785,1,1,3,45,3,33.2,1,0,230302.3
+Riverside,Detached,Semi-furnished,903,1,2,3,55,1,22.8,1,1,343486.32
+Riverside,Apartment,Semi-furnished,765,1,1,1,40,3,1.2,1,1,295730.36
+Hillcrest,Apartment,Unfurnished,2564,5,5,1,40,4,5.3,1,0,723706.05
+Greenfield,Detached,Fully furnished,1187,2,2,3,35,3,22.1,1,0,344536.19
+Riverside,Detached,Semi-furnished,1562,3,1,3,53,4,15.8,0,0,475649.44
+Hillcrest,Townhouse,Semi-furnished,1496,3,2,2,49,1,32.4,0,0,382073.7
+Hillcrest,Detached,Unfurnished,1974,2,3,2,27,3,22.7,1,1,607082.25
+Oakwood,Apartment,Unfurnished,2027,3,3,1,49,2,0.8,1,0,561462.54
+Riverside,Detached,Unfurnished,805,1,2,1,27,4,5.8,1,0,344596.38
+Riverside,Villa,Unfurnished,2087,4,1,2,48,1,31.0,1,1,612612.69
+West End,Townhouse,Fully furnished,872,1,2,2,17,3,34.7,0,1,316288.74
+West End,Detached,Semi-furnished,1217,1,2,1,28,0,2.3,1,1,406678.41
+Greenfield,Detached,Fully furnished,2785,5,5,2,14,3,17.4,0,1,657462.44
+Greenfield,Apartment,Semi-furnished,1388,2,1,1,17,0,0.5,1,0,313549.51
+Downtown,Detached,Fully furnished,2102,4,5,1,8,0,28.9,1,0,836016.08
+Oakwood,Detached,Semi-furnished,1300,2,2,1,12,2,16.5,1,1,423117.98
+Greenfield,Detached,Unfurnished,2682,5,1,2,10,0,28.9,1,0,544971.79
+Hillcrest,Townhouse,Fully furnished,2130,4,5,2,58,4,7.1,1,0,639592.0
+Hillcrest,Detached,Fully furnished,628,1,2,2,50,1,1.4,1,0,289587.9
+West End,Townhouse,Unfurnished,841,2,1,3,21,2,9.8,1,1,293758.55
+Oakwood,Detached,Fully furnished,2547,5,1,1,12,2,22.8,1,0,769489.94
+Greenfield,Villa,Semi-furnished,2251,3,2,1,28,2,23.9,1,1,517899.18
+Riverside,Townhouse,Unfurnished,1681,3,1,2,52,0,12.9,1,1,476662.31
+Hillcrest,Apartment,Unfurnished,1930,4,5,1,54,3,4.2,1,0,516588.72
+Riverside,Detached,Semi-furnished,2665,5,1,3,8,4,14.3,1,0,887119.12
+Downtown,Detached,Semi-furnished,2235,5,1,1,30,2,34.0,1,1,726940.13
+Oakwood,Townhouse,Unfurnished,1304,1,1,1,48,4,12.9,1,1,370253.42
+West End,Villa,Semi-furnished,2501,5,5,3,20,1,20.1,1,0,720590.96
+Oakwood,Townhouse,Semi-furnished,1777,2,1,2,18,0,13.9,1,0,476763.92
+Greenfield,Apartment,Unfurnished,1895,3,4,1,11,2,2.3,0,1,438745.18
+Greenfield,Detached,Semi-furnished,2382,5,1,3,41,4,1.4,0,0,499874.15
+Riverside,Apartment,Fully furnished,1338,3,3,1,47,4,13.4,1,1,439242.38
+Oakwood,Townhouse,Fully furnished,2366,4,2,2,4,4,7.0,1,0,653306.22
+Hillcrest,Detached,Semi-furnished,1639,3,2,2,59,3,15.2,1,1,471741.81
+Hillcrest,Detached,Unfurnished,2288,4,1,1,44,4,18.5,1,0,605336.05
+Downtown,Detached,Semi-furnished,432,1,1,1,2,2,18.5,1,1,263042.33
+Oakwood,Apartment,Fully furnished,1365,2,2,1,57,1,34.1,1,0,376327.0
+Hillcrest,Townhouse,Semi-furnished,2252,4,1,2,12,2,33.6,1,0,666519.52
+Hillcrest,Villa,Unfurnished,1867,3,1,3,51,4,2.6,0,1,622331.63
+Downtown,Detached,Unfurnished,2444,5,4,2,60,0,11.2,1,1,730885.49
+Hillcrest,Apartment,Unfurnished,2398,4,5,1,32,4,29.6,0,1,658098.52
+Hillcrest,Detached,Fully furnished,1371,2,2,1,59,2,17.2,1,1,402619.49
+Riverside,Apartment,Semi-furnished,1384,2,3,1,4,3,32.6,1,1,469418.89
+Hillcrest,Villa,Fully furnished,1238,2,3,1,40,4,8.7,1,1,525260.59
+Hillcrest,Apartment,Semi-furnished,941,1,2,1,15,2,7.5,0,0,277321.94
+West End,Villa,Semi-furnished,631,1,1,2,13,2,33.1,1,0,303330.07
+Oakwood,Townhouse,Fully furnished,614,1,1,2,9,2,25.4,1,0,234789.88
+Riverside,Apartment,Fully furnished,1776,3,2,1,1,2,34.8,1,1,551720.87
+Oakwood,Apartment,Semi-furnished,2532,4,3,1,43,3,34.4,1,0,592080.72
+Downtown,Apartment,Fully furnished,2520,5,5,1,45,3,22.5,0,0,855943.07
+Oakwood,Detached,Semi-furnished,1927,4,4,3,22,2,28.5,1,0,550804.06
+West End,Detached,Unfurnished,1605,2,2,1,22,3,31.4,1,1,416398.37
+Greenfield,Apartment,Unfurnished,1415,2,1,1,20,2,26.7,0,1,272318.94
+Hillcrest,Townhouse,Unfurnished,2600,5,1,1,18,1,19.5,0,1,658904.55
+Riverside,Detached,Unfurnished,1799,4,1,3,26,4,12.9,1,1,620052.28
+Riverside,Apartment,Semi-furnished,3109,5,4,1,11,1,15.6,1,1,848369.66
+Downtown,Detached,Fully furnished,1237,1,2,2,39,0,35.0,1,0,446328.13
+West End,Townhouse,Semi-furnished,2082,4,4,1,35,2,14.6,1,0,512080.59
+Oakwood,Apartment,Fully furnished,2339,4,2,1,4,4,30.6,0,1,651435.02
+Hillcrest,Apartment,Fully furnished,2483,5,4,1,26,1,10.7,1,1,683645.88
+West End,Villa,Unfurnished,2164,5,3,1,41,3,6.6,0,1,632284.27
+Greenfield,Detached,Semi-furnished,606,1,2,3,58,1,9.6,1,1,235245.49
+Hillcrest,Detached,Unfurnished,2126,4,4,3,50,4,0.6,1,0,687486.04
+Riverside,Townhouse,Semi-furnished,1093,2,3,3,8,1,13.3,1,1,411277.43
+Greenfield,Townhouse,Fully furnished,2081,4,5,3,42,0,14.7,1,0,501277.24
+Hillcrest,Detached,Unfurnished,2484,4,5,1,7,1,16.5,1,0,747884.45
+Riverside,Detached,Unfurnished,2059,4,2,1,15,1,33.1,1,1,594761.59
+West End,Apartment,Fully furnished,1303,2,1,1,9,2,7.8,0,0,317584.17
+Downtown,Apartment,Semi-furnished,948,2,3,1,52,0,26.7,1,0,318348.47
+Downtown,Townhouse,Unfurnished,2072,4,1,3,60,3,26.4,1,1,587092.89
+Greenfield,Townhouse,Fully furnished,2457,4,3,3,24,4,32.0,1,0,536392.79
+Riverside,Apartment,Fully furnished,1217,3,2,1,48,0,32.2,0,1,344562.16
+West End,Villa,Unfurnished,1772,3,1,1,37,4,27.7,1,0,526570.2
+Riverside,Townhouse,Semi-furnished,837,2,3,1,36,1,29.1,1,1,297022.33
+Riverside,Townhouse,Fully furnished,1889,3,2,1,49,4,14.2,0,1,538223.3
+Downtown,Detached,Semi-furnished,1339,2,3,1,13,2,27.4,1,1,539126.19
+Oakwood,Detached,Unfurnished,1898,5,1,2,56,2,16.0,1,1,505070.49
+Oakwood,Detached,Fully furnished,1049,1,1,1,8,1,31.6,0,1,358251.83
+Riverside,Apartment,Fully furnished,1104,2,1,1,7,0,3.1,1,0,377870.86
+Downtown,Detached,Fully furnished,2121,4,3,3,26,2,15.9,1,1,776245.43
+Greenfield,Detached,Fully furnished,2021,4,2,3,15,3,11.9,1,0,496985.33
+Hillcrest,Townhouse,Unfurnished,1913,4,4,1,39,4,20.1,1,0,603691.65
+Riverside,Detached,Fully furnished,889,1,2,1,42,3,24.0,1,1,360939.14
+Oakwood,Apartment,Unfurnished,1656,1,1,1,26,3,29.1,1,0,375000.35
+West End,Detached,Semi-furnished,1332,3,3,3,58,2,25.9,1,1,352962.21
+West End,Villa,Semi-furnished,2049,3,2,3,58,2,6.7,1,1,602966.04
+West End,Detached,Fully furnished,1618,3,3,3,13,2,33.0,1,0,506310.05
+Downtown,Detached,Fully furnished,1315,2,2,1,14,1,17.8,0,0,463260.57
+Greenfield,Apartment,Semi-furnished,1337,2,2,1,15,3,34.8,0,1,281338.88
+Greenfield,Villa,Unfurnished,3150,6,2,1,40,4,15.7,0,0,670994.8
+Riverside,Detached,Semi-furnished,2237,5,2,2,33,0,17.9,1,1,730002.39
+Greenfield,Townhouse,Fully furnished,1536,2,2,1,32,4,8.4,0,0,371626.79
+Oakwood,Townhouse,Unfurnished,934,1,1,3,16,3,2.4,1,1,367631.93
+Downtown,Detached,Semi-furnished,566,1,1,2,23,0,31.3,1,1,271468.78
+Greenfield,Detached,Fully furnished,2374,4,1,3,40,0,21.2,0,1,499386.33
+Hillcrest,Townhouse,Semi-furnished,1912,3,3,1,6,1,1.1,1,0,595789.39
+Greenfield,Detached,Semi-furnished,1862,3,4,1,6,4,21.3,1,1,476128.29
+West End,Townhouse,Semi-furnished,1408,3,1,1,34,4,32.6,1,0,360637.34
+Riverside,Apartment,Unfurnished,2418,5,4,1,11,4,19.5,1,0,780029.53
+Hillcrest,Detached,Fully furnished,1997,3,2,2,9,3,3.1,0,0,706381.22
+Greenfield,Townhouse,Fully furnished,1425,3,4,3,1,1,8.1,1,0,431574.66
+Riverside,Apartment,Fully furnished,2540,5,5,1,12,4,21.8,0,1,761195.29
+Riverside,Villa,Semi-furnished,1625,4,1,3,41,4,3.0,1,0,651931.12
+West End,Detached,Fully furnished,1003,2,3,2,2,2,23.0,1,0,361164.61
+Hillcrest,Apartment,Semi-furnished,1084,2,1,1,8,0,5.3,1,1,339820.36
+Riverside,Apartment,Unfurnished,2185,3,1,1,18,1,4.2,1,1,651994.61
+West End,Townhouse,Semi-furnished,2138,4,5,3,32,1,1.3,1,1,595533.09
+Greenfield,Detached,Unfurnished,934,1,2,3,59,3,10.3,0,0,254314.52
+Greenfield,Villa,Unfurnished,2363,5,1,3,33,2,12.1,0,1,533123.85
+Downtown,Townhouse,Unfurnished,3047,5,1,2,17,2,2.3,0,1,1013343.36
+Downtown,Apartment,Fully furnished,1843,3,2,1,44,2,9.4,1,0,554479.18
+Hillcrest,Apartment,Fully furnished,1767,3,4,1,20,2,6.9,1,1,561904.1
+Hillcrest,Apartment,Semi-furnished,2409,4,4,1,30,3,12.8,1,0,642307.59
+Riverside,Townhouse,Fully furnished,1054,1,2,1,13,0,12.3,1,1,407094.65
+Hillcrest,Detached,Unfurnished,1453,2,2,1,55,4,25.0,0,0,451025.78
+West End,Apartment,Semi-furnished,783,1,2,1,47,0,1.0,0,1,234886.73
+West End,Apartment,Semi-furnished,2056,4,2,1,50,0,7.2,1,1,423167.77
+Riverside,Townhouse,Fully furnished,1398,2,1,1,12,1,34.7,0,1,441654.83
+Hillcrest,Detached,Unfurnished,1466,2,1,3,29,4,27.0,0,1,439771.16
+Oakwood,Apartment,Unfurnished,2621,5,5,1,2,0,1.7,0,0,774478.87
+West End,Detached,Unfurnished,1349,2,1,3,25,4,16.0,1,1,406370.51
+Downtown,Apartment,Unfurnished,2766,5,5,1,54,3,17.8,1,1,827788.89
+Downtown,Townhouse,Fully furnished,988,1,2,2,29,4,34.0,0,0,378181.38
+Riverside,Apartment,Unfurnished,2786,5,3,1,13,4,9.6,0,1,846642.94
+West End,Detached,Unfurnished,1026,2,1,1,49,0,18.2,1,0,264828.44
+Oakwood,Villa,Semi-furnished,3063,6,2,1,7,2,15.8,1,1,981366.84
+Greenfield,Townhouse,Fully furnished,2479,4,5,3,6,2,33.2,1,1,555702.33
+Greenfield,Apartment,Fully furnished,1724,3,3,1,54,2,2.8,1,0,423943.46
+West End,Apartment,Fully furnished,1642,4,4,1,57,2,5.2,1,1,461628.86
+Oakwood,Apartment,Semi-furnished,1300,2,2,1,22,3,7.3,1,0,381856.91
+Riverside,Detached,Unfurnished,1315,2,3,3,17,2,18.5,0,0,472565.57
+Hillcrest,Townhouse,Unfurnished,2824,5,4,3,27,0,19.9,1,0,759854.58
+Downtown,Detached,Semi-furnished,1914,4,3,2,27,3,30.5,1,0,710826.99
+Hillcrest,Detached,Semi-furnished,2265,4,4,1,11,4,24.8,1,1,726774.81
+Greenfield,Apartment,Fully furnished,2474,4,2,1,17,0,21.6,1,1,467459.44
+Downtown,Apartment,Fully furnished,2456,4,5,1,0,4,26.6,1,1,938045.02
+Downtown,Townhouse,Semi-furnished,1593,2,2,2,38,4,3.2,1,1,614549.38
+Hillcrest,Apartment,Semi-furnished,1230,2,1,1,50,2,1.6,1,1,390887.93
+Hillcrest,Apartment,Unfurnished,932,2,3,1,7,0,17.7,1,1,302967.19
+West End,Apartment,Fully furnished,2231,4,3,1,12,4,20.1,1,1,623831.45
+Oakwood,Detached,Fully furnished,2876,5,2,1,4,4,29.3,1,1,824905.15
+West End,Apartment,Fully furnished,2653,5,3,1,33,1,17.4,1,0,624139.92
+West End,Apartment,Semi-furnished,2565,5,2,1,29,0,24.1,1,1,631852.25
+Oakwood,Townhouse,Fully furnished,2029,3,2,1,46,1,5.7,0,0,543643.31
+Oakwood,Detached,Unfurnished,2115,5,5,2,9,2,2.1,0,0,707096.78
+Oakwood,Apartment,Semi-furnished,2076,4,5,1,36,4,0.9,1,0,610434.24
+Oakwood,Apartment,Fully furnished,1052,1,1,1,33,1,26.5,0,0,239916.91
+West End,Apartment,Fully furnished,2149,3,4,1,20,2,34.1,1,1,608053.26
+Oakwood,Apartment,Fully furnished,622,1,2,1,32,4,4.8,1,0,281902.66
+Downtown,Detached,Unfurnished,2354,5,1,1,51,3,29.1,0,0,700506.38
+Greenfield,Detached,Semi-furnished,419,1,2,1,40,2,26.6,0,1,166448.9
+Greenfield,Townhouse,Fully furnished,1586,3,4,2,29,2,20.7,1,0,400630.81
+West End,Detached,Unfurnished,2291,4,4,1,36,3,9.9,1,0,592662.26
+Riverside,Detached,Semi-furnished,466,1,1,1,54,4,20.9,1,1,219365.47
+West End,Detached,Unfurnished,1723,2,2,1,3,3,7.2,1,0,508826.62
+Hillcrest,Apartment,Semi-furnished,1004,2,1,1,20,4,27.2,0,1,282462.31
+Hillcrest,Townhouse,Semi-furnished,2513,5,1,1,56,4,19.6,1,0,722699.25
+West End,Apartment,Fully furnished,2345,4,4,1,30,4,2.3,0,0,611269.04
+Riverside,Detached,Unfurnished,2380,5,3,3,7,1,8.5,0,1,741807.63
+Hillcrest,Apartment,Semi-furnished,2080,3,2,1,9,4,22.1,0,1,599179.96
+Downtown,Detached,Semi-furnished,1981,5,2,2,37,3,1.1,0,0,739225.01
+Greenfield,Townhouse,Semi-furnished,1257,2,1,1,30,0,12.2,1,1,286899.46
+Downtown,Apartment,Semi-furnished,2336,5,4,1,19,2,17.7,1,0,760202.84
+West End,Apartment,Unfurnished,2412,4,2,1,16,4,21.8,1,0,581799.11
+Greenfield,Townhouse,Unfurnished,2607,4,3,1,27,3,1.0,1,0,609097.56
+Hillcrest,Detached,Unfurnished,809,1,2,3,52,4,32.5,1,0,326972.7
+Greenfield,Apartment,Unfurnished,1173,1,2,1,27,1,16.1,1,0,228849.34
+Greenfield,Apartment,Unfurnished,1887,4,5,1,18,2,14.5,0,0,403050.75
+Hillcrest,Townhouse,Semi-furnished,1993,4,4,3,6,0,8.5,1,1,639149.63
+West End,Detached,Semi-furnished,1818,3,2,1,16,0,7.3,0,0,503278.9
+Oakwood,Villa,Unfurnished,3287,6,2,1,54,2,19.8,1,1,939709.64
+Oakwood,Apartment,Fully furnished,1761,3,2,1,33,3,15.3,1,1,515489.52
+West End,Apartment,Unfurnished,2105,4,4,1,60,2,10.5,0,0,466634.96
+Hillcrest,Detached,Fully furnished,1474,1,2,1,25,1,26.2,1,0,469258.39
+Oakwood,Apartment,Semi-furnished,2105,3,4,1,13,3,14.1,1,1,567114.87
+Oakwood,Apartment,Semi-furnished,2082,5,4,1,35,1,15.9,1,1,532550.45
+Riverside,Townhouse,Semi-furnished,2174,3,4,3,4,1,30.0,1,0,696039.63
+Greenfield,Detached,Semi-furnished,1061,2,1,1,15,2,33.2,1,0,297033.82
+Oakwood,Apartment,Semi-furnished,2457,5,5,1,49,4,30.5,1,1,628122.57
+Greenfield,Detached,Semi-furnished,2506,5,1,2,18,1,22.7,0,1,478679.59
+Riverside,Detached,Unfurnished,2544,5,2,2,60,2,19.7,1,0,664778.61
+Greenfield,Apartment,Unfurnished,1591,3,2,1,45,1,14.1,0,1,280903.72
+Riverside,Townhouse,Unfurnished,1845,3,3,1,48,0,24.9,1,1,527979.51
+West End,Apartment,Unfurnished,1568,2,3,1,28,3,6.9,1,1,439267.61
+Riverside,Detached,Fully furnished,1421,3,4,2,53,2,30.5,1,0,496502.07
+Oakwood,Villa,Semi-furnished,1818,4,4,1,1,0,15.9,1,0,554225.97
+Hillcrest,Apartment,Unfurnished,1275,2,3,1,9,0,12.7,1,1,378140.62
+Greenfield,Apartment,Unfurnished,1405,3,1,1,5,3,8.0,1,0,308814.97
+Oakwood,Villa,Fully furnished,2225,3,2,3,4,2,34.6,0,0,716324.51
+Hillcrest,Detached,Semi-furnished,1978,2,3,3,0,2,21.1,1,1,676150.15
+Downtown,Detached,Fully furnished,1998,4,1,1,2,1,24.4,1,1,689301.21
+West End,Detached,Fully furnished,1468,2,1,2,45,1,2.4,0,0,420450.37
+Greenfield,Townhouse,Unfurnished,1095,2,1,2,44,0,16.1,1,0,236808.77
+Oakwood,Detached,Unfurnished,2867,4,3,1,37,0,15.4,1,1,703578.41
+Greenfield,Detached,Semi-furnished,2657,5,2,1,46,3,13.6,1,0,583514.04
+West End,Villa,Unfurnished,2858,5,3,2,12,3,14.8,1,1,798068.41
+Oakwood,Townhouse,Fully furnished,2794,5,1,2,33,1,1.7,1,1,771887.11
+Oakwood,Apartment,Semi-furnished,1187,2,3,1,13,0,18.8,1,1,317886.88
+Riverside,Townhouse,Semi-furnished,1278,3,2,2,24,0,4.2,1,1,496501.46
+Hillcrest,Detached,Fully furnished,2828,4,4,3,5,1,7.5,1,1,893824.66
+Oakwood,Apartment,Semi-furnished,2571,5,3,1,60,3,33.9,1,0,574859.68
+West End,Apartment,Semi-furnished,2350,4,3,1,32,0,5.8,1,0,560591.0
+Riverside,Villa,Semi-furnished,2585,5,3,1,7,3,20.8,1,0,1032170.49
+Downtown,Detached,Fully furnished,1852,3,3,3,34,3,23.5,1,1,657261.7
+Hillcrest,Apartment,Fully furnished,919,2,1,1,60,0,6.3,1,1,292557.53
+West End,Villa,Unfurnished,2634,5,4,3,5,3,32.0,1,1,807018.72
+Downtown,Apartment,Semi-furnished,1111,2,1,1,8,3,4.0,1,1,424715.5
+Hillcrest,Townhouse,Semi-furnished,2156,5,2,3,11,1,23.0,1,0,637379.76
+Oakwood,Detached,Unfurnished,3078,5,4,3,37,4,10.1,1,0,901127.73
+West End,Apartment,Unfurnished,1507,3,1,1,56,0,27.8,0,1,304423.13
+West End,Detached,Fully furnished,782,1,1,1,12,4,3.9,0,0,290034.02
+Riverside,Apartment,Unfurnished,1919,4,2,1,47,2,3.2,0,1,542785.34
+Oakwood,Detached,Unfurnished,2333,4,3,1,46,4,11.8,1,1,570652.32
+Downtown,Townhouse,Unfurnished,1018,1,2,2,8,1,30.2,1,1,390013.3
+Oakwood,Apartment,Fully furnished,1264,1,1,1,14,0,21.8,1,1,340538.67
+Hillcrest,Villa,Unfurnished,1799,3,3,3,23,3,16.4,1,0,700107.76
+Hillcrest,Villa,Semi-furnished,1655,3,1,1,47,3,17.6,1,1,602094.97
+West End,Detached,Unfurnished,1745,2,3,2,10,4,15.9,1,1,576437.19
+Oakwood,Townhouse,Fully furnished,1639,2,1,1,49,2,30.5,0,1,387830.77
+Downtown,Apartment,Semi-furnished,2790,4,2,1,13,1,27.4,0,1,853225.62
+Oakwood,Detached,Unfurnished,1137,3,4,3,23,4,2.1,1,1,471934.73
+Oakwood,Villa,Semi-furnished,1054,2,1,3,46,1,23.8,1,0,413334.71
+Downtown,Townhouse,Unfurnished,2316,5,4,1,36,3,22.3,1,0,769140.37
+Oakwood,Apartment,Fully furnished,2276,4,1,1,48,1,7.1,1,1,562132.48
+Oakwood,Detached,Unfurnished,2006,4,5,1,54,2,2.0,0,0,648796.83
+West End,Detached,Semi-furnished,941,1,1,2,36,0,2.7,0,0,285655.66
+Hillcrest,Detached,Semi-furnished,629,1,2,2,0,0,12.7,1,1,271595.79
+Downtown,Apartment,Fully furnished,1077,1,2,1,55,3,33.8,1,0,376364.86
+Downtown,Apartment,Semi-furnished,2641,4,1,1,11,4,34.5,1,0,876947.81
+Oakwood,Apartment,Unfurnished,2424,4,1,1,52,3,18.0,0,1,509783.98
+Greenfield,Apartment,Fully furnished,1322,1,2,1,4,0,5.4,1,1,317685.3
+Riverside,Detached,Semi-furnished,1761,3,1,2,15,2,5.8,0,0,605605.43
+Downtown,Villa,Unfurnished,2737,5,4,3,25,0,2.7,1,1,1085114.29
+Riverside,Detached,Unfurnished,2077,4,5,2,51,3,0.9,1,1,716403.86
+Oakwood,Detached,Fully furnished,1367,1,2,1,8,3,23.9,1,0,442857.62
+Riverside,Apartment,Unfurnished,1302,3,1,1,31,2,5.1,0,1,408546.14
+Greenfield,Villa,Unfurnished,1116,2,3,2,47,1,19.7,1,0,349858.79
+Downtown,Townhouse,Semi-furnished,1111,1,2,2,16,4,1.8,0,1,468582.61
+Riverside,Apartment,Unfurnished,1435,3,1,1,4,1,17.0,1,1,418995.52
+Hillcrest,Villa,Unfurnished,2846,5,2,1,19,2,25.0,0,0,889621.97
+West End,Detached,Unfurnished,990,1,1,2,40,2,10.0,1,1,313945.23
+Downtown,Townhouse,Semi-furnished,2414,4,1,1,28,1,20.5,1,1,822355.62
+Greenfield,Detached,Fully furnished,2033,5,3,1,1,0,11.5,1,0,477875.62
+Oakwood,Apartment,Unfurnished,1292,1,1,1,1,1,32.7,0,1,337101.63
+Oakwood,Apartment,Unfurnished,1601,2,1,1,44,0,11.2,1,1,378485.09
+Downtown,Detached,Fully furnished,2602,5,2,3,5,4,8.2,0,1,997132.48
+West End,Apartment,Semi-furnished,1464,3,2,1,20,2,10.6,1,1,384339.11
+Hillcrest,Apartment,Fully furnished,859,1,1,1,27,3,20.8,0,1,267411.28
+Greenfield,Apartment,Unfurnished,2819,5,1,1,12,2,19.8,1,0,504880.39
+Oakwood,Townhouse,Unfurnished,1152,1,1,3,36,0,11.9,1,0,319557.78
+Oakwood,Villa,Semi-furnished,1883,3,3,1,0,0,15.1,1,0,694953.12
+West End,Villa,Semi-furnished,1734,1,1,2,56,3,7.5,1,1,516137.89
+West End,Apartment,Fully furnished,2014,3,4,1,8,1,1.5,0,0,577676.07
+Greenfield,Detached,Semi-furnished,1088,1,1,2,32,4,31.8,0,0,279167.95
+West End,Apartment,Fully furnished,2022,5,3,1,48,3,18.1,1,1,480111.76
+Downtown,Detached,Fully furnished,1083,1,2,1,51,1,12.3,1,1,431107.24
+Oakwood,Apartment,Fully furnished,1827,3,4,1,53,2,19.9,1,0,459560.1
+Downtown,Townhouse,Unfurnished,1694,3,2,1,36,2,7.0,1,1,586883.84
+Riverside,Townhouse,Fully furnished,904,1,2,1,20,4,24.4,1,1,356324.38
+Downtown,Detached,Unfurnished,2472,5,2,3,1,0,16.1,0,1,887567.29
+Greenfield,Detached,Unfurnished,436,1,2,2,18,2,33.9,1,1,192678.47
+Oakwood,Detached,Unfurnished,1189,3,3,2,26,4,20.0,1,0,383373.66
+Hillcrest,Detached,Semi-furnished,2177,3,3,3,12,3,20.8,1,0,620644.04
+Oakwood,Detached,Semi-furnished,888,1,1,3,20,1,14.8,1,1,321604.19
+Hillcrest,Detached,Fully furnished,1658,1,2,2,49,3,10.1,0,0,469147.98
+Riverside,Villa,Unfurnished,2611,6,5,3,51,0,26.9,1,0,889294.28
+West End,Townhouse,Unfurnished,2025,4,3,3,6,4,29.4,1,1,566068.4
+Downtown,Apartment,Unfurnished,1911,3,3,1,43,3,20.9,1,1,588786.73
+Greenfield,Villa,Semi-furnished,1761,4,3,1,39,2,34.9,1,0,501706.42
+Oakwood,Detached,Fully furnished,1205,2,2,1,17,0,17.7,0,0,380235.75
+West End,Townhouse,Unfurnished,2379,4,1,3,17,4,30.2,1,0,599360.05
+Greenfield,Detached,Unfurnished,2210,5,1,3,27,1,13.9,0,1,488927.57
+Downtown,Detached,Semi-furnished,801,1,2,3,35,3,28.1,1,1,361509.33
+Hillcrest,Apartment,Semi-furnished,1419,3,4,1,14,4,2.0,0,0,483959.37
+Downtown,Villa,Semi-furnished,1415,2,2,1,7,0,8.1,0,1,603894.36
+Riverside,Apartment,Unfurnished,1397,2,1,1,13,1,21.7,0,0,379968.19
+Oakwood,Apartment,Semi-furnished,915,2,3,1,19,2,10.1,1,0,301511.81
+Oakwood,Villa,Unfurnished,2055,4,2,3,8,0,33.8,1,1,630711.93
+Downtown,Apartment,Semi-furnished,1232,3,4,1,16,4,10.0,1,0,470114.78
+West End,Apartment,Unfurnished,1778,4,4,1,14,1,30.1,1,1,457790.47
+Riverside,Apartment,Fully furnished,2349,4,2,1,30,0,30.8,1,1,665466.5
+Oakwood,Villa,Unfurnished,915,2,3,1,25,1,4.9,1,0,449119.57
+Hillcrest,Apartment,Fully furnished,1976,4,1,1,21,3,11.6,1,1,566235.76
+Downtown,Apartment,Unfurnished,1633,4,5,1,25,0,3.8,1,0,615509.82
+Oakwood,Apartment,Semi-furnished,1701,2,1,1,36,3,26.4,1,1,415491.72
+Oakwood,Townhouse,Fully furnished,400,1,2,3,25,2,2.6,1,1,266599.31
+Greenfield,Townhouse,Fully furnished,2844,5,4,1,46,4,26.5,0,0,587819.73
+Oakwood,Villa,Fully furnished,2514,5,3,2,34,2,15.4,0,0,715539.49
+Hillcrest,Apartment,Unfurnished,1684,3,3,1,33,4,20.3,1,1,506108.6
+Hillcrest,Apartment,Semi-furnished,1781,3,3,1,48,2,7.0,0,1,528204.86
+Riverside,Detached,Unfurnished,1294,2,1,3,18,2,3.4,1,1,488867.98
+West End,Townhouse,Unfurnished,1846,3,2,1,0,4,34.6,1,1,484254.18
+Downtown,Apartment,Unfurnished,1732,3,4,1,13,1,22.3,0,0,572643.05
+West End,Detached,Unfurnished,2445,3,4,2,42,3,26.7,0,1,637551.23
+Riverside,Apartment,Fully furnished,2252,5,2,1,32,0,4.9,1,0,639509.69
+Greenfield,Apartment,Semi-furnished,1457,2,3,1,9,0,22.9,0,1,294534.08
+Downtown,Apartment,Unfurnished,1085,1,1,1,19,1,5.9,1,0,380025.33
+Riverside,Detached,Fully furnished,2518,4,5,1,13,0,14.0,1,1,860605.66
+Oakwood,Detached,Unfurnished,2149,4,4,1,32,2,25.4,1,1,562659.3
+Greenfield,Detached,Semi-furnished,3333,5,4,2,47,2,10.5,1,0,657200.76
+Oakwood,Detached,Semi-furnished,1922,3,2,3,39,2,21.5,0,1,504767.05
+West End,Apartment,Unfurnished,2342,4,1,1,17,2,13.2,1,0,560492.14
+Oakwood,Townhouse,Fully furnished,2426,5,4,3,0,2,23.8,1,0,700699.3
+Downtown,Detached,Semi-furnished,400,1,1,3,28,0,7.5,1,1,234550.33
+West End,Apartment,Semi-furnished,1571,3,1,1,58,4,25.3,0,0,322238.65
+Riverside,Apartment,Fully furnished,2254,5,3,1,60,4,9.3,1,0,639526.31
+Greenfield,Villa,Fully furnished,1897,4,5,2,2,2,7.1,1,0,584880.53
+Downtown,Detached,Fully furnished,751,1,1,1,49,2,19.4,0,1,334872.55
+Greenfield,Townhouse,Fully furnished,2457,5,3,2,24,2,23.3,1,1,518441.24
+West End,Townhouse,Semi-furnished,1073,2,3,1,34,1,29.1,1,0,304545.29
+Greenfield,Townhouse,Semi-furnished,2228,3,3,1,4,1,22.9,1,1,468546.12
+Oakwood,Apartment,Unfurnished,2170,5,1,1,50,0,7.7,1,0,487705.16
+Hillcrest,Townhouse,Unfurnished,1489,2,3,3,43,0,21.0,0,0,431788.7
+Downtown,Townhouse,Fully furnished,1002,2,2,1,60,1,3.6,1,1,386277.99
+Oakwood,Apartment,Fully furnished,2212,4,5,1,60,2,3.1,1,1,603377.81
+Riverside,Townhouse,Semi-furnished,2476,5,4,2,26,0,8.6,1,1,790680.1
+Downtown,Villa,Fully furnished,1531,3,2,3,33,2,11.7,1,1,616113.88
+Downtown,Townhouse,Semi-furnished,1836,4,2,2,43,1,29.9,1,1,564363.14
+Downtown,Apartment,Unfurnished,1527,3,2,1,9,1,6.4,0,1,500404.87
+Riverside,Apartment,Fully furnished,1931,3,4,1,27,1,8.1,1,1,630402.71
+Greenfield,Villa,Semi-furnished,2608,5,3,2,36,2,18.1,1,0,610505.78
+Hillcrest,Apartment,Semi-furnished,1066,1,1,1,50,4,28.8,1,0,291616.15
+Oakwood,Villa,Unfurnished,2531,5,3,2,14,1,13.2,0,0,798372.21
+Riverside,Townhouse,Unfurnished,2085,3,3,3,11,1,14.1,0,0,611503.73
+Hillcrest,Apartment,Semi-furnished,1272,3,3,1,8,3,24.5,0,1,404888.27
+Riverside,Detached,Semi-furnished,2347,4,3,1,1,4,22.9,1,1,779232.4
+Riverside,Apartment,Semi-furnished,1035,2,1,1,44,2,32.4,1,0,303623.21
+Greenfield,Apartment,Unfurnished,688,1,2,1,46,2,8.1,1,0,189625.77
+Oakwood,Villa,Semi-furnished,2681,5,3,1,26,2,31.8,1,0,852039.58
+Riverside,Villa,Fully furnished,2132,3,3,2,50,4,17.8,0,1,688904.64
+Oakwood,Townhouse,Semi-furnished,2369,5,3,2,33,3,13.8,0,1,664899.11
+Hillcrest,Townhouse,Semi-furnished,1755,3,4,2,44,3,15.2,1,1,534275.23
+Downtown,Detached,Unfurnished,1668,3,4,3,38,1,1.7,1,1,643805.44
+West End,Apartment,Fully furnished,1030,1,2,1,4,2,19.1,1,1,315984.99
+Riverside,Apartment,Unfurnished,2007,3,4,1,41,2,18.6,1,0,555181.45
+Riverside,Detached,Semi-furnished,808,1,1,3,24,1,16.4,0,0,270746.67
+Riverside,Detached,Fully furnished,1600,2,1,2,33,4,31.5,0,1,514153.38
+West End,Townhouse,Unfurnished,1921,3,4,2,6,4,2.9,1,1,543412.5
+Hillcrest,Detached,Unfurnished,1648,3,4,1,56,0,6.5,1,1,516793.43
+Hillcrest,Apartment,Unfurnished,1281,1,2,1,55,3,2.6,1,1,362008.58
+Riverside,Townhouse,Unfurnished,1142,1,1,2,34,0,23.9,1,0,337550.45
+Oakwood,Apartment,Unfurnished,784,1,2,1,20,4,30.6,1,1,248905.5
+Oakwood,Villa,Fully furnished,1677,2,3,1,24,3,6.4,1,0,611349.38
+Downtown,Detached,Semi-furnished,2527,4,4,1,29,2,25.3,1,0,841066.62
+Hillcrest,Detached,Semi-furnished,678,1,1,2,9,0,29.7,1,1,251432.48
+West End,Villa,Unfurnished,2593,6,2,3,54,2,28.7,1,1,695413.3
+Oakwood,Detached,Unfurnished,2341,5,1,3,42,4,2.0,1,0,646606.36
+Riverside,Detached,Unfurnished,2153,5,1,1,37,3,31.4,1,0,616654.7
+West End,Detached,Fully furnished,2711,5,1,1,11,0,28.4,1,1,630100.91
+West End,Detached,Fully furnished,733,2,3,1,43,0,12.6,1,1,306275.29
+Riverside,Villa,Unfurnished,1794,3,1,2,53,3,28.8,1,0,619970.78
+Riverside,Detached,Semi-furnished,761,1,2,2,50,4,21.8,1,1,334449.36
+Riverside,Detached,Semi-furnished,1123,1,1,3,57,0,2.8,1,0,404971.79
+Hillcrest,Apartment,Fully furnished,2527,5,1,1,35,4,4.8,1,1,678240.05
+Downtown,Villa,Fully furnished,2962,6,4,3,31,2,6.8,1,0,1080398.8
+Oakwood,Detached,Semi-furnished,2824,5,5,3,42,2,8.9,1,0,820197.03
+Greenfield,Detached,Unfurnished,1952,3,1,3,35,2,15.4,1,1,423161.16
+Downtown,Detached,Fully furnished,1386,1,1,1,44,0,1.4,1,1,508023.64
+Hillcrest,Townhouse,Unfurnished,1093,1,2,2,18,2,25.3,1,1,348942.85
+Riverside,Detached,Semi-furnished,1467,3,1,2,37,0,5.9,0,0,512078.16
+Greenfield,Apartment,Semi-furnished,2016,3,2,1,55,2,13.5,0,1,398376.44
+Hillcrest,Apartment,Fully furnished,2221,4,4,1,38,1,18.9,1,1,607490.46
+Greenfield,Townhouse,Semi-furnished,1864,4,1,1,13,1,13.6,1,1,395893.69
+Riverside,Townhouse,Fully furnished,1029,1,2,3,6,1,20.1,0,1,392935.9
+West End,Townhouse,Fully furnished,1578,3,1,1,53,3,4.3,1,1,439667.95
+Riverside,Apartment,Semi-furnished,1078,3,1,1,51,3,23.3,1,1,329098.55
+Greenfield,Apartment,Semi-furnished,1946,3,3,1,50,3,11.8,0,1,388233.03
+West End,Detached,Fully furnished,1141,1,2,3,5,4,22.9,1,1,402132.62
+Riverside,Detached,Semi-furnished,2795,5,2,2,59,2,22.4,0,1,828680.82
+West End,Detached,Fully furnished,1492,2,1,1,46,2,29.8,0,1,402661.32
+West End,Townhouse,Fully furnished,2291,5,3,1,52,0,1.2,1,0,557509.76
+Downtown,Townhouse,Unfurnished,1303,1,2,2,23,3,20.8,1,0,429060.12
+Riverside,Apartment,Semi-furnished,1498,2,1,1,52,1,9.0,1,1,423348.71
+Greenfield,Detached,Fully furnished,1924,3,3,1,44,4,8.6,1,0,448615.8
+West End,Townhouse,Semi-furnished,1666,4,3,2,1,3,5.4,1,1,522551.38
+Hillcrest,Villa,Fully furnished,2280,5,3,2,16,3,9.2,0,1,765189.18
+Oakwood,Apartment,Fully furnished,2131,4,3,1,41,0,27.1,0,1,532949.34
+West End,Apartment,Unfurnished,2388,5,1,1,16,0,23.3,0,1,508706.1
+Hillcrest,Townhouse,Semi-furnished,1621,3,1,3,42,1,7.1,0,1,490380.3
+Hillcrest,Apartment,Fully furnished,2202,4,4,1,57,4,23.7,0,1,596667.05
+Hillcrest,Detached,Fully furnished,690,1,2,3,30,4,7.5,1,0,331970.5
+Riverside,Townhouse,Semi-furnished,485,1,1,2,20,4,23.0,1,1,252595.47
+Hillcrest,Apartment,Semi-furnished,1933,4,1,1,9,4,23.8,1,1,555180.65
+Riverside,Apartment,Unfurnished,1500,3,3,1,39,2,32.9,1,0,389822.38
+Riverside,Detached,Unfurnished,994,2,3,2,11,0,9.9,1,1,391662.6
+Greenfield,Apartment,Unfurnished,2384,4,5,1,20,0,8.1,1,1,495713.56
+Oakwood,Apartment,Unfurnished,1063,1,2,1,60,0,11.2,1,0,255522.39
+Oakwood,Apartment,Fully furnished,1217,1,2,1,25,2,4.2,1,1,374162.51
+Greenfield,Townhouse,Semi-furnished,2650,5,1,1,6,2,12.2,0,1,569101.11
+Greenfield,Townhouse,Unfurnished,2486,5,1,1,40,3,4.3,1,1,525079.67
+Oakwood,Detached,Unfurnished,1753,4,4,3,1,1,30.1,0,1,488034.76
+Oakwood,Detached,Semi-furnished,2031,4,5,2,40,2,17.0,1,0,611561.03
+Hillcrest,Townhouse,Fully furnished,1659,3,4,2,51,1,15.3,1,1,515134.21
+Downtown,Apartment,Unfurnished,1189,2,2,1,26,2,12.4,1,1,407692.88
+Riverside,Townhouse,Unfurnished,923,1,2,3,37,3,12.1,0,1,361012.89
+Greenfield,Townhouse,Fully furnished,2174,3,2,3,38,1,26.2,1,1,453192.77
+Hillcrest,Detached,Unfurnished,2225,3,1,2,47,1,3.0,1,1,577266.42
+Oakwood,Apartment,Semi-furnished,2637,5,5,1,11,0,17.1,0,1,676795.54
+West End,Apartment,Semi-furnished,2544,5,5,1,56,4,32.3,1,1,597092.64
+West End,Detached,Unfurnished,2249,4,4,1,2,3,0.7,1,1,673693.88
+Oakwood,Townhouse,Unfurnished,1609,3,1,3,39,2,34.9,0,0,421828.35
+Hillcrest,Townhouse,Semi-furnished,2521,5,4,3,8,3,1.1,1,0,834658.13
+Oakwood,Apartment,Semi-furnished,2243,5,1,1,41,4,15.6,1,1,549486.32
+Greenfield,Detached,Semi-furnished,2495,5,4,3,36,2,20.5,1,0,548080.52
+Oakwood,Townhouse,Fully furnished,2852,5,1,1,44,2,19.6,0,1,721845.09
+West End,Detached,Semi-furnished,2452,5,3,3,10,4,27.6,0,0,647305.62
+Downtown,Detached,Semi-furnished,2029,4,1,1,54,0,4.7,1,0,648145.0
+Downtown,Apartment,Semi-furnished,2039,4,3,1,0,1,23.1,1,0,769684.32
+Downtown,Detached,Fully furnished,868,1,2,3,5,0,16.5,1,1,401444.5
+Greenfield,Villa,Fully furnished,2200,4,2,1,52,3,10.6,1,1,571254.88
+Downtown,Townhouse,Semi-furnished,2209,3,1,1,35,3,19.6,1,0,711462.75
+Hillcrest,Apartment,Semi-furnished,1627,2,3,1,36,1,30.2,0,1,454262.39
+Hillcrest,Villa,Semi-furnished,1614,3,2,1,28,2,24.4,1,1,570539.11
+Riverside,Villa,Unfurnished,2893,5,4,2,17,4,30.8,0,0,958546.96
+West End,Detached,Unfurnished,400,1,1,1,13,2,33.0,1,0,182308.68
+Oakwood,Villa,Fully furnished,877,1,1,3,16,2,16.9,1,1,447043.3
+Riverside,Apartment,Fully furnished,2148,4,3,1,46,3,9.2,1,1,572615.12
+Hillcrest,Detached,Unfurnished,1744,4,3,1,23,0,34.4,1,0,500782.58
+West End,Detached,Fully furnished,2909,5,4,2,13,1,8.7,0,1,731489.72
+Oakwood,Apartment,Unfurnished,2886,5,1,1,22,1,6.0,1,1,679432.32
+Oakwood,Townhouse,Semi-furnished,1046,1,1,1,37,3,2.9,1,0,325022.37
+West End,Townhouse,Fully furnished,459,1,1,3,49,1,31.9,1,1,198165.46
+Riverside,Townhouse,Unfurnished,1038,2,2,2,12,4,0.7,0,0,396116.28
+Downtown,Detached,Semi-furnished,1165,2,1,3,28,4,21.7,1,0,474298.79
+West End,Apartment,Semi-furnished,772,1,2,1,26,3,24.7,1,1,238324.38
+Downtown,Detached,Fully furnished,1050,2,3,1,52,2,21.2,1,0,384870.86
+Oakwood,Detached,Semi-furnished,1761,3,3,1,37,3,11.6,1,1,537643.77
+Hillcrest,Apartment,Unfurnished,2245,5,4,1,32,1,31.4,1,0,591932.87
+Downtown,Apartment,Unfurnished,1342,2,1,1,19,2,35.0,1,0,428755.61
+West End,Apartment,Unfurnished,2294,5,5,1,25,3,28.7,1,1,578402.18
+Hillcrest,Apartment,Unfurnished,2233,4,3,1,10,4,5.5,0,1,715218.55
+Downtown,Apartment,Semi-furnished,1526,2,1,1,30,2,16.1,1,0,509081.71
+Oakwood,Apartment,Unfurnished,1880,3,1,1,21,4,20.6,1,1,477225.68
+Downtown,Detached,Fully furnished,1399,3,4,2,50,1,26.7,1,1,468840.77
+Oakwood,Detached,Fully furnished,911,1,2,2,50,4,19.9,1,1,325337.51
+Greenfield,Townhouse,Fully furnished,2659,5,5,1,35,2,6.4,1,0,579358.25
+Hillcrest,Apartment,Fully furnished,1171,1,2,1,49,3,18.0,1,1,344262.9
+Downtown,Detached,Unfurnished,2195,4,3,2,26,0,32.1,0,1,753335.07
+West End,Townhouse,Unfurnished,1289,2,2,3,32,0,8.3,0,0,351485.53
+Downtown,Townhouse,Fully furnished,2017,4,5,1,50,0,17.2,0,1,690690.89
+Downtown,Townhouse,Semi-furnished,1220,1,2,1,21,0,20.8,1,1,402268.79
+Riverside,Villa,Fully furnished,1899,4,1,2,39,1,13.1,0,1,631831.81
+West End,Detached,Fully furnished,2247,4,4,3,45,0,7.1,1,1,608561.93
+Downtown,Detached,Unfurnished,1719,3,2,1,41,1,30.4,1,1,581093.79
+Riverside,Detached,Unfurnished,2051,3,1,3,10,3,34.1,1,1,664021.89
+Hillcrest,Detached,Semi-furnished,2787,5,2,3,10,1,6.4,1,1,877275.91
+Downtown,Apartment,Fully furnished,467,1,2,1,27,0,31.9,1,1,197917.65
+West End,Apartment,Semi-furnished,1517,1,1,1,7,1,3.9,1,1,423356.98
+Hillcrest,Apartment,Fully furnished,1119,1,1,1,11,4,32.1,1,1,355432.75
+West End,Apartment,Semi-furnished,2293,4,2,1,6,3,5.3,1,1,612807.87
+Hillcrest,Detached,Fully furnished,1567,3,1,2,33,0,17.0,1,1,468660.13
+Greenfield,Detached,Semi-furnished,1327,3,4,2,25,4,7.2,1,0,418316.0
+Hillcrest,Townhouse,Unfurnished,2852,5,2,1,54,4,17.4,0,0,665939.09
+Hillcrest,Detached,Fully furnished,1723,3,2,3,35,4,6.6,0,0,557787.75
+Hillcrest,Townhouse,Semi-furnished,3002,5,5,1,10,3,11.1,1,1,945706.51
+West End,Detached,Fully furnished,1264,2,3,3,35,1,8.8,1,1,452213.97
+Downtown,Detached,Unfurnished,2107,4,3,2,21,3,10.7,1,1,792978.89
+Hillcrest,Apartment,Unfurnished,2580,5,2,1,42,1,1.9,0,1,708025.02
+Oakwood,Apartment,Semi-furnished,1801,4,4,1,21,0,5.6,1,0,481085.86
+Downtown,Townhouse,Unfurnished,1298,3,4,1,15,2,12.8,0,0,479298.72
+Riverside,Apartment,Fully furnished,2330,5,5,1,20,3,20.6,1,1,675238.46
+Greenfield,Detached,Semi-furnished,2238,4,4,1,25,3,23.0,0,0,468104.2
+West End,Townhouse,Unfurnished,1954,4,2,2,39,0,5.4,0,0,491284.96
+Riverside,Detached,Semi-furnished,2005,3,1,3,36,0,1.5,1,0,616106.59
+Hillcrest,Apartment,Unfurnished,2608,4,4,1,35,4,24.5,0,1,633996.59
+Riverside,Detached,Fully furnished,2382,4,1,2,27,1,19.9,1,0,661446.65
+Downtown,Townhouse,Unfurnished,2020,3,2,1,22,3,24.0,1,1,666962.25
+Downtown,Detached,Unfurnished,862,2,3,1,9,3,28.7,1,0,368920.12
+West End,Detached,Semi-furnished,1004,1,1,2,7,4,12.7,1,1,351067.59
+Downtown,Apartment,Unfurnished,2661,5,5,1,56,4,32.5,1,1,863001.78
+Greenfield,Detached,Fully furnished,1668,2,2,1,5,2,7.5,0,1,438273.65
+Oakwood,Detached,Unfurnished,2009,5,1,3,29,1,12.6,1,1,569362.82
+Greenfield,Detached,Semi-furnished,1481,3,3,3,56,3,6.6,1,1,437269.83
+West End,Apartment,Unfurnished,2379,4,1,1,6,1,28.4,0,1,539321.53
+Greenfield,Detached,Fully furnished,537,1,2,1,47,1,4.9,1,1,260560.74
+Greenfield,Villa,Semi-furnished,2548,5,1,2,21,4,31.0,0,0,591696.74
+West End,Detached,Fully furnished,1791,3,3,1,54,1,30.2,1,0,482612.75
+Riverside,Apartment,Semi-furnished,1535,3,2,1,38,2,22.1,0,1,430806.33
+Downtown,Townhouse,Semi-furnished,2893,5,4,2,6,3,16.6,1,1,970218.44
+West End,Apartment,Semi-furnished,1319,1,1,1,8,3,9.1,1,0,358583.25
+Hillcrest,Townhouse,Fully furnished,2713,5,1,1,53,4,29.5,1,1,670445.89
+Oakwood,Detached,Unfurnished,2033,3,2,2,22,3,33.7,1,0,602449.28
+Downtown,Apartment,Fully furnished,1249,3,1,1,59,3,16.2,1,1,434425.11
+West End,Detached,Semi-furnished,1070,1,1,3,34,1,5.6,0,1,320113.46
+Greenfield,Apartment,Fully furnished,2835,5,5,1,37,3,7.2,0,1,600789.41
+Downtown,Townhouse,Fully furnished,1493,2,3,1,7,0,23.8,0,0,572031.27
+West End,Townhouse,Unfurnished,1782,2,3,3,27,4,10.7,1,0,503972.91
+West End,Detached,Semi-furnished,1244,2,2,3,34,1,32.1,1,0,386288.31
+Hillcrest,Apartment,Semi-furnished,1576,3,2,1,54,2,19.7,1,0,389060.3
+Riverside,Apartment,Semi-furnished,2317,4,3,1,43,4,22.1,1,1,682527.93
+Hillcrest,Apartment,Semi-furnished,1927,4,4,1,27,2,21.7,1,0,561421.54
+West End,Apartment,Unfurnished,2332,4,4,1,18,3,15.0,1,1,563307.29
+West End,Detached,Unfurnished,946,2,2,1,10,1,27.5,1,0,315339.1
+Greenfield,Detached,Fully furnished,2435,5,1,1,11,4,15.8,1,1,595031.9
+Hillcrest,Villa,Fully furnished,1245,2,3,3,47,3,1.0,1,1,546553.63
+Oakwood,Detached,Fully furnished,2596,5,2,2,40,3,21.7,0,1,664984.48
+Riverside,Villa,Semi-furnished,1792,4,3,1,17,3,30.4,1,1,653798.37
+Oakwood,Townhouse,Fully furnished,2706,5,1,2,11,4,31.3,1,1,740369.88
+West End,Detached,Fully furnished,3246,5,1,1,35,4,2.4,0,1,779703.42
+Hillcrest,Detached,Fully furnished,2372,4,3,3,55,2,2.5,1,0,722819.07
+Riverside,Detached,Unfurnished,2658,5,4,1,31,4,3.9,1,0,830727.06
+Hillcrest,Apartment,Fully furnished,1852,4,5,1,47,4,11.6,0,1,561111.73
+West End,Villa,Fully furnished,950,1,2,3,9,2,21.6,1,0,408486.35
+Riverside,Detached,Semi-furnished,2194,4,5,3,22,3,6.8,0,0,779090.61
+Downtown,Apartment,Unfurnished,2101,4,2,1,20,3,21.5,1,1,631215.55
+Downtown,Apartment,Semi-furnished,2242,4,1,1,20,3,16.7,1,1,664871.38
+Hillcrest,Townhouse,Unfurnished,2812,5,4,1,53,4,18.7,1,1,762468.09
+Greenfield,Detached,Unfurnished,2199,3,4,1,52,4,30.4,1,0,466768.36
+Oakwood,Detached,Fully furnished,2347,4,5,3,50,0,5.1,1,0,676095.32
+West End,Villa,Fully furnished,2055,4,3,2,54,2,26.7,1,1,591411.78
+West End,Detached,Semi-furnished,2238,4,5,2,46,4,3.1,1,0,656924.07
+West End,Townhouse,Semi-furnished,2660,4,3,1,19,2,29.7,0,1,690204.07
+Greenfield,Apartment,Semi-furnished,2217,3,3,1,21,2,23.6,1,1,446336.93
+Greenfield,Detached,Semi-furnished,772,2,1,3,31,4,7.3,1,1,299888.45
+West End,Townhouse,Fully furnished,1486,3,1,3,53,1,27.6,0,0,362080.46
+Downtown,Apartment,Semi-furnished,2000,3,1,1,51,2,19.6,1,0,582798.16
+West End,Detached,Fully furnished,1977,4,4,2,20,1,25.2,1,1,576587.22
+West End,Apartment,Semi-furnished,1475,2,2,1,9,0,21.5,1,0,366331.45
+Riverside,Apartment,Semi-furnished,780,2,2,1,47,1,2.0,1,1,301108.85
+Hillcrest,Villa,Semi-furnished,936,1,2,2,32,4,27.3,1,0,427674.33
+Downtown,Apartment,Fully furnished,1192,2,3,1,42,0,16.5,0,0,409045.07
+Greenfield,Apartment,Semi-furnished,2440,4,1,1,34,0,9.9,1,0,423939.46
+West End,Detached,Unfurnished,1798,4,5,2,28,3,26.3,1,0,503495.67
+West End,Detached,Semi-furnished,2426,5,4,3,6,4,11.2,1,1,730688.38
+Riverside,Apartment,Unfurnished,1578,3,2,1,58,4,21.0,1,0,411267.51
+Greenfield,Apartment,Fully furnished,586,1,1,1,32,1,12.5,1,1,167360.42
+West End,Townhouse,Fully furnished,1412,2,2,1,4,2,11.2,1,1,400896.25
+Downtown,Detached,Semi-furnished,1180,2,1,1,8,1,28.1,1,1,458777.25
+West End,Villa,Semi-furnished,1074,2,3,3,46,1,6.0,1,1,449588.84
+Riverside,Townhouse,Semi-furnished,2954,5,4,3,34,0,33.3,1,1,791360.55
+Oakwood,Villa,Semi-furnished,1928,3,4,1,22,3,28.6,0,0,602884.87
+Downtown,Detached,Semi-furnished,699,1,2,1,8,2,30.0,0,0,315902.86
+West End,Detached,Unfurnished,2556,5,1,2,7,3,5.9,0,0,717566.17
+Oakwood,Villa,Unfurnished,2953,6,4,1,7,4,5.7,1,0,932725.77
+Hillcrest,Townhouse,Fully furnished,1429,1,1,3,60,1,32.0,1,1,404989.53
+Oakwood,Apartment,Semi-furnished,1664,3,4,1,47,4,3.8,1,1,475442.58
+Downtown,Detached,Fully furnished,1766,3,4,1,22,0,20.2,0,0,645935.24
+Downtown,Townhouse,Fully furnished,1222,2,1,3,20,4,17.3,1,1,494816.85
+Oakwood,Apartment,Fully furnished,2698,5,3,1,0,0,18.6,1,1,695792.35
+Downtown,Apartment,Unfurnished,2721,5,1,1,2,3,3.8,0,1,973182.53
+Hillcrest,Detached,Unfurnished,1583,2,3,1,3,3,34.0,1,1,535606.03
+West End,Detached,Fully furnished,1034,2,1,3,12,2,29.3,1,0,377042.77
+Downtown,Townhouse,Semi-furnished,646,1,2,2,31,1,33.3,1,0,264205.17
+Riverside,Apartment,Semi-furnished,1711,3,4,1,14,0,24.2,1,1,561095.58
+Oakwood,Apartment,Unfurnished,2747,5,1,1,2,0,22.6,0,1,659256.81
+Riverside,Apartment,Unfurnished,1358,2,3,1,52,0,7.0,1,1,393573.97
+Oakwood,Detached,Fully furnished,2115,4,4,3,19,3,25.8,0,0,604340.55
+Hillcrest,Townhouse,Unfurnished,1487,2,1,1,31,0,32.6,1,0,362479.83
+Downtown,Detached,Semi-furnished,1263,2,3,2,36,3,12.4,1,0,517137.97
+West End,Townhouse,Semi-furnished,673,2,3,2,32,3,13.3,1,1,270000.79
+Oakwood,Detached,Fully furnished,1903,4,4,1,44,0,9.6,1,0,581435.41
+Riverside,Apartment,Semi-furnished,1102,1,2,1,29,0,27.7,1,1,349950.3
+Downtown,Townhouse,Fully furnished,1890,3,2,2,17,0,14.2,1,1,644997.16
+Greenfield,Apartment,Fully furnished,1735,3,3,1,38,2,5.9,1,0,368978.52
+Riverside,Townhouse,Unfurnished,1336,3,2,1,34,0,18.1,1,1,394523.24
+Riverside,Townhouse,Fully furnished,1093,3,2,3,58,4,12.6,1,1,429508.78
+Riverside,Detached,Unfurnished,1771,3,3,1,10,2,27.8,1,1,622338.12
+West End,Detached,Semi-furnished,2459,5,2,2,11,1,12.8,0,0,637310.77
+Oakwood,Apartment,Semi-furnished,2348,5,3,1,5,4,2.4,0,1,739956.18
+Downtown,Apartment,Fully furnished,734,1,2,1,10,0,8.1,1,1,305028.46
+Oakwood,Detached,Unfurnished,2267,4,2,1,45,2,27.1,1,1,610917.85
+Hillcrest,Detached,Semi-furnished,2253,5,4,2,16,1,25.3,0,0,740219.72
+Hillcrest,Apartment,Fully furnished,743,1,2,1,57,3,33.8,1,1,243302.32
+Riverside,Apartment,Semi-furnished,959,2,3,1,4,3,12.6,0,1,336114.33
+Hillcrest,Villa,Semi-furnished,2791,6,1,1,30,0,24.9,1,0,715996.3
+Riverside,Detached,Fully furnished,772,2,1,1,22,0,20.5,1,1,324337.01
+Hillcrest,Villa,Semi-furnished,559,2,2,3,45,4,15.2,1,1,374979.39
+West End,Villa,Fully furnished,3450,6,1,3,25,1,33.4,0,1,911797.25
+West End,Detached,Unfurnished,2091,4,5,2,26,3,17.7,1,0,589535.4
+Hillcrest,Townhouse,Fully furnished,1655,3,1,2,26,0,12.9,1,1,484308.77
+Hillcrest,Detached,Fully furnished,1534,3,4,1,59,1,10.3,1,1,500824.89
+Riverside,Townhouse,Semi-furnished,1705,2,2,3,22,3,6.5,0,1,570166.16
+Greenfield,Villa,Unfurnished,1674,3,1,2,38,4,5.1,1,0,472149.67
+Oakwood,Detached,Unfurnished,721,1,2,3,19,1,18.6,1,0,286305.6
+Downtown,Apartment,Semi-furnished,2217,3,3,1,25,0,15.5,0,1,698342.18
+Greenfield,Townhouse,Semi-furnished,1293,2,1,2,42,0,18.7,1,0,263560.06
+Hillcrest,Apartment,Unfurnished,1186,1,1,1,24,4,14.7,1,1,354454.64
+West End,Townhouse,Unfurnished,1918,3,1,2,53,4,17.6,0,0,453785.03
+West End,Apartment,Unfurnished,511,1,1,1,31,2,26.7,1,1,155050.87
+Greenfield,Apartment,Unfurnished,969,2,3,1,44,2,18.1,0,1,224218.18
+Greenfield,Detached,Unfurnished,1827,4,2,2,52,1,25.9,0,0,360598.29
+Downtown,Villa,Fully furnished,2472,4,4,2,0,0,15.1,1,1,989193.05
+Greenfield,Townhouse,Fully furnished,2823,5,5,1,59,3,9.3,1,1,663101.87
+Oakwood,Detached,Unfurnished,1357,2,1,3,19,4,15.7,1,1,407178.4
+Downtown,Villa,Fully furnished,1221,1,1,2,53,4,1.9,0,1,544066.27
+Hillcrest,Detached,Unfurnished,1889,3,1,1,12,3,16.7,0,0,600153.31
+Downtown,Townhouse,Unfurnished,1075,1,2,2,2,4,12.3,0,1,432964.43
+Downtown,Apartment,Fully furnished,2189,3,2,1,16,1,2.2,1,1,838916.22
+Hillcrest,Townhouse,Unfurnished,1750,3,4,3,11,1,18.4,1,0,517705.04
+Hillcrest,Detached,Unfurnished,1013,1,2,1,52,1,29.5,1,1,315369.64
+Oakwood,Apartment,Semi-furnished,3086,5,3,1,53,0,12.7,1,0,716206.12
+Hillcrest,Detached,Unfurnished,1743,4,4,2,45,4,18.9,1,0,531239.62
+Greenfield,Detached,Fully furnished,890,1,1,2,59,0,28.8,1,0,232505.93
+Oakwood,Apartment,Fully furnished,1889,3,3,1,0,4,18.2,1,0,586920.19
+Riverside,Villa,Semi-furnished,2897,5,4,2,54,1,14.1,1,1,908420.15
+Downtown,Apartment,Unfurnished,2856,5,4,1,37,4,4.2,1,0,912156.9
+Riverside,Townhouse,Semi-furnished,1324,1,1,3,7,1,29.9,1,1,431912.74
+Oakwood,Apartment,Fully furnished,1326,2,1,1,26,1,22.6,1,1,374641.92
+West End,Apartment,Fully furnished,1783,4,4,1,53,1,9.6,1,0,462113.53
+Downtown,Apartment,Semi-furnished,803,2,3,1,49,3,22.2,1,1,304120.42
+Hillcrest,Townhouse,Semi-furnished,3032,5,4,2,38,3,18.5,1,0,794396.19
+West End,Detached,Unfurnished,983,2,2,3,53,1,29.8,1,0,293755.25
+Hillcrest,Apartment,Unfurnished,2494,3,4,1,51,1,18.1,1,0,602585.91
+Oakwood,Villa,Unfurnished,1517,3,3,1,35,3,21.0,0,1,498122.87
+Hillcrest,Villa,Semi-furnished,2848,5,5,2,29,2,2.5,0,0,960330.69
+Downtown,Townhouse,Fully furnished,1208,2,2,1,34,2,22.0,0,1,421198.33
+Riverside,Townhouse,Unfurnished,1620,3,1,2,36,2,5.8,0,1,500935.12
+Downtown,Detached,Semi-furnished,1862,4,4,3,32,3,14.1,1,1,709897.24
+Oakwood,Townhouse,Fully furnished,743,1,1,1,16,0,20.4,0,1,261697.39
+Riverside,Apartment,Semi-furnished,2026,4,4,1,59,4,27.8,1,0,535707.21
+Riverside,Apartment,Semi-furnished,400,1,2,1,5,1,18.6,1,0,166232.46
+Oakwood,Detached,Semi-furnished,1526,2,2,3,51,0,31.0,1,1,440254.07
+Greenfield,Detached,Semi-furnished,1563,3,4,2,19,4,29.2,1,0,416393.09
+Downtown,Detached,Semi-furnished,913,2,3,2,3,2,14.1,1,1,415066.46
+Oakwood,Townhouse,Semi-furnished,1341,1,1,1,3,2,17.9,1,0,395494.02
+Riverside,Townhouse,Unfurnished,2659,5,4,1,40,2,19.7,0,1,730483.93
+West End,Apartment,Fully furnished,1582,3,2,1,18,2,31.0,0,1,416263.52
+Oakwood,Townhouse,Semi-furnished,2482,5,4,2,17,0,4.2,1,1,724070.56
+West End,Apartment,Fully furnished,737,1,1,1,59,4,17.4,1,0,217270.81
+Greenfield,Detached,Semi-furnished,1420,1,2,2,45,2,9.4,0,1,341016.68
+West End,Apartment,Fully furnished,1034,2,2,1,54,4,34.7,0,1,272862.85
+Greenfield,Apartment,Semi-furnished,2018,4,2,1,35,1,34.8,1,0,363367.68
+Hillcrest,Apartment,Semi-furnished,1099,1,1,1,10,1,4.4,1,0,323550.13
+Riverside,Townhouse,Unfurnished,1405,3,3,1,31,3,22.9,1,0,491366.68
+Riverside,Townhouse,Fully furnished,1709,3,1,1,57,0,23.9,1,1,474099.91
+Riverside,Townhouse,Semi-furnished,592,1,2,3,58,4,9.6,1,0,293729.74
+Oakwood,Apartment,Unfurnished,1418,2,3,1,12,0,32.5,1,0,333793.29
+Oakwood,Townhouse,Semi-furnished,906,2,3,3,4,2,26.2,0,0,304218.72
+Greenfield,Detached,Fully furnished,1072,2,2,2,45,0,31.1,1,0,278993.67
+Greenfield,Detached,Semi-furnished,1904,3,1,3,28,2,6.3,1,0,442659.78
+Oakwood,Villa,Fully furnished,2983,5,2,3,35,1,22.7,0,0,810518.45
+West End,Apartment,Semi-furnished,478,1,1,1,43,2,21.1,1,0,136254.32
+Hillcrest,Detached,Semi-furnished,1784,4,5,3,43,4,22.3,0,1,573090.98
+Downtown,Detached,Unfurnished,689,1,1,1,21,1,20.4,1,1,285039.55
+Riverside,Apartment,Fully furnished,1612,3,3,1,36,3,13.0,1,0,531239.3
+Greenfield,Detached,Semi-furnished,743,1,2,1,0,3,33.8,1,0,246083.47
+Hillcrest,Detached,Unfurnished,939,1,2,1,0,2,4.9,1,0,371212.33
+Greenfield,Detached,Semi-furnished,2206,4,5,3,54,4,26.1,0,0,490524.42
+Greenfield,Villa,Unfurnished,2231,5,3,1,3,1,18.7,1,0,568658.86
+Oakwood,Apartment,Unfurnished,2113,4,5,1,59,2,1.4,1,0,478054.86
+Greenfield,Townhouse,Unfurnished,1205,2,2,1,16,2,21.6,0,1,266144.25
+Riverside,Apartment,Unfurnished,1843,3,1,1,30,3,26.0,0,0,504458.69
+Downtown,Apartment,Fully furnished,1892,3,1,1,6,4,13.7,1,1,674242.25
+Hillcrest,Villa,Unfurnished,1044,2,1,3,26,0,13.7,0,1,419851.57
+Riverside,Apartment,Unfurnished,1674,3,4,1,0,0,13.5,0,0,502350.07
+Oakwood,Detached,Semi-furnished,1471,3,1,2,37,1,28.0,1,1,408622.9
+West End,Apartment,Semi-furnished,1420,2,3,1,15,4,7.7,1,0,452811.96
+Greenfield,Apartment,Fully furnished,1061,1,1,1,23,2,29.4,0,0,215643.64
+West End,Townhouse,Semi-furnished,891,2,2,3,0,4,9.3,1,1,345146.38
+Oakwood,Detached,Fully furnished,1097,1,2,2,26,0,20.7,1,1,361203.45
+Hillcrest,Villa,Semi-furnished,1897,4,2,3,14,1,14.3,1,0,722212.28
+Riverside,Villa,Semi-furnished,1768,2,3,1,51,4,16.0,1,1,627276.22
+Riverside,Townhouse,Fully furnished,1656,3,3,2,14,1,5.9,1,0,592844.41
+Oakwood,Detached,Semi-furnished,1174,1,2,3,21,3,21.2,1,0,363929.65
+Greenfield,Detached,Fully furnished,3101,5,5,2,52,4,7.2,1,0,645745.61
+Riverside,Detached,Semi-furnished,1524,3,1,3,20,3,18.9,1,1,553770.29
+Riverside,Detached,Unfurnished,577,1,2,1,0,1,34.1,0,1,244246.92
+Hillcrest,Detached,Fully furnished,1267,3,2,2,2,2,11.7,1,0,471727.12
+Riverside,Apartment,Unfurnished,2543,4,3,1,23,3,5.0,0,0,719832.85
+Hillcrest,Townhouse,Semi-furnished,1301,2,2,2,59,4,14.4,1,1,405408.47
+Oakwood,Townhouse,Semi-furnished,2001,4,5,3,59,3,2.9,1,0,594792.74
+Greenfield,Apartment,Fully furnished,1855,2,1,1,9,2,23.2,1,1,401442.48
+Downtown,Apartment,Fully furnished,2276,4,5,1,5,1,13.4,1,0,862994.85
+Riverside,Detached,Unfurnished,2357,5,3,3,34,0,24.8,0,1,628075.43
+Downtown,Apartment,Semi-furnished,2819,5,5,1,47,3,18.2,0,0,875096.61
+West End,Townhouse,Fully furnished,1213,1,1,3,21,0,29.0,1,1,330130.73
+Hillcrest,Apartment,Fully furnished,2538,5,2,1,22,4,30.2,0,1,739518.08
+Oakwood,Detached,Semi-furnished,1242,2,3,2,40,2,26.0,0,1,389910.75
+Greenfield,Villa,Unfurnished,1033,1,1,3,57,0,7.0,1,1,309749.1
+West End,Apartment,Unfurnished,1389,3,3,1,39,3,31.8,1,1,353265.57
+Downtown,Detached,Unfurnished,2440,5,3,3,27,0,27.7,1,1,811258.22
+West End,Townhouse,Fully furnished,1074,2,3,2,35,0,34.0,1,1,312676.16
+Hillcrest,Apartment,Semi-furnished,1586,3,2,1,49,3,33.9,1,1,435809.8
+Oakwood,Apartment,Semi-furnished,1374,1,2,1,17,3,31.6,1,1,378619.77
+Oakwood,Villa,Unfurnished,964,1,2,2,53,1,11.3,1,1,411662.7
+West End,Apartment,Fully furnished,1153,2,1,1,2,2,20.4,1,1,338298.72
+Riverside,Apartment,Fully furnished,746,1,1,1,40,3,31.5,0,1,255153.83
+Hillcrest,Detached,Unfurnished,569,1,1,3,30,1,19.0,0,1,225157.95
+Hillcrest,Apartment,Semi-furnished,2787,5,5,1,24,1,13.6,0,1,800766.34
+Oakwood,Detached,Unfurnished,1721,3,3,2,2,2,9.5,1,1,522812.84
+Hillcrest,Villa,Unfurnished,2724,6,3,2,36,4,19.0,1,1,842036.61
+Greenfield,Detached,Semi-furnished,2196,5,1,3,35,4,7.8,0,0,477200.79
+Downtown,Detached,Fully furnished,2176,3,2,3,7,4,3.8,1,1,883437.11
+Oakwood,Townhouse,Unfurnished,1000,1,2,3,60,2,21.2,0,0,267078.76
+Greenfield,Apartment,Unfurnished,2044,4,5,1,0,4,12.8,1,0,472876.03
+Greenfield,Detached,Fully furnished,2705,5,4,1,44,3,13.2,1,1,654919.39
+West End,Townhouse,Semi-furnished,1478,2,2,3,58,1,25.7,0,1,354264.67
+West End,Detached,Semi-furnished,1584,3,3,1,34,4,7.8,1,0,521822.74
+Downtown,Apartment,Semi-furnished,3047,5,5,1,49,2,18.5,1,1,908161.85
+Oakwood,Villa,Unfurnished,2149,4,3,1,46,1,27.8,1,1,616669.77
+Downtown,Villa,Unfurnished,910,1,1,3,5,0,26.2,1,1,435574.68
+Hillcrest,Apartment,Semi-furnished,529,1,2,1,34,0,18.9,0,0,165962.28
+Oakwood,Detached,Unfurnished,1258,1,2,3,33,1,24.6,0,1,409021.42
+Oakwood,Townhouse,Unfurnished,2504,4,4,1,33,1,6.3,1,1,693740.19
+Oakwood,Detached,Unfurnished,2285,4,2,3,6,3,14.0,1,1,725257.67
+West End,Detached,Semi-furnished,1766,3,1,1,28,4,22.9,0,0,459821.88
+Oakwood,Detached,Fully furnished,1635,2,1,3,0,1,23.7,1,1,536319.02
+Hillcrest,Apartment,Fully furnished,2304,5,3,1,19,1,32.0,1,1,608222.46
+Downtown,Villa,Semi-furnished,1312,2,3,1,8,4,22.9,0,1,567518.1
+Hillcrest,Apartment,Fully furnished,2519,5,5,1,39,0,13.2,1,0,696296.97
+Downtown,Detached,Fully furnished,1714,3,3,1,8,3,21.8,1,1,676292.28
+Hillcrest,Detached,Semi-furnished,2617,5,2,2,40,1,14.5,1,0,676214.48
+Greenfield,Townhouse,Fully furnished,1627,3,3,1,60,3,2.7,1,0,415077.85
+Downtown,Detached,Semi-furnished,2083,4,2,2,53,4,24.1,0,0,649399.31
+Riverside,Detached,Unfurnished,1741,3,1,3,25,1,33.2,0,1,505922.21
+Oakwood,Detached,Fully furnished,2059,3,4,3,22,0,17.6,0,0,560001.17
+Downtown,Apartment,Fully furnished,2541,4,5,1,37,3,9.3,1,1,889433.6
+Greenfield,Detached,Unfurnished,1683,4,5,2,32,4,7.9,0,0,451445.28
+Riverside,Detached,Fully furnished,1212,1,2,2,55,3,5.5,1,0,472785.68
+Hillcrest,Detached,Fully furnished,1285,4,3,1,10,3,14.4,1,1,499032.57
+West End,Villa,Semi-furnished,2452,6,3,3,40,3,29.9,1,0,644883.26
+Oakwood,Detached,Semi-furnished,1974,4,2,1,1,0,14.6,1,1,574276.87
+Riverside,Detached,Unfurnished,950,2,1,1,58,0,19.6,1,1,304721.29
+West End,Apartment,Unfurnished,1391,4,3,1,20,3,27.4,1,1,365065.97
+Oakwood,Apartment,Semi-furnished,1351,1,2,1,45,3,7.3,0,1,373059.41
+Oakwood,Detached,Semi-furnished,2185,5,2,2,16,4,5.7,1,1,647382.27
+West End,Detached,Unfurnished,1502,2,2,2,0,2,15.7,1,1,468293.2
+Downtown,Villa,Semi-furnished,1718,2,3,1,33,4,10.4,0,0,682309.51
+Riverside,Detached,Semi-furnished,2624,5,5,2,35,0,12.5,1,1,830055.53
+Downtown,Apartment,Fully furnished,2101,4,2,1,17,0,13.5,0,0,700417.07
+Greenfield,Apartment,Fully furnished,2001,4,1,1,18,3,7.4,0,1,455698.36
+Oakwood,Detached,Semi-furnished,1277,2,1,3,13,1,33.8,1,0,403026.31
+Hillcrest,Detached,Fully furnished,1138,2,1,2,48,2,25.9,1,0,376154.99
+West End,Apartment,Fully furnished,2403,5,1,1,53,1,8.2,1,0,567553.46
+Oakwood,Villa,Fully furnished,2923,6,1,3,35,3,9.1,1,1,868401.78
+Oakwood,Villa,Fully furnished,2023,4,4,2,37,2,9.2,0,1,668965.17
+Riverside,Apartment,Semi-furnished,1950,3,4,1,9,4,3.6,1,0,701508.51
+Greenfield,Apartment,Fully furnished,600,2,3,1,18,1,9.8,1,0,191974.68
+Hillcrest,Apartment,Unfurnished,934,1,2,1,27,1,19.4,0,0,255943.83
+Greenfield,Apartment,Fully furnished,2389,4,4,1,17,1,26.1,1,1,496455.62
+Hillcrest,Townhouse,Unfurnished,510,1,2,1,1,4,20.8,1,1,243900.51
+Hillcrest,Apartment,Semi-furnished,864,2,2,1,33,0,27.3,0,0,233528.57
+Oakwood,Townhouse,Fully furnished,1099,1,2,3,40,1,8.1,0,0,340832.86
+Riverside,Villa,Semi-furnished,1625,3,1,3,23,3,20.7,1,0,587668.76
+Oakwood,Detached,Semi-furnished,1093,2,3,3,30,4,21.8,0,1,371227.04
+Riverside,Villa,Fully furnished,1023,1,1,2,53,4,34.3,0,1,450376.95
+Riverside,Detached,Unfurnished,1443,3,3,2,57,2,7.2,1,1,489578.84
+Hillcrest,Detached,Unfurnished,2289,4,2,3,4,3,22.0,1,1,732223.66
+Downtown,Detached,Unfurnished,1342,2,3,1,30,2,32.7,1,1,503858.5
+Riverside,Detached,Fully furnished,2167,4,4,1,3,3,23.9,1,1,787192.18
+Riverside,Apartment,Fully furnished,2894,5,2,1,15,4,6.0,0,1,840433.56
+Greenfield,Apartment,Semi-furnished,967,1,1,1,38,2,1.0,0,0,224794.79
+West End,Villa,Semi-furnished,2876,6,2,2,8,4,34.1,0,1,870190.5
+Hillcrest,Villa,Fully furnished,2718,6,4,1,5,1,2.4,1,1,900570.69
+Riverside,Villa,Semi-furnished,1399,2,3,2,57,1,27.3,0,1,520811.73
+Downtown,Detached,Fully furnished,1051,1,2,2,43,0,13.0,1,1,424760.38
+Riverside,Townhouse,Unfurnished,2318,4,3,2,35,1,14.8,1,1,687181.33
+Hillcrest,Detached,Semi-furnished,957,2,3,1,36,3,20.0,1,1,331111.1
+Greenfield,Townhouse,Unfurnished,1988,3,4,1,34,0,29.5,1,0,415511.27
+Oakwood,Detached,Semi-furnished,1181,2,3,2,42,4,26.4,0,0,368810.27
+Downtown,Detached,Unfurnished,1365,3,2,1,34,4,8.5,1,0,555357.73
+West End,Apartment,Unfurnished,712,1,1,1,52,0,15.1,1,1,171725.98
+Hillcrest,Villa,Fully furnished,887,1,1,3,14,2,34.6,1,0,382360.45
+West End,Apartment,Unfurnished,1601,3,3,1,49,1,16.5,1,1,381980.57
+Downtown,Villa,Fully furnished,1526,2,2,1,27,0,16.1,0,1,578500.18
+West End,Detached,Unfurnished,1036,1,2,2,1,3,29.5,1,0,327589.1
+West End,Villa,Unfurnished,1284,2,1,3,45,4,12.0,1,0,445109.93
+West End,Detached,Semi-furnished,3036,5,4,3,57,0,15.0,1,0,677420.93
+Hillcrest,Villa,Unfurnished,2345,4,1,3,49,1,19.6,1,0,633180.04
+Oakwood,Apartment,Fully furnished,1174,2,1,1,41,1,20.6,1,1,310472.88
+West End,Apartment,Semi-furnished,1803,3,3,1,41,2,22.0,0,0,390566.03
+Hillcrest,Apartment,Unfurnished,1238,2,2,1,34,2,8.2,1,0,348749.49
+Riverside,Villa,Fully furnished,2933,6,2,3,58,3,20.9,1,1,917790.34
+Greenfield,Detached,Fully furnished,2170,4,4,2,51,1,18.1,1,1,479594.38
+Greenfield,Townhouse,Fully furnished,1735,4,3,2,48,0,29.8,1,0,378537.35
+Downtown,Detached,Unfurnished,2050,3,4,1,57,1,34.3,1,0,636060.26
+Downtown,Townhouse,Fully furnished,1654,4,2,3,38,1,15.3,0,0,600221.69
+Riverside,Apartment,Semi-furnished,879,2,3,1,51,0,28.5,1,0,271114.13
+Downtown,Apartment,Unfurnished,2697,5,3,1,8,0,33.3,1,1,802131.88
+West End,Detached,Unfurnished,3009,5,5,3,60,4,23.6,1,1,735659.54
+West End,Villa,Unfurnished,1598,2,2,2,10,2,3.0,1,1,554673.44
+Downtown,Detached,Semi-furnished,1296,1,2,3,45,1,9.1,0,0,495925.23
+Greenfield,Apartment,Semi-furnished,1952,4,5,1,56,3,32.7,1,0,403921.52
+Hillcrest,Townhouse,Unfurnished,1889,2,1,3,44,4,13.3,1,0,503726.75
+Greenfield,Townhouse,Semi-furnished,1234,2,1,2,6,2,6.3,1,0,345473.08
+Downtown,Apartment,Fully furnished,2740,5,4,1,6,2,24.2,1,0,913954.9
+Downtown,Apartment,Fully furnished,1219,1,1,1,9,1,16.5,0,1,434300.22
+Riverside,Detached,Unfurnished,1899,4,2,3,54,1,1.6,1,1,597242.71
+Oakwood,Detached,Unfurnished,2761,5,4,1,59,0,2.7,0,0,646204.53
+West End,Detached,Unfurnished,1110,1,2,3,29,1,22.6,1,0,333506.3
+Riverside,Detached,Semi-furnished,2257,4,2,1,24,3,20.0,1,1,677202.93
+Downtown,Townhouse,Unfurnished,1221,2,2,1,1,0,31.7,0,0,443812.88
+West End,Detached,Unfurnished,1221,3,1,3,25,4,6.4,0,1,381040.86
+Downtown,Detached,Semi-furnished,2851,5,5,1,46,2,4.5,1,1,932993.54
+Hillcrest,Detached,Semi-furnished,1363,3,3,2,11,4,15.1,1,0,465339.69
+Oakwood,Townhouse,Semi-furnished,1674,3,1,1,59,1,15.3,1,0,427705.52
+Oakwood,Detached,Fully furnished,2019,3,2,1,40,2,34.4,0,1,563410.01
+Greenfield,Detached,Unfurnished,1480,3,4,3,50,1,25.1,0,0,359787.42
+Downtown,Detached,Semi-furnished,1428,3,3,1,17,4,30.1,1,1,591918.51
+Hillcrest,Detached,Semi-furnished,1456,3,3,1,20,1,27.8,1,0,457566.86
+Riverside,Apartment,Fully furnished,939,1,1,1,53,4,27.5,1,0,299014.18
+Riverside,Detached,Fully furnished,590,1,2,1,28,2,1.3,1,0,316716.98
+Hillcrest,Apartment,Semi-furnished,2362,5,1,1,30,0,33.4,0,0,588215.46
+Downtown,Villa,Semi-furnished,1786,3,3,2,51,1,17.9,1,1,684061.0
+Greenfield,Townhouse,Unfurnished,1476,2,1,3,48,0,8.5,0,1,295117.07
+Riverside,Detached,Semi-furnished,1069,1,1,2,50,3,27.2,0,0,365101.12
+Riverside,Detached,Unfurnished,1947,4,2,1,54,2,21.4,1,1,587632.05
+Hillcrest,Detached,Unfurnished,1215,2,1,3,47,3,21.2,1,1,396033.17
+West End,Villa,Fully furnished,1465,2,2,3,17,2,33.6,1,0,490726.2
+West End,Apartment,Unfurnished,2684,5,3,1,28,3,33.9,1,1,567305.66
+Oakwood,Detached,Unfurnished,1442,2,3,2,39,2,7.3,0,0,482458.21
+Greenfield,Villa,Semi-furnished,846,1,2,1,4,0,11.3,0,1,319960.22
+Downtown,Detached,Semi-furnished,2040,5,3,3,40,1,22.9,0,0,696028.68
+Greenfield,Detached,Fully furnished,657,1,2,3,55,4,8.9,0,1,276861.25
+Riverside,Townhouse,Fully furnished,2374,4,5,3,42,0,22.2,0,0,707113.64
+Oakwood,Townhouse,Unfurnished,2585,5,4,1,17,3,20.7,1,1,717823.31
+Downtown,Detached,Semi-furnished,1683,3,2,1,26,2,22.5,1,1,654980.82
+Oakwood,Apartment,Semi-furnished,1502,3,2,1,47,4,15.2,1,1,398057.81
+Riverside,Villa,Unfurnished,1156,2,2,2,58,1,9.5,1,1,473512.68
+Greenfield,Detached,Semi-furnished,2832,5,1,3,38,3,24.2,1,0,588137.89
+Riverside,Apartment,Unfurnished,2416,4,4,1,41,4,10.9,0,1,722132.73
+Riverside,Townhouse,Unfurnished,1744,3,2,1,28,0,9.5,1,1,526843.75
+Oakwood,Apartment,Unfurnished,1919,3,4,1,11,1,13.6,1,1,558491.05
+Riverside,Detached,Unfurnished,1504,2,1,3,59,2,12.4,1,1,454167.08
+Downtown,Townhouse,Semi-furnished,1802,3,2,1,56,4,3.1,1,1,634094.76
+Hillcrest,Detached,Fully furnished,1490,2,3,1,21,3,6.8,1,0,544736.22
+Riverside,Detached,Semi-furnished,2187,4,4,3,23,3,30.4,1,1,722243.16
+Greenfield,Apartment,Semi-furnished,1189,1,1,1,47,2,0.9,1,0,253825.19
+Riverside,Apartment,Semi-furnished,1838,3,2,1,14,0,19.5,1,1,575475.22
+Riverside,Townhouse,Semi-furnished,1768,3,1,2,2,0,25.3,1,0,515860.21
+Oakwood,Apartment,Semi-furnished,766,1,1,1,11,0,1.9,0,1,229133.54
+Riverside,Townhouse,Unfurnished,1979,4,3,3,41,1,13.0,1,1,595216.09
+Downtown,Townhouse,Semi-furnished,2705,5,4,3,32,3,27.6,1,1,882721.25
+Greenfield,Detached,Fully furnished,955,1,2,2,42,3,27.4,1,0,279378.02
+Hillcrest,Detached,Unfurnished,1316,2,3,3,14,1,6.2,1,1,503857.76
+Downtown,Apartment,Semi-furnished,833,1,1,1,40,3,28.0,0,0,271938.84
+Hillcrest,Villa,Unfurnished,878,1,2,3,4,3,16.0,0,0,382891.13
+Riverside,Detached,Fully furnished,1205,3,1,1,15,2,8.5,1,0,447399.05
+Hillcrest,Villa,Semi-furnished,2717,5,2,3,33,3,20.9,1,0,838247.8
+West End,Townhouse,Unfurnished,821,1,1,3,7,4,27.5,1,1,287758.86
+Riverside,Villa,Unfurnished,2661,6,5,3,21,2,33.2,1,0,886543.28
+Hillcrest,Detached,Semi-furnished,2156,4,5,1,24,3,26.0,0,0,692955.65
+West End,Apartment,Semi-furnished,2241,5,4,1,57,3,3.6,1,1,596338.61
+West End,Detached,Semi-furnished,2423,4,5,1,1,0,5.6,1,0,673266.47
+Downtown,Detached,Semi-furnished,1126,2,2,1,59,1,5.7,1,0,420942.11
+West End,Villa,Semi-furnished,1298,2,1,3,19,1,13.9,0,0,452823.11
+Riverside,Townhouse,Semi-furnished,1372,2,1,2,24,2,19.5,0,1,431924.43
+Oakwood,Townhouse,Semi-furnished,1080,1,2,3,36,0,25.4,0,0,296532.63
+Oakwood,Townhouse,Fully furnished,2038,4,1,1,36,4,1.7,0,0,595249.8
+Riverside,Townhouse,Fully furnished,1132,2,2,1,34,1,6.5,1,0,401061.0
+Riverside,Townhouse,Fully furnished,1616,2,3,3,24,0,15.8,1,1,538018.03
+Riverside,Townhouse,Fully furnished,2069,4,4,2,42,2,30.4,0,1,667919.79
+Riverside,Apartment,Unfurnished,1216,1,1,1,37,2,33.7,1,1,366433.12
+Greenfield,Apartment,Semi-furnished,1137,1,1,1,38,4,8.0,1,1,279048.09
+Hillcrest,Apartment,Fully furnished,948,1,1,1,16,3,24.5,1,0,292700.05
+Greenfield,Apartment,Unfurnished,1292,2,1,1,29,1,16.9,1,0,242575.59
+Hillcrest,Apartment,Unfurnished,1619,4,4,1,59,1,19.7,1,1,423562.03
+Greenfield,Townhouse,Semi-furnished,1936,4,5,2,52,4,29.0,1,1,455727.09
+Downtown,Villa,Fully furnished,869,1,2,3,47,2,22.5,0,0,394090.65
+West End,Apartment,Unfurnished,2634,5,5,1,7,1,6.7,1,1,669392.6
+Hillcrest,Villa,Semi-furnished,1342,1,2,1,59,3,30.6,1,1,481622.15
+West End,Detached,Semi-furnished,1194,1,2,1,52,3,16.0,1,0,345695.94
+Downtown,Villa,Fully furnished,660,1,2,1,23,3,28.7,1,0,403036.12
+Oakwood,Detached,Fully furnished,1685,3,1,2,1,4,3.2,1,0,584704.83
+Downtown,Villa,Semi-furnished,971,2,2,2,54,1,12.9,1,1,453588.95
+Greenfield,Detached,Unfurnished,827,2,1,1,28,1,34.7,1,1,215476.1
+Oakwood,Villa,Semi-furnished,2492,4,4,2,56,2,34.8,1,0,747173.04
+West End,Townhouse,Unfurnished,3091,5,1,3,22,3,21.1,1,1,786231.49
+Oakwood,Townhouse,Unfurnished,1809,4,4,1,45,2,28.7,1,1,481215.94
+Greenfield,Townhouse,Unfurnished,1863,3,4,1,53,0,9.7,0,1,362161.65
+Downtown,Detached,Unfurnished,920,1,2,3,13,0,21.2,1,1,368214.55
+Riverside,Townhouse,Semi-furnished,2751,5,5,2,15,3,25.7,1,1,926910.8
+Greenfield,Townhouse,Semi-furnished,2720,4,5,3,30,3,15.5,0,1,609430.03
+Hillcrest,Detached,Fully furnished,2348,4,4,2,48,4,30.2,0,1,708313.75
+Oakwood,Apartment,Unfurnished,983,2,2,1,2,3,20.8,1,0,302982.59
+Oakwood,Detached,Fully furnished,2047,4,2,2,26,0,8.4,1,1,655528.83
+Oakwood,Townhouse,Semi-furnished,1667,2,1,2,7,1,18.5,0,1,448294.88
+Oakwood,Townhouse,Unfurnished,766,1,1,1,24,0,30.4,1,0,224493.01
+Riverside,Detached,Unfurnished,1120,2,2,1,44,1,23.9,1,1,372185.52
+Riverside,Villa,Unfurnished,1151,1,1,2,47,1,15.2,1,1,412452.06
+Riverside,Villa,Semi-furnished,3010,5,3,3,23,3,16.5,1,1,1011354.2
+West End,Townhouse,Unfurnished,1392,2,1,1,14,1,17.7,1,0,367920.07
+Riverside,Apartment,Semi-furnished,1292,2,3,1,51,4,9.0,0,0,401242.14
+Greenfield,Apartment,Fully furnished,549,1,1,1,0,4,34.8,0,1,152466.99
+Hillcrest,Townhouse,Fully furnished,1186,2,1,3,59,4,27.2,0,1,361902.42
+Hillcrest,Detached,Unfurnished,2181,4,3,3,7,1,12.9,1,0,654022.73
+Downtown,Townhouse,Unfurnished,1300,2,2,1,58,1,16.7,1,0,383839.66
+West End,Apartment,Unfurnished,711,1,1,1,54,3,7.7,1,0,197051.09
+Greenfield,Townhouse,Fully furnished,1827,3,4,3,43,1,5.7,0,1,449793.3
+Oakwood,Detached,Unfurnished,2516,5,2,1,56,4,21.2,1,0,617705.56
+West End,Townhouse,Semi-furnished,2973,5,5,1,60,2,6.6,1,1,739718.11
+Downtown,Townhouse,Fully furnished,1563,3,1,1,6,4,3.3,1,1,699060.36
+Greenfield,Villa,Semi-furnished,708,1,2,1,48,4,8.9,1,1,352471.52
+West End,Villa,Fully furnished,2896,6,3,2,46,1,9.3,1,1,769623.32
+West End,Villa,Fully furnished,2667,5,2,1,5,0,10.2,1,0,810848.04
+Greenfield,Townhouse,Unfurnished,1465,3,4,1,53,3,2.1,1,0,385253.07
+West End,Detached,Unfurnished,1841,3,2,1,35,3,2.4,1,0,545055.69
+Greenfield,Detached,Fully furnished,2308,4,1,2,59,3,27.3,1,1,442430.93
+Downtown,Detached,Semi-furnished,400,1,1,1,39,2,2.9,1,1,271081.37
+West End,Detached,Fully furnished,1406,3,1,1,24,4,27.1,0,1,416777.42
+Greenfield,Villa,Unfurnished,2440,4,3,2,60,0,12.1,1,1,535346.8
+Hillcrest,Villa,Semi-furnished,1671,3,1,2,52,4,8.8,1,0,611070.96
+Greenfield,Detached,Semi-furnished,403,1,1,1,40,1,30.3,0,0,150913.76
+West End,Townhouse,Fully furnished,1977,4,4,2,18,3,4.9,0,0,547951.44
+Oakwood,Townhouse,Fully furnished,573,1,1,3,24,2,18.7,0,1,233770.9
+Oakwood,Apartment,Unfurnished,1586,3,2,1,36,2,15.7,1,0,372154.77
+Greenfield,Detached,Fully furnished,1331,2,2,2,11,2,26.5,1,1,367054.83
+Riverside,Villa,Unfurnished,1901,4,4,2,43,1,19.2,1,1,597329.19
+Riverside,Apartment,Semi-furnished,2750,5,4,1,48,0,5.2,1,1,696615.63
+Oakwood,Detached,Semi-furnished,2484,5,2,1,11,0,8.6,1,0,725465.18
+Hillcrest,Apartment,Fully furnished,1356,3,3,1,9,0,13.1,0,1,420075.6
+Downtown,Townhouse,Fully furnished,3208,5,4,2,21,4,22.5,0,1,1081519.64
+Downtown,Villa,Unfurnished,2041,4,4,3,26,4,20.9,1,1,772770.59
+Hillcrest,Apartment,Fully furnished,1632,4,5,1,27,3,22.3,1,0,511375.45
+West End,Detached,Semi-furnished,1658,4,1,1,4,0,15.6,1,0,446382.54
+West End,Villa,Fully furnished,3077,6,3,2,56,0,22.1,1,1,768211.02
+Hillcrest,Detached,Unfurnished,645,1,2,2,49,0,19.2,1,0,228787.3
+Downtown,Townhouse,Unfurnished,2025,5,3,3,14,3,34.5,0,1,727029.02
+Downtown,Detached,Semi-furnished,716,1,1,3,42,2,5.6,0,1,339505.94
+Downtown,Apartment,Semi-furnished,557,1,1,1,1,1,18.5,1,0,214814.65
+West End,Detached,Fully furnished,698,1,2,2,27,1,3.1,1,1,314574.24
+Greenfield,Townhouse,Unfurnished,1398,2,3,1,33,3,24.0,1,1,297221.77
+Riverside,Apartment,Fully furnished,679,1,2,1,50,1,11.8,1,0,241366.53
+Greenfield,Apartment,Semi-furnished,2081,4,1,1,55,4,17.2,1,1,402905.42
+West End,Townhouse,Fully furnished,1911,3,4,1,59,1,33.1,1,1,533549.35
+Riverside,Townhouse,Unfurnished,1888,4,5,3,38,2,2.3,1,1,692027.99
+Downtown,Detached,Fully furnished,1893,3,1,1,23,4,27.6,0,1,636287.72
+Greenfield,Villa,Unfurnished,1545,3,3,3,59,3,11.6,1,1,465085.37
+Greenfield,Detached,Fully furnished,1226,2,1,1,60,0,17.7,1,1,281448.82
+Hillcrest,Townhouse,Fully furnished,598,1,2,1,9,2,30.1,0,1,242405.29
+Greenfield,Townhouse,Semi-furnished,2610,5,4,2,36,1,3.1,0,0,569596.03
+Hillcrest,Detached,Semi-furnished,1478,3,2,2,56,2,14.4,1,0,478821.02
+Oakwood,Townhouse,Fully furnished,1612,3,3,2,57,4,5.4,1,0,468431.64
+Riverside,Apartment,Semi-furnished,476,1,1,1,3,0,2.5,1,1,226106.81
+Greenfield,Townhouse,Unfurnished,505,1,1,2,3,3,34.2,1,1,174865.26
+Oakwood,Villa,Semi-furnished,2283,5,4,3,35,4,30.2,0,1,668693.7
+Oakwood,Apartment,Unfurnished,2324,4,1,1,5,0,34.6,1,1,554056.33
+Greenfield,Detached,Fully furnished,867,1,1,2,37,3,10.8,1,0,289756.7
+Downtown,Detached,Unfurnished,742,1,2,1,20,3,18.1,1,0,323777.89
+West End,Detached,Fully furnished,1048,1,2,3,54,2,5.1,0,0,333245.55
+Greenfield,Detached,Fully furnished,400,1,2,2,52,0,30.9,1,0,182419.24
+Riverside,Townhouse,Fully furnished,870,1,2,3,39,1,3.4,1,0,346110.65
+Oakwood,Detached,Fully furnished,2466,3,1,1,14,3,28.6,1,1,687496.36
+Greenfield,Apartment,Semi-furnished,818,1,2,1,26,1,8.0,0,1,190187.87
+Oakwood,Apartment,Fully furnished,2808,5,1,1,12,3,10.4,1,1,775857.79
+Downtown,Detached,Fully furnished,1243,1,2,1,13,0,24.3,1,1,490806.77
+Greenfield,Townhouse,Semi-furnished,1432,2,3,2,20,4,1.4,1,1,419044.59
+Riverside,Detached,Semi-furnished,2417,5,5,3,27,0,2.1,0,1,862882.17
+Greenfield,Detached,Unfurnished,2021,3,1,1,58,3,0.8,1,1,475065.03
+Hillcrest,Villa,Semi-furnished,2254,3,3,3,11,4,7.7,1,0,806203.32
+Oakwood,Apartment,Semi-furnished,1551,2,3,1,15,3,6.0,1,1,486875.35
+Riverside,Townhouse,Unfurnished,2278,4,1,2,35,2,32.4,1,1,644160.35
+Downtown,Detached,Fully furnished,1133,2,1,3,2,4,23.2,1,1,480681.63
+Downtown,Detached,Fully furnished,3002,5,3,1,57,1,22.8,1,1,1017354.43
+Downtown,Detached,Semi-furnished,1947,3,4,1,55,0,17.9,1,0,618190.4
+Hillcrest,Detached,Unfurnished,2816,5,5,3,20,4,7.5,0,1,979789.93
+Riverside,Detached,Fully furnished,988,1,2,2,19,4,4.2,1,0,446581.77
+Hillcrest,Townhouse,Fully furnished,1380,2,2,2,21,0,7.6,1,0,461737.74
+Hillcrest,Apartment,Unfurnished,981,1,2,1,42,0,18.0,1,0,264028.86
+Greenfield,Apartment,Unfurnished,1441,2,3,1,8,1,27.0,0,0,257338.51
+Riverside,Detached,Fully furnished,1229,2,2,1,2,3,8.8,1,1,509882.49
+West End,Detached,Unfurnished,2776,5,5,2,37,2,5.1,1,1,810918.86
+Greenfield,Townhouse,Unfurnished,1368,3,1,2,0,2,13.4,1,1,329736.1
+Hillcrest,Apartment,Semi-furnished,1793,4,5,1,60,3,4.3,0,0,493009.22
+Greenfield,Apartment,Semi-furnished,1295,1,2,1,0,1,21.5,0,0,250359.77
+West End,Townhouse,Semi-furnished,1578,2,2,1,38,1,12.8,1,1,405247.01
+Downtown,Townhouse,Unfurnished,762,2,2,1,43,2,1.8,1,1,351184.95
+Riverside,Apartment,Semi-furnished,2037,5,3,1,19,0,2.0,1,0,695125.48
+Hillcrest,Detached,Fully furnished,2410,4,3,1,41,0,11.3,0,1,679488.18
+Riverside,Villa,Semi-furnished,1295,2,1,1,39,2,26.4,0,1,441866.05
+Oakwood,Detached,Unfurnished,2800,5,4,2,58,0,22.0,1,1,634279.73
+Oakwood,Detached,Unfurnished,1413,2,2,1,43,2,1.3,1,1,431841.57
+Oakwood,Apartment,Fully furnished,1728,1,2,1,23,2,31.0,1,0,441440.49
+Riverside,Villa,Unfurnished,2009,4,1,2,10,1,18.6,0,1,689178.99
+Downtown,Apartment,Unfurnished,2281,4,4,1,34,0,25.1,1,1,697259.49
+Greenfield,Villa,Fully furnished,712,1,2,2,42,4,6.1,1,0,347082.05
+Riverside,Detached,Fully furnished,892,1,1,3,45,0,5.3,1,0,363835.32
+Hillcrest,Villa,Unfurnished,3034,6,5,1,17,3,33.2,0,1,859725.69
+Oakwood,Townhouse,Semi-furnished,1355,2,2,3,0,2,19.2,1,1,467537.35
+Hillcrest,Apartment,Unfurnished,1293,2,1,1,23,0,0.9,0,1,372205.78
+Riverside,Detached,Semi-furnished,1976,4,1,2,51,1,7.8,0,0,655962.66
+Hillcrest,Apartment,Unfurnished,524,1,1,1,50,4,18.4,0,1,172316.39
+Oakwood,Detached,Unfurnished,1783,3,1,2,17,0,12.6,1,1,522157.21
+Oakwood,Townhouse,Semi-furnished,2450,5,4,1,34,1,19.1,1,0,639564.6
+Oakwood,Villa,Fully furnished,2537,5,1,1,58,1,7.0,1,0,675925.28
+Hillcrest,Detached,Semi-furnished,1682,3,2,2,53,1,7.8,1,1,535888.22
+Greenfield,Townhouse,Fully furnished,2195,3,2,1,6,4,11.0,1,1,519276.98
+Downtown,Apartment,Fully furnished,1685,3,3,1,3,4,27.0,1,1,667636.67
+West End,Detached,Semi-furnished,400,1,2,3,15,0,0.8,1,1,246622.78
+Riverside,Detached,Unfurnished,2130,4,1,3,16,0,28.2,0,0,672357.46
+Greenfield,Detached,Unfurnished,1562,3,3,2,4,2,13.0,1,0,425342.77
+Greenfield,Detached,Semi-furnished,1005,2,3,1,4,0,14.3,1,1,325555.1
+Oakwood,Townhouse,Semi-furnished,1505,2,1,3,2,4,1.8,0,0,486386.33
+Greenfield,Townhouse,Unfurnished,2494,5,3,3,6,4,13.5,0,0,539047.28
+Oakwood,Apartment,Unfurnished,670,1,1,1,48,2,10.6,0,1,179672.03
+Oakwood,Detached,Unfurnished,2352,5,4,2,11,1,26.2,1,1,750281.68
+West End,Detached,Unfurnished,1615,4,4,2,36,0,31.2,0,1,434180.85
+Riverside,Townhouse,Unfurnished,637,1,2,3,21,4,23.5,0,1,258219.87
+Hillcrest,Apartment,Semi-furnished,2298,5,2,1,34,4,30.5,1,1,687064.33
+Riverside,Apartment,Semi-furnished,1639,4,1,1,1,3,35.0,0,0,508833.15
+Downtown,Villa,Fully furnished,2631,4,1,2,46,2,20.5,1,1,837826.33
+Riverside,Apartment,Unfurnished,1673,3,2,1,46,1,19.7,1,1,442499.28
+Hillcrest,Detached,Fully furnished,1877,4,5,1,43,2,34.2,1,0,592951.4
+Hillcrest,Detached,Semi-furnished,3195,5,1,2,18,4,17.5,1,0,940945.87
+Riverside,Detached,Fully furnished,2246,4,3,1,41,4,28.9,1,1,742393.68
+West End,Apartment,Semi-furnished,1061,1,2,1,48,0,34.6,1,1,251967.12
+Downtown,Detached,Fully furnished,1008,2,3,3,22,1,1.0,1,0,497584.36
+West End,Detached,Semi-furnished,1543,3,4,1,38,4,5.4,1,0,518212.89
+West End,Detached,Semi-furnished,1999,3,3,2,11,0,31.6,0,0,508226.5
+Oakwood,Townhouse,Fully furnished,2781,5,3,1,12,0,23.7,1,1,760521.73
+Greenfield,Apartment,Fully furnished,744,1,2,1,31,3,16.8,1,1,212379.72
+Hillcrest,Apartment,Semi-furnished,841,1,1,1,25,4,17.3,1,0,279325.42
+Hillcrest,Apartment,Semi-furnished,2021,4,5,1,38,0,10.8,0,1,532745.12
+West End,Townhouse,Unfurnished,2534,5,1,1,0,4,19.3,1,0,704955.55
+West End,Apartment,Unfurnished,3009,5,2,1,42,4,7.3,1,0,684085.2
+Greenfield,Apartment,Fully furnished,2555,5,2,1,56,4,1.1,0,1,503188.71
+West End,Townhouse,Unfurnished,2671,5,1,3,15,3,20.3,0,0,647007.88
+Hillcrest,Townhouse,Unfurnished,641,1,1,2,54,4,2.3,0,0,259364.93
+Hillcrest,Detached,Semi-furnished,1197,1,1,1,60,1,9.2,1,0,352017.6
+Greenfield,Detached,Semi-furnished,2710,5,2,2,48,3,13.1,1,1,531087.78
+Greenfield,Detached,Unfurnished,1309,3,4,3,5,1,27.5,1,0,366550.12
+Downtown,Villa,Unfurnished,2026,3,2,1,21,3,33.3,0,0,742284.59
+West End,Townhouse,Semi-furnished,1047,2,3,3,58,4,4.3,1,0,369944.24
+Greenfield,Detached,Unfurnished,1519,2,1,1,10,3,18.4,0,0,331592.42
+Greenfield,Apartment,Unfurnished,2735,5,4,1,49,4,14.1,1,1,508918.04
+West End,Apartment,Semi-furnished,1425,2,3,1,9,3,14.1,1,0,378153.31
+Hillcrest,Townhouse,Semi-furnished,2737,5,3,3,11,3,15.4,1,0,850432.29
+Riverside,Detached,Semi-furnished,2338,5,3,2,23,2,23.9,0,1,743928.4
+Greenfield,Apartment,Fully furnished,1404,2,3,1,24,2,15.4,1,0,301591.28
+Oakwood,Apartment,Semi-furnished,2276,5,3,1,11,4,15.3,0,1,582841.47
+West End,Townhouse,Fully furnished,807,1,1,1,44,2,30.7,0,1,262481.21
+Oakwood,Villa,Fully furnished,1750,3,4,3,36,1,30.9,1,0,596056.88
+Riverside,Townhouse,Semi-furnished,486,1,2,1,47,4,15.7,0,0,231783.74
+Riverside,Apartment,Semi-furnished,2677,4,4,1,3,3,6.2,1,0,850964.35
+Downtown,Apartment,Semi-furnished,2074,4,4,1,59,4,11.2,1,0,665765.06
+West End,Detached,Unfurnished,2110,5,1,1,31,4,8.5,0,1,596364.74
+Riverside,Apartment,Unfurnished,2214,4,2,1,52,3,16.2,1,1,547227.65
+Greenfield,Villa,Unfurnished,635,2,3,3,38,2,1.5,1,1,336047.62
+Greenfield,Apartment,Semi-furnished,2303,4,1,1,46,0,17.2,0,1,374533.84
+Greenfield,Detached,Semi-furnished,1533,3,3,3,58,3,29.1,0,1,348534.25
+West End,Detached,Fully furnished,1488,3,3,3,13,0,4.3,1,0,491660.96
+Downtown,Detached,Fully furnished,2482,5,4,2,20,3,19.9,0,0,910739.08
+Riverside,Detached,Unfurnished,1000,1,2,2,30,4,21.7,1,1,379598.79
+Downtown,Detached,Fully furnished,956,1,1,1,43,0,34.5,0,0,359358.19
+Riverside,Detached,Fully furnished,837,1,2,2,2,1,34.5,1,1,383537.8
+Hillcrest,Detached,Semi-furnished,965,2,2,2,56,3,28.7,0,1,367259.49
+Downtown,Detached,Unfurnished,2059,4,3,1,19,1,24.0,1,0,748467.44
+West End,Townhouse,Fully furnished,2688,5,4,3,37,0,7.9,0,0,676779.33
+Greenfield,Apartment,Unfurnished,1752,3,2,1,9,3,10.9,1,0,361495.48
+Downtown,Townhouse,Semi-furnished,1849,4,5,2,45,1,16.5,1,1,683613.11
+Greenfield,Apartment,Fully furnished,1938,4,1,1,1,0,28.7,1,0,384735.78
+Oakwood,Apartment,Fully furnished,1418,3,1,1,18,1,4.0,1,0,430919.61
+Oakwood,Detached,Semi-furnished,1451,3,1,1,34,1,13.9,1,1,455155.6
+Hillcrest,Apartment,Unfurnished,1477,4,1,1,0,3,12.7,0,1,461051.97
+Riverside,Townhouse,Semi-furnished,2169,4,2,2,42,1,21.6,1,0,621002.04
+Downtown,Detached,Unfurnished,1719,2,2,1,57,1,4.7,0,0,558663.91
+Greenfield,Apartment,Fully furnished,2490,4,5,1,37,4,2.4,0,1,570528.67
+Greenfield,Townhouse,Unfurnished,553,1,2,2,54,1,22.3,1,0,167892.61
+West End,Detached,Fully furnished,804,2,3,1,24,2,1.6,1,0,347986.98
+Riverside,Townhouse,Fully furnished,2387,5,1,2,15,3,19.9,1,1,792494.67
+Downtown,Apartment,Fully furnished,2184,4,2,1,52,3,31.4,1,1,762887.79
+Downtown,Apartment,Fully furnished,1786,2,3,1,17,3,16.5,1,0,599176.41
+Riverside,Apartment,Unfurnished,2219,4,5,1,6,2,14.4,1,1,726032.34
+Greenfield,Apartment,Fully furnished,2521,4,4,1,49,1,21.1,1,0,475790.39
+Downtown,Townhouse,Unfurnished,2385,5,4,2,6,0,23.0,0,1,794341.96
+West End,Apartment,Fully furnished,1487,2,2,1,17,4,9.4,0,0,408382.52
+Oakwood,Townhouse,Semi-furnished,2443,5,1,2,37,4,32.2,1,0,591178.77
+West End,Villa,Semi-furnished,2060,3,2,3,37,4,7.8,1,0,653122.35
+Oakwood,Detached,Semi-furnished,1385,1,2,1,57,3,17.5,0,1,389233.82
+Hillcrest,Detached,Semi-furnished,2531,5,4,2,31,2,21.3,1,0,745952.13
+Hillcrest,Villa,Semi-furnished,2710,6,3,2,17,3,8.1,1,0,866182.32
+Hillcrest,Apartment,Unfurnished,975,2,3,1,8,4,4.6,0,1,350086.97
+West End,Detached,Unfurnished,2171,4,3,2,25,4,12.6,0,1,600910.74
+Greenfield,Detached,Fully furnished,1720,3,1,1,59,3,4.6,0,0,372822.78
+Downtown,Detached,Fully furnished,2387,5,3,3,47,1,20.2,1,1,808434.28
+Hillcrest,Detached,Fully furnished,1865,3,2,3,58,4,8.9,0,1,592245.45
+Oakwood,Villa,Fully furnished,1755,3,1,2,38,4,30.3,0,1,549688.7
+West End,Detached,Fully furnished,1253,3,4,1,20,0,10.3,1,0,422751.73
+West End,Townhouse,Unfurnished,1727,3,3,1,3,1,14.9,1,0,491275.73
+Hillcrest,Apartment,Unfurnished,1985,4,5,1,2,2,8.4,1,1,597377.94
+West End,Villa,Fully furnished,2814,6,3,2,23,3,4.5,0,1,804345.71
+Oakwood,Apartment,Fully furnished,1849,2,3,1,31,3,23.2,1,1,527086.93
+Downtown,Villa,Semi-furnished,1156,2,1,3,31,4,19.6,1,0,517594.99
+West End,Detached,Semi-furnished,1091,2,1,2,9,4,30.1,1,0,343736.85
+Hillcrest,Apartment,Semi-furnished,2909,5,1,1,48,3,13.0,1,1,678145.74
+Greenfield,Detached,Unfurnished,1778,3,1,2,58,1,23.6,0,0,356048.47
+Oakwood,Apartment,Unfurnished,1071,1,2,1,9,1,3.4,0,1,316344.75
+Riverside,Apartment,Fully furnished,1189,2,3,1,13,4,31.8,1,1,455295.24
+Hillcrest,Apartment,Semi-furnished,1215,2,3,1,44,0,4.8,1,1,360315.03
+Greenfield,Apartment,Fully furnished,1911,2,1,1,45,3,1.7,0,0,381805.07
+Riverside,Apartment,Fully furnished,1905,4,1,1,18,1,29.1,1,1,560906.35
+Hillcrest,Detached,Fully furnished,1814,3,4,2,43,4,33.5,1,1,622283.18
+Greenfield,Villa,Semi-furnished,2626,5,5,2,51,0,30.3,1,1,596348.32
+West End,Townhouse,Unfurnished,2097,3,1,1,24,2,23.3,1,0,456529.98
+Downtown,Apartment,Fully furnished,1425,1,1,1,10,4,4.6,1,1,512369.07
+Oakwood,Townhouse,Unfurnished,400,1,2,2,59,0,27.2,1,1,150040.71
+West End,Apartment,Fully furnished,1303,2,3,1,28,2,13.3,1,1,396902.6
+Greenfield,Apartment,Unfurnished,1223,2,1,1,50,3,26.3,1,0,236697.41
+Greenfield,Detached,Fully furnished,2000,3,3,3,26,0,26.0,1,0,455796.29
+Oakwood,Detached,Semi-furnished,2644,4,1,2,52,2,18.7,1,0,706079.28
+Riverside,Apartment,Fully furnished,2280,4,3,1,47,1,17.3,1,0,629909.95
+Oakwood,Detached,Semi-furnished,1058,1,1,2,8,4,24.1,1,1,387225.29
+Greenfield,Villa,Fully furnished,1128,2,1,1,54,1,4.9,1,1,410343.41
+Downtown,Detached,Unfurnished,1465,3,3,3,52,3,33.7,0,1,549472.6
+Riverside,Townhouse,Semi-furnished,2769,5,5,1,60,2,25.7,0,0,742149.58
+Hillcrest,Townhouse,Fully furnished,1797,3,4,3,51,0,20.4,1,0,521910.9
+Riverside,Townhouse,Fully furnished,1132,2,1,2,27,0,8.2,1,1,418197.28
+Downtown,Apartment,Semi-furnished,1828,4,2,1,54,2,5.7,1,0,561931.63
+Hillcrest,Detached,Semi-furnished,2848,5,5,3,58,3,14.8,1,1,685269.21
+West End,Townhouse,Unfurnished,2014,3,4,1,16,0,7.3,1,1,573152.18
+Riverside,Apartment,Semi-furnished,2051,3,2,1,5,0,1.9,1,1,636775.46
+Oakwood,Townhouse,Fully furnished,2034,3,4,3,6,4,16.4,0,1,641023.25
+Greenfield,Apartment,Fully furnished,2516,5,1,1,48,2,6.4,1,1,470779.98
+Hillcrest,Apartment,Semi-furnished,1015,1,1,1,54,0,10.4,1,1,276153.01
+Oakwood,Townhouse,Fully furnished,1819,3,4,1,42,3,10.6,1,1,511667.28
+Riverside,Townhouse,Fully furnished,2452,5,5,3,51,1,5.6,0,0,731681.0
+Greenfield,Apartment,Fully furnished,721,1,2,1,37,2,13.3,1,1,203121.36
+Riverside,Detached,Semi-furnished,981,1,1,2,14,3,18.1,0,0,404819.81
+Greenfield,Apartment,Semi-furnished,2605,3,3,1,49,0,29.3,1,1,449758.99
+Greenfield,Apartment,Unfurnished,1175,1,1,1,9,4,19.1,1,1,260395.21
+West End,Detached,Unfurnished,1229,2,1,2,16,3,10.2,1,0,380525.81
+Oakwood,Detached,Unfurnished,2250,4,2,3,47,1,26.4,1,1,570619.56
+Downtown,Villa,Semi-furnished,2383,5,1,3,25,4,10.5,0,0,880192.88
+Greenfield,Detached,Fully furnished,1375,2,1,3,41,1,3.3,1,1,395728.25
+Downtown,Detached,Semi-furnished,1837,4,4,2,38,2,4.8,1,1,691268.0
+Downtown,Detached,Fully furnished,3156,5,3,1,54,0,1.5,1,0,963952.44
+Downtown,Apartment,Fully furnished,1625,3,4,1,27,1,18.4,1,0,563482.19
+West End,Townhouse,Unfurnished,1307,2,2,3,52,3,9.9,0,0,328506.4
+Hillcrest,Townhouse,Semi-furnished,1612,2,2,3,25,1,14.5,1,0,473699.93
+West End,Villa,Fully furnished,728,1,2,1,44,4,21.3,1,1,379555.09
+Greenfield,Apartment,Fully furnished,2350,4,2,1,14,3,28.4,0,1,473667.9
+Greenfield,Townhouse,Semi-furnished,2642,5,4,3,39,1,23.0,1,0,528745.86
+Riverside,Apartment,Unfurnished,2702,5,4,1,43,1,25.3,1,0,693411.41
+Hillcrest,Townhouse,Semi-furnished,1641,3,1,3,26,3,25.8,1,0,497844.76
+Riverside,Townhouse,Fully furnished,2446,5,1,3,50,0,8.1,1,0,675550.61
+Oakwood,Detached,Fully furnished,2513,5,2,3,52,0,27.3,1,1,616044.66
+Greenfield,Apartment,Semi-furnished,1906,3,2,1,54,3,9.9,1,1,390521.29
+Greenfield,Detached,Semi-furnished,809,1,2,1,59,4,4.0,1,1,286137.25
+Riverside,Apartment,Fully furnished,2157,4,1,1,13,1,30.1,1,1,630460.11
+Greenfield,Apartment,Semi-furnished,1443,3,1,1,30,1,23.7,0,1,257327.48
+Oakwood,Villa,Semi-furnished,1017,1,1,2,41,0,8.4,1,1,399294.15
+Downtown,Detached,Semi-furnished,1868,4,2,3,23,3,14.5,1,0,721503.91
+Downtown,Detached,Semi-furnished,1050,2,2,2,50,2,18.7,1,0,428185.67
+Riverside,Townhouse,Fully furnished,1749,3,3,2,24,4,14.9,1,1,621947.7
+Greenfield,Detached,Fully furnished,2601,5,4,1,27,2,15.7,1,1,610871.57
+Oakwood,Apartment,Semi-furnished,1166,1,1,1,18,1,13.1,1,1,307154.15
+Hillcrest,Detached,Unfurnished,2315,5,2,3,22,1,23.1,1,0,626038.1
+West End,Apartment,Fully furnished,623,1,1,1,60,3,28.8,0,1,178064.79
+West End,Apartment,Unfurnished,2899,5,3,1,44,2,3.3,1,0,589819.82
+West End,Apartment,Fully furnished,2198,5,1,1,44,4,11.2,0,0,566831.79
+Hillcrest,Apartment,Semi-furnished,590,1,2,1,14,1,2.3,1,0,230669.45
+Downtown,Apartment,Semi-furnished,1714,3,4,1,17,4,29.4,0,0,558897.11
+Downtown,Townhouse,Fully furnished,612,1,2,1,25,4,10.5,1,0,315668.44
+Downtown,Townhouse,Fully furnished,1644,1,2,3,1,0,20.1,1,0,563742.07
+West End,Townhouse,Semi-furnished,1569,2,1,3,26,4,2.9,1,0,485564.35
+Oakwood,Detached,Unfurnished,2155,3,3,1,44,1,12.3,1,1,586532.39
+West End,Apartment,Fully furnished,2350,4,2,1,1,4,18.8,1,0,620158.94
+Downtown,Apartment,Unfurnished,622,1,2,1,5,3,25.2,1,0,252180.66
+Riverside,Detached,Unfurnished,2853,5,4,1,20,3,10.5,0,1,868471.18
+Hillcrest,Detached,Fully furnished,2657,4,2,3,6,2,29.6,0,1,839076.15
+Riverside,Villa,Unfurnished,1025,1,1,1,39,1,2.1,1,0,469981.26
+Riverside,Detached,Fully furnished,1948,4,1,3,53,2,9.0,1,1,604502.51
+Riverside,Detached,Semi-furnished,802,1,1,2,52,4,32.3,1,1,323499.27
+Riverside,Detached,Fully furnished,2273,5,4,2,31,2,18.2,1,1,752623.51
+Greenfield,Apartment,Semi-furnished,1412,2,2,1,11,1,8.2,1,0,299831.14
+Riverside,Villa,Semi-furnished,3178,6,5,3,49,3,20.5,1,0,1038241.22
+Hillcrest,Apartment,Unfurnished,1563,2,1,1,37,2,18.1,1,0,380233.03
+Riverside,Detached,Semi-furnished,567,1,1,2,26,2,11.3,1,0,259070.44
+Hillcrest,Detached,Semi-furnished,1176,1,1,1,9,1,28.0,1,1,363387.36
+Greenfield,Townhouse,Semi-furnished,1638,2,3,3,42,2,10.2,1,0,347761.45
+Oakwood,Detached,Fully furnished,466,1,1,1,54,0,32.2,1,0,203255.85
+West End,Detached,Fully furnished,1899,4,5,3,39,3,25.8,0,1,523340.26
+Greenfield,Townhouse,Fully furnished,1855,3,3,1,50,2,21.1,1,0,404184.39
+Oakwood,Villa,Unfurnished,1762,4,5,3,46,3,16.2,1,1,599674.05
+West End,Detached,Semi-furnished,1590,2,1,2,31,2,30.0,1,1,430420.25
+West End,Apartment,Semi-furnished,1892,4,1,1,46,0,6.6,0,1,424271.03
+Oakwood,Detached,Fully furnished,950,1,2,1,12,1,8.3,0,1,390602.55
+Greenfield,Apartment,Semi-furnished,1057,1,1,1,48,1,18.3,1,1,197912.09
+Hillcrest,Apartment,Semi-furnished,1267,3,2,1,30,0,23.5,0,1,317863.05
+Hillcrest,Townhouse,Semi-furnished,1009,1,1,2,3,4,28.8,1,1,342386.49
+Hillcrest,Villa,Semi-furnished,879,1,1,1,32,1,26.8,1,0,351963.49
+Hillcrest,Villa,Fully furnished,2107,4,1,2,3,1,32.0,1,1,734351.67
+Oakwood,Townhouse,Fully furnished,1808,3,4,1,32,3,17.0,1,1,521755.75
+Hillcrest,Detached,Fully furnished,1761,3,4,2,19,4,17.9,1,0,604316.33
+Oakwood,Detached,Unfurnished,717,1,2,3,38,0,21.4,1,1,249134.25
+Greenfield,Townhouse,Fully furnished,2005,3,1,1,26,4,19.7,1,0,439894.43
+Oakwood,Apartment,Fully furnished,1249,3,1,1,44,1,11.7,1,1,320064.86
+Downtown,Detached,Fully furnished,706,1,2,3,31,1,19.7,0,1,351780.99
+Downtown,Apartment,Unfurnished,1831,3,2,1,16,4,23.9,0,0,593638.84
+Riverside,Apartment,Fully furnished,1056,1,1,1,7,2,10.6,1,1,373214.46
+Riverside,Townhouse,Unfurnished,2557,4,1,2,37,3,15.1,1,0,761131.32
+Hillcrest,Detached,Fully furnished,1988,4,1,1,0,0,15.3,0,1,619318.03
+Oakwood,Townhouse,Semi-furnished,419,1,1,3,4,2,14.0,0,1,209396.24
+Oakwood,Detached,Semi-furnished,2429,5,5,1,53,0,18.3,1,1,627960.52
+Hillcrest,Detached,Fully furnished,677,1,2,2,45,0,26.9,1,0,247937.34
+Downtown,Townhouse,Fully furnished,1039,1,2,1,43,3,19.2,1,0,406801.04
+Riverside,Townhouse,Fully furnished,2694,4,4,1,51,0,4.6,0,1,776152.61
+Hillcrest,Detached,Fully furnished,1473,1,1,1,6,2,10.0,1,1,558105.65
+Hillcrest,Apartment,Semi-furnished,1600,2,2,1,55,1,31.2,1,1,415867.36
+Oakwood,Detached,Semi-furnished,2158,4,5,2,38,4,0.9,1,1,644517.73
+Oakwood,Apartment,Unfurnished,2109,4,3,1,5,2,5.5,1,1,589191.34
+West End,Detached,Unfurnished,2146,4,2,3,30,4,22.4,1,1,573366.94
+West End,Detached,Semi-furnished,1438,3,1,3,52,2,2.9,1,1,407178.55
+Greenfield,Detached,Semi-furnished,2566,4,2,2,3,3,8.2,1,1,607893.77
+Downtown,Detached,Unfurnished,688,1,2,2,10,3,32.1,0,0,316181.76
+Hillcrest,Detached,Fully furnished,3351,5,3,3,5,2,30.2,1,1,965693.16
+Greenfield,Townhouse,Fully furnished,2307,4,3,3,7,4,1.4,1,0,625531.1
+Hillcrest,Townhouse,Semi-furnished,1081,1,2,3,37,2,7.5,0,1,367304.02
+Oakwood,Apartment,Semi-furnished,1375,2,1,1,44,4,10.1,1,0,384368.77
+Riverside,Villa,Unfurnished,2629,5,4,3,40,4,33.3,0,1,859232.11
+Downtown,Detached,Semi-furnished,1077,2,1,3,41,1,25.2,1,0,407928.57
+Greenfield,Detached,Unfurnished,1811,3,4,2,12,2,5.8,1,0,444318.64
+Greenfield,Townhouse,Semi-furnished,2428,4,5,1,56,3,32.0,1,1,471598.7
+Oakwood,Detached,Semi-furnished,2760,5,2,3,32,0,30.1,1,1,762017.77
+Greenfield,Townhouse,Semi-furnished,1450,2,3,1,48,0,19.9,1,0,312496.56
+Riverside,Townhouse,Semi-furnished,400,1,1,1,5,4,25.6,1,1,220644.66
+West End,Villa,Semi-furnished,818,1,2,3,57,0,32.3,1,0,318671.88
+Downtown,Townhouse,Fully furnished,1697,4,4,2,26,2,8.7,0,0,622875.67
+Riverside,Apartment,Fully furnished,2103,3,4,1,37,1,32.4,1,1,590459.48
+Riverside,Apartment,Unfurnished,2484,5,4,1,9,3,7.0,1,0,782576.27
+West End,Detached,Unfurnished,1398,2,1,2,60,1,13.7,1,0,352004.76
+West End,Detached,Unfurnished,1757,3,2,1,46,0,3.0,1,1,517990.85
+Greenfield,Detached,Fully furnished,1574,3,1,3,17,1,25.6,1,1,402134.58
+Hillcrest,Detached,Fully furnished,2663,5,4,3,55,4,22.2,0,0,750778.08
+Hillcrest,Apartment,Semi-furnished,2188,4,5,1,18,4,0.9,1,1,724065.5
+Riverside,Villa,Unfurnished,3003,6,3,2,3,4,34.1,0,1,918355.73
+Downtown,Apartment,Unfurnished,2394,5,3,1,47,4,15.4,1,1,732227.41
+West End,Detached,Unfurnished,1925,3,3,3,27,2,29.4,1,0,498137.52
+Hillcrest,Apartment,Unfurnished,2330,5,5,1,24,3,28.4,1,1,627977.34
+West End,Detached,Fully furnished,2209,5,2,1,16,1,25.8,1,1,598279.46
+Riverside,Detached,Fully furnished,1373,2,3,1,34,3,16.8,0,0,468776.63
+Greenfield,Detached,Fully furnished,2704,5,5,2,40,2,7.9,1,1,679510.64
+Hillcrest,Detached,Semi-furnished,2490,4,4,1,27,1,8.5,1,0,717509.85
+Downtown,Villa,Fully furnished,1155,2,1,2,37,3,30.0,1,1,553651.25
+West End,Apartment,Fully furnished,835,1,2,1,29,3,11.8,1,1,268517.46
+West End,Detached,Unfurnished,1450,3,4,1,40,0,25.1,1,0,403244.16
+Hillcrest,Detached,Semi-furnished,630,1,1,2,41,1,10.5,1,0,251631.59
+Hillcrest,Townhouse,Semi-furnished,1100,1,2,2,33,1,26.6,0,1,361143.42
+Greenfield,Detached,Semi-furnished,1296,2,1,2,35,2,14.6,1,1,348701.55
+Hillcrest,Apartment,Unfurnished,2085,3,2,1,54,3,12.6,1,1,501285.66
+Hillcrest,Villa,Semi-furnished,2908,6,3,3,55,4,9.1,1,1,855140.86
+Downtown,Apartment,Unfurnished,2366,5,1,1,28,1,21.3,0,0,643538.55
+Oakwood,Townhouse,Fully furnished,972,1,1,2,0,3,27.5,1,0,365076.73
+Hillcrest,Villa,Fully furnished,2859,6,3,3,23,1,32.0,0,1,861641.89
+Hillcrest,Detached,Semi-furnished,1861,4,3,3,12,4,7.2,1,0,663411.86
+Greenfield,Detached,Fully furnished,1409,1,2,2,16,2,25.4,0,0,361644.96
+Riverside,Detached,Unfurnished,2498,5,3,2,50,1,12.0,0,0,661578.14
+Greenfield,Apartment,Fully furnished,1754,3,3,1,42,3,17.4,1,1,359988.97
+West End,Apartment,Fully furnished,1761,3,2,1,38,0,7.1,1,1,443772.03
+Riverside,Apartment,Unfurnished,1331,2,2,1,0,2,25.7,0,1,380974.71
+Riverside,Townhouse,Semi-furnished,1953,4,3,1,12,3,2.8,1,1,681858.8
+Greenfield,Villa,Unfurnished,1142,2,2,1,60,1,3.7,1,1,362523.48
+Riverside,Villa,Unfurnished,2753,6,2,3,8,0,16.5,0,1,898282.04
+Greenfield,Townhouse,Fully furnished,1675,4,5,2,12,1,28.3,1,0,431194.22
+West End,Detached,Fully furnished,1201,1,2,1,42,2,13.7,0,1,361752.66
+Hillcrest,Apartment,Semi-furnished,693,2,1,1,40,4,18.2,1,1,243794.66
+Hillcrest,Townhouse,Fully furnished,2066,4,3,1,13,0,34.1,1,1,668951.61
+Downtown,Detached,Unfurnished,1357,2,2,1,57,2,8.9,0,0,498186.67
+West End,Villa,Fully furnished,1079,2,2,2,49,4,7.6,1,0,448005.8
+Riverside,Detached,Fully furnished,2276,5,2,1,20,1,5.0,1,1,738597.15
+Downtown,Apartment,Semi-furnished,2103,4,5,1,18,3,28.7,1,1,715194.57
+Hillcrest,Apartment,Semi-furnished,1792,3,1,1,6,1,5.2,1,1,551412.57
+Riverside,Townhouse,Unfurnished,1088,1,2,1,20,0,27.0,1,0,319701.73
+Oakwood,Townhouse,Fully furnished,2361,5,3,2,43,4,27.3,1,0,635321.53
+Riverside,Apartment,Fully furnished,1726,3,4,1,11,3,2.2,1,0,596611.4
+Riverside,Apartment,Unfurnished,2170,4,4,1,8,0,32.5,0,0,614999.17
+West End,Detached,Semi-furnished,2079,4,3,1,53,1,33.4,0,1,499284.39
+Oakwood,Apartment,Semi-furnished,2062,4,2,1,38,3,29.4,0,1,547853.86
+West End,Apartment,Unfurnished,1830,3,2,1,8,0,9.9,1,0,456852.93
+Downtown,Townhouse,Fully furnished,1759,2,3,1,25,2,8.2,1,1,630134.97
+Oakwood,Apartment,Fully furnished,2359,4,4,1,37,0,5.5,1,0,621761.2
+Riverside,Apartment,Semi-furnished,1109,1,2,1,47,1,30.9,1,1,294480.15
+West End,Apartment,Unfurnished,2617,5,4,1,41,2,31.6,1,1,598060.82
+Oakwood,Townhouse,Fully furnished,1535,2,3,3,32,3,4.1,1,1,571128.13
+Riverside,Villa,Fully furnished,1085,1,2,2,14,4,16.1,0,0,494281.93
+Downtown,Detached,Unfurnished,820,1,2,2,6,2,12.6,1,0,377725.28
+Greenfield,Villa,Fully furnished,2599,5,1,1,46,3,11.3,1,1,602315.38
+Hillcrest,Villa,Semi-furnished,1538,2,3,1,0,2,10.3,1,0,615890.81
+Hillcrest,Apartment,Fully furnished,400,1,1,1,26,0,2.6,1,0,180832.02
+West End,Detached,Unfurnished,1041,2,2,1,60,0,11.7,1,0,265791.49
+Riverside,Townhouse,Semi-furnished,2339,4,2,2,16,2,9.7,1,1,717358.03
+Oakwood,Townhouse,Fully furnished,970,2,1,3,32,1,10.9,1,1,322651.79
+Greenfield,Apartment,Fully furnished,2595,5,5,1,37,0,17.4,0,0,546491.6
+Oakwood,Townhouse,Semi-furnished,800,1,2,1,5,4,1.7,1,0,337568.87
+Hillcrest,Apartment,Unfurnished,549,1,1,1,60,1,31.9,1,0,146547.47
+Greenfield,Townhouse,Fully furnished,2074,4,3,1,11,0,13.6,0,1,438772.81
+Greenfield,Townhouse,Fully furnished,1617,3,1,3,18,2,20.4,1,1,391367.07
+Oakwood,Townhouse,Unfurnished,3004,5,3,3,60,1,8.5,1,0,688137.18
+West End,Apartment,Semi-furnished,1049,2,1,1,54,4,4.4,1,1,282427.74
+Downtown,Apartment,Semi-furnished,1728,3,4,1,21,1,4.6,1,1,605001.76
+Hillcrest,Detached,Semi-furnished,2067,5,5,1,23,4,4.2,0,0,685235.73
+Oakwood,Detached,Unfurnished,1262,1,2,2,4,0,29.2,1,1,383619.24
+Oakwood,Apartment,Semi-furnished,1231,2,1,1,34,0,11.0,0,0,285454.85
+Hillcrest,Apartment,Unfurnished,1084,2,1,1,47,0,22.1,1,1,272765.32
+Hillcrest,Apartment,Fully furnished,1615,2,3,1,52,3,25.4,0,1,452307.19
+Hillcrest,Detached,Unfurnished,1601,2,1,2,27,1,30.3,0,1,426608.64
+Downtown,Townhouse,Unfurnished,1334,2,3,2,32,0,6.5,0,1,485025.99
+Greenfield,Townhouse,Semi-furnished,437,1,1,3,30,3,12.3,0,1,175432.54
+Hillcrest,Apartment,Semi-furnished,2921,5,1,1,30,0,19.3,0,1,716729.3
+Hillcrest,Apartment,Fully furnished,1781,3,3,1,50,4,7.3,1,0,538807.43
+Hillcrest,Apartment,Fully furnished,1929,3,3,1,7,1,4.5,0,1,609153.21
+West End,Apartment,Fully furnished,1936,4,5,1,50,0,26.4,1,1,444391.99
+Riverside,Apartment,Semi-furnished,1677,4,3,1,10,3,14.2,1,0,574401.99
+Greenfield,Townhouse,Unfurnished,1744,3,2,3,2,0,7.6,0,1,385477.49
+Downtown,Apartment,Unfurnished,1534,4,3,1,18,3,34.7,1,0,531848.65
+West End,Apartment,Unfurnished,1399,1,1,1,30,1,33.6,1,0,283784.44
+Greenfield,Detached,Semi-furnished,785,1,1,1,46,0,26.5,1,0,198883.93
+Downtown,Townhouse,Fully furnished,2130,4,2,3,53,2,0.8,1,0,735459.35
+West End,Apartment,Semi-furnished,1596,3,4,1,25,4,31.3,1,0,439954.17
+Greenfield,Townhouse,Fully furnished,1460,2,2,2,13,0,20.5,1,1,361912.6
+Hillcrest,Detached,Semi-furnished,626,2,2,3,35,0,22.5,1,1,232446.93
+Greenfield,Detached,Fully furnished,1579,3,3,3,19,3,4.3,1,1,460032.59
+Riverside,Apartment,Fully furnished,728,2,1,1,4,0,32.3,0,1,243809.81
+Riverside,Apartment,Unfurnished,1230,2,3,1,30,2,24.8,1,1,382021.85
+Riverside,Apartment,Fully furnished,1914,4,5,1,38,0,12.2,1,1,583678.33
+Riverside,Townhouse,Semi-furnished,738,1,1,3,18,2,31.3,1,0,286222.87
+West End,Villa,Unfurnished,2399,4,1,1,17,1,34.9,1,0,658842.17
+Downtown,Villa,Fully furnished,986,2,3,3,60,2,18.6,1,1,483620.01
+Hillcrest,Townhouse,Fully furnished,1339,2,2,1,27,3,31.3,0,0,437760.06
+West End,Apartment,Semi-furnished,699,1,2,1,36,0,20.3,1,1,197468.28
+Riverside,Apartment,Semi-furnished,1154,1,1,1,58,1,1.9,1,1,359650.05
+Greenfield,Villa,Unfurnished,940,2,2,1,55,2,2.8,1,1,349250.27
+Oakwood,Townhouse,Fully furnished,1679,3,1,2,60,0,24.7,1,1,420765.05
+Hillcrest,Apartment,Semi-furnished,2433,5,1,1,55,4,27.5,1,0,572508.26
+Greenfield,Villa,Semi-furnished,3053,5,4,1,49,0,7.8,1,1,726734.2
+West End,Apartment,Semi-furnished,404,1,1,1,18,2,8.8,1,1,159990.57
+West End,Apartment,Fully furnished,2233,4,5,1,31,3,32.8,0,1,541674.29
+Riverside,Detached,Fully furnished,1809,4,1,1,38,1,23.2,1,1,557886.89
+Downtown,Townhouse,Fully furnished,1207,2,3,1,53,2,4.2,1,0,467502.65
+Oakwood,Detached,Semi-furnished,831,2,3,1,7,3,17.4,1,0,373574.16
+Downtown,Apartment,Fully furnished,2930,5,5,1,8,3,8.6,1,0,1037013.05
+Riverside,Apartment,Unfurnished,1298,2,2,1,48,3,18.7,1,1,386032.86
+Hillcrest,Townhouse,Semi-furnished,1681,2,1,2,58,4,12.5,1,0,451759.46
+West End,Townhouse,Unfurnished,534,2,1,1,8,3,14.2,0,1,201790.36
+Downtown,Villa,Semi-furnished,2984,6,1,2,3,0,22.3,1,1,1023034.61
+Greenfield,Apartment,Semi-furnished,1355,3,1,1,48,0,2.4,1,0,282304.35
+Riverside,Apartment,Unfurnished,2763,4,5,1,12,2,9.0,1,0,802806.97
+Hillcrest,Townhouse,Semi-furnished,1178,1,1,2,21,3,33.3,1,1,373533.56
+Greenfield,Apartment,Fully furnished,2329,5,2,1,7,1,18.5,0,1,482145.97
+Downtown,Detached,Unfurnished,3102,5,3,2,26,1,15.2,1,0,973100.8
+West End,Detached,Unfurnished,1287,2,3,1,10,3,27.5,1,0,373647.23
+Downtown,Townhouse,Fully furnished,1276,2,3,2,12,0,12.2,1,1,488138.77
+West End,Detached,Fully furnished,2033,4,1,2,59,1,25.9,1,0,475204.16
+Downtown,Detached,Semi-furnished,1951,3,1,3,55,0,16.3,0,0,598325.27
+Hillcrest,Apartment,Unfurnished,2758,5,5,1,59,0,3.8,0,0,705661.91
+Downtown,Apartment,Unfurnished,1397,2,3,1,9,0,33.9,0,1,457959.95
+Downtown,Detached,Unfurnished,2452,5,2,3,39,0,13.5,1,0,795930.16
+Greenfield,Apartment,Unfurnished,1631,2,2,1,6,1,33.6,1,1,303472.77
+Downtown,Townhouse,Semi-furnished,1235,1,2,2,17,0,10.0,1,0,450840.08
+Hillcrest,Townhouse,Fully furnished,2630,5,2,3,12,2,23.2,1,1,771833.52
+Downtown,Townhouse,Semi-furnished,2469,5,2,2,20,2,21.8,1,1,782238.05
+Downtown,Detached,Semi-furnished,1063,1,2,1,56,1,32.2,1,0,355513.32
+Riverside,Detached,Unfurnished,1172,1,1,2,60,2,24.9,1,0,348711.95
+Riverside,Apartment,Unfurnished,2759,5,2,1,37,2,31.3,1,1,760973.62
+Riverside,Apartment,Unfurnished,2221,5,3,1,45,0,9.5,0,1,593151.78
+Riverside,Townhouse,Fully furnished,2670,4,3,1,9,3,26.8,1,1,824729.99
+West End,Apartment,Semi-furnished,890,1,1,1,47,1,33.4,1,0,191481.66
+Riverside,Detached,Fully furnished,675,1,2,1,25,4,11.0,1,0,338615.75
+Downtown,Detached,Unfurnished,1528,4,2,3,9,0,34.8,1,1,547282.92
+West End,Apartment,Semi-furnished,921,1,1,1,7,0,11.7,1,1,237473.81
+Greenfield,Townhouse,Unfurnished,897,1,1,2,41,0,8.1,1,1,227621.13
+West End,Apartment,Unfurnished,1588,2,1,1,3,1,3.8,1,1,423065.88
+Oakwood,Townhouse,Fully furnished,702,1,2,3,45,1,34.3,1,0,247149.3
+West End,Detached,Semi-furnished,2251,5,2,1,5,3,8.7,1,0,598515.27
+Riverside,Townhouse,Fully furnished,2487,5,4,3,5,4,15.0,1,0,879572.27
+West End,Detached,Semi-furnished,1611,4,3,2,57,0,19.3,1,0,471361.54
+Hillcrest,Detached,Fully furnished,2058,3,1,3,47,0,21.9,1,0,611587.09
+West End,Apartment,Fully furnished,997,1,2,1,24,2,15.0,1,1,296078.78
+Riverside,Townhouse,Semi-furnished,1708,2,2,1,40,0,12.1,1,0,503315.89
+Riverside,Townhouse,Semi-furnished,2736,4,4,3,15,2,6.1,1,1,859060.7
+Hillcrest,Detached,Semi-furnished,1423,3,1,2,42,3,8.6,1,0,480457.09
+West End,Apartment,Semi-furnished,2140,5,2,1,38,2,2.2,1,1,576031.38
+Downtown,Detached,Semi-furnished,1057,2,2,1,42,2,1.7,1,0,482538.83
+Downtown,Apartment,Fully furnished,2472,4,4,1,22,3,33.9,1,0,827764.53
+West End,Detached,Fully furnished,1437,2,3,3,18,0,3.8,1,1,486367.74
+Oakwood,Apartment,Semi-furnished,1510,3,4,1,14,4,29.5,0,0,427380.36
+Greenfield,Townhouse,Unfurnished,939,2,1,2,54,2,21.6,0,1,211755.13
+Greenfield,Apartment,Semi-furnished,1737,2,3,1,50,2,9.8,1,1,345800.15
+Oakwood,Villa,Semi-furnished,2946,6,2,1,52,0,29.2,1,1,766458.94
+West End,Detached,Unfurnished,910,1,1,3,49,4,15.2,0,0,290364.78
+Oakwood,Apartment,Unfurnished,1642,3,1,1,9,3,24.5,1,1,430029.51
+Riverside,Townhouse,Fully furnished,400,1,2,2,54,1,5.8,0,0,216509.96
+West End,Apartment,Semi-furnished,1751,3,2,1,46,2,14.0,1,1,387748.64
+West End,Townhouse,Semi-furnished,2228,4,5,1,54,2,16.2,1,0,555978.24
+Oakwood,Detached,Unfurnished,1125,2,1,1,34,2,33.4,0,1,318978.35
+Greenfield,Detached,Unfurnished,2437,5,1,2,33,1,20.8,0,0,484614.97
+Greenfield,Townhouse,Unfurnished,1657,3,4,2,51,2,24.4,0,0,305689.79
+West End,Apartment,Fully furnished,2357,4,1,1,3,3,1.3,0,1,620140.12
+Riverside,Villa,Fully furnished,2788,5,3,3,21,3,13.9,0,1,928103.04
+Riverside,Apartment,Semi-furnished,1872,4,5,1,37,4,15.1,1,1,575950.25
+Hillcrest,Detached,Unfurnished,821,1,1,1,26,4,28.7,1,0,279238.18
+Riverside,Detached,Unfurnished,2401,5,1,1,19,3,13.5,1,0,739257.7
+Hillcrest,Detached,Semi-furnished,1602,2,1,3,22,4,8.9,1,1,496222.27
+Oakwood,Detached,Unfurnished,1860,3,4,3,58,1,29.2,0,0,468849.74
+Downtown,Detached,Fully furnished,1205,1,2,2,48,3,28.0,1,1,475160.64
+Oakwood,Detached,Fully furnished,1273,2,3,3,20,2,18.5,0,0,433972.61
+Oakwood,Townhouse,Semi-furnished,1020,2,3,3,29,3,24.2,0,1,378735.97
+Oakwood,Detached,Fully furnished,1574,2,2,3,32,4,10.0,0,0,495912.5
+Greenfield,Apartment,Semi-furnished,2320,4,2,1,29,4,14.2,1,1,470734.91
+Greenfield,Apartment,Semi-furnished,2593,5,1,1,56,1,13.7,1,0,462658.14
+Greenfield,Detached,Fully furnished,940,2,2,2,43,0,17.6,1,1,284688.78
+Hillcrest,Townhouse,Unfurnished,1637,2,3,2,34,2,12.2,1,0,486617.76
+Downtown,Apartment,Unfurnished,1219,1,1,1,17,0,20.3,0,0,363523.23
+Oakwood,Townhouse,Semi-furnished,1362,2,3,3,56,2,3.7,1,0,434983.94
+West End,Townhouse,Unfurnished,2827,5,2,3,10,1,33.9,1,1,627041.33
+Greenfield,Townhouse,Fully furnished,1397,1,1,2,1,4,9.9,1,1,377794.84
+Oakwood,Detached,Semi-furnished,1431,3,2,3,2,2,10.5,0,0,512258.7
+Hillcrest,Detached,Fully furnished,2158,2,3,2,36,2,9.2,0,1,671109.03
+Hillcrest,Detached,Unfurnished,2073,4,3,2,8,1,22.9,0,1,660900.55
+Hillcrest,Villa,Fully furnished,3055,6,1,3,47,2,29.9,0,0,922048.93
+West End,Detached,Fully furnished,1889,4,3,3,39,1,26.5,1,0,562679.08
+West End,Apartment,Unfurnished,2441,5,4,1,59,1,19.4,0,1,516992.91
+Oakwood,Townhouse,Fully furnished,1846,4,5,3,19,0,5.9,1,1,567993.9
+Downtown,Detached,Semi-furnished,2241,4,3,3,15,3,11.3,0,0,829858.51
+Riverside,Villa,Unfurnished,2662,6,5,1,53,0,26.6,0,1,751188.83
+Riverside,Townhouse,Unfurnished,2178,4,5,1,37,1,30.8,1,0,643971.63
+Riverside,Townhouse,Semi-furnished,2102,3,2,1,58,0,34.1,1,1,567663.33
+Riverside,Villa,Unfurnished,1625,3,3,1,36,1,15.9,0,0,567407.24
+Riverside,Apartment,Fully furnished,1375,2,1,1,36,4,11.8,1,0,437240.87
+Riverside,Apartment,Unfurnished,1403,1,1,1,34,0,33.3,1,1,346392.56
+Hillcrest,Detached,Unfurnished,2987,5,3,2,12,3,24.4,1,0,920575.94
+Oakwood,Detached,Unfurnished,1955,4,4,3,34,4,14.4,0,0,597588.41
+Hillcrest,Detached,Fully furnished,2379,4,3,1,10,3,24.6,1,1,779166.07
+Oakwood,Townhouse,Semi-furnished,839,1,1,2,29,2,30.7,1,0,264555.72
+West End,Townhouse,Semi-furnished,2257,4,1,2,58,3,22.1,1,0,502900.09
+Greenfield,Villa,Fully furnished,1801,2,3,2,41,0,28.4,1,0,452691.31
+Riverside,Detached,Semi-furnished,1738,2,3,2,32,0,24.3,0,1,572182.69
+Greenfield,Townhouse,Semi-furnished,2488,4,2,1,58,0,21.8,1,1,428456.42
+Riverside,Apartment,Fully furnished,1888,3,2,1,60,1,21.2,1,1,512043.93
+Oakwood,Townhouse,Fully furnished,2577,5,2,1,54,4,30.3,1,0,659842.29
+Hillcrest,Villa,Unfurnished,752,1,2,3,31,4,16.2,1,1,402128.61
+Downtown,Detached,Fully furnished,1577,3,2,1,53,0,32.7,0,0,540031.63
+Hillcrest,Apartment,Unfurnished,2234,5,2,1,10,4,21.7,0,1,595615.84
+Greenfield,Detached,Fully furnished,1860,3,3,1,21,3,14.6,1,1,460806.07
+West End,Townhouse,Unfurnished,2058,4,3,3,44,4,23.2,1,1,502893.83
+Riverside,Apartment,Fully furnished,1328,1,2,1,54,1,30.9,1,0,365107.59
+Riverside,Townhouse,Fully furnished,2463,4,1,1,57,3,21.2,0,0,672089.08
+Downtown,Apartment,Unfurnished,604,1,2,1,42,2,7.9,1,1,253507.48
+Hillcrest,Townhouse,Unfurnished,2397,4,4,1,53,2,27.2,1,0,670372.63
+Hillcrest,Apartment,Unfurnished,2131,4,5,1,39,4,21.7,1,0,569726.92
+Riverside,Detached,Semi-furnished,1899,4,4,3,26,0,26.3,1,1,619225.94
+West End,Detached,Semi-furnished,1455,2,2,3,37,4,9.2,0,0,435656.74
+West End,Townhouse,Semi-furnished,1450,2,3,3,56,0,1.6,1,0,420783.04
+Downtown,Detached,Fully furnished,2383,5,1,3,48,3,29.9,1,1,758492.39
+Oakwood,Detached,Unfurnished,1086,1,2,1,60,3,31.0,0,1,319537.17
+Greenfield,Villa,Unfurnished,1016,2,1,1,55,1,32.5,1,0,323711.08
+Hillcrest,Detached,Semi-furnished,2135,4,3,1,51,4,33.9,1,0,601716.87
+Hillcrest,Detached,Semi-furnished,1163,2,2,2,5,1,11.3,1,1,440521.95
+Downtown,Detached,Semi-furnished,2512,5,4,3,17,1,7.8,1,0,925538.89
+Downtown,Villa,Fully furnished,1097,1,2,2,60,2,27.4,0,0,486184.98
+Greenfield,Apartment,Unfurnished,2566,5,5,1,33,2,3.5,1,1,524287.01
+Downtown,Detached,Semi-furnished,1899,3,3,2,45,0,5.5,1,1,635279.76
+Hillcrest,Villa,Semi-furnished,440,1,2,1,32,0,5.5,1,0,277899.17
+West End,Apartment,Unfurnished,717,2,1,1,14,0,22.9,1,1,179237.26
+Hillcrest,Townhouse,Semi-furnished,2011,4,2,2,28,3,25.7,1,0,565450.01
+Riverside,Villa,Unfurnished,1652,3,4,1,55,1,23.1,1,1,582123.36
+West End,Detached,Fully furnished,1905,4,5,3,12,4,29.8,1,1,656610.63
+Hillcrest,Villa,Unfurnished,2904,5,1,2,20,4,28.7,1,1,829688.09
+West End,Apartment,Fully furnished,1633,3,1,1,37,0,26.3,0,1,368303.14
+Hillcrest,Detached,Fully furnished,2198,3,3,2,49,0,28.6,1,0,663596.62
+Hillcrest,Detached,Fully furnished,853,1,1,3,39,0,23.0,0,1,291698.72
+Downtown,Detached,Fully furnished,1377,2,2,3,20,2,15.5,1,1,536263.56
+Downtown,Villa,Semi-furnished,3424,6,2,3,15,2,16.8,0,1,1202258.65
+West End,Apartment,Unfurnished,1265,3,4,1,50,0,16.4,1,1,302975.06
+West End,Apartment,Unfurnished,2353,5,5,1,35,4,22.5,0,0,594678.93
+Oakwood,Townhouse,Unfurnished,1556,4,2,3,52,2,30.6,0,1,426115.75
+Greenfield,Apartment,Semi-furnished,2664,5,4,1,14,0,16.4,1,0,515827.29
+Greenfield,Detached,Unfurnished,1097,1,1,2,1,4,12.4,1,0,325527.69
+Hillcrest,Villa,Semi-furnished,2261,4,4,1,44,0,26.1,1,1,698522.53
+West End,Apartment,Fully furnished,1881,2,3,1,3,0,18.9,1,0,416541.15
+Greenfield,Detached,Fully furnished,2072,4,2,3,45,0,10.0,0,1,485472.94
+West End,Detached,Semi-furnished,2035,4,1,2,18,2,28.7,1,1,525094.19
+Hillcrest,Villa,Fully furnished,2180,4,1,2,22,3,32.5,0,1,714508.89
+West End,Townhouse,Fully furnished,853,1,2,2,22,1,28.2,1,1,271797.55
+Riverside,Townhouse,Unfurnished,1968,4,2,2,27,0,29.2,1,0,566689.39
+Hillcrest,Detached,Unfurnished,1502,3,3,2,31,0,30.3,0,1,432609.87
+Oakwood,Detached,Semi-furnished,820,1,2,3,51,2,22.9,1,1,317761.27
+Hillcrest,Apartment,Unfurnished,1920,4,1,1,41,0,21.4,0,1,455933.16
+Greenfield,Apartment,Fully furnished,1688,3,4,1,56,3,0.9,1,1,422034.6
+Downtown,Townhouse,Semi-furnished,2743,5,2,2,29,2,31.9,1,0,954304.28
+Oakwood,Apartment,Fully furnished,1231,2,2,1,54,2,30.6,1,0,320007.75
+West End,Detached,Unfurnished,1123,2,1,1,3,1,14.8,1,0,346816.31
+Downtown,Apartment,Unfurnished,1334,1,2,1,26,2,21.1,0,0,402457.33
+Oakwood,Detached,Semi-furnished,2291,5,4,2,47,1,8.7,1,1,663950.5
+Oakwood,Apartment,Semi-furnished,2006,4,1,1,42,0,10.8,1,0,497648.45
+West End,Detached,Semi-furnished,955,2,2,1,56,3,3.9,0,1,339199.84
+West End,Apartment,Semi-furnished,1106,1,2,1,47,0,28.8,0,1,266941.66
+Oakwood,Apartment,Fully furnished,1488,2,2,1,51,1,2.6,1,1,409062.24
+West End,Townhouse,Fully furnished,2155,5,2,1,54,1,23.0,1,1,528266.64
+West End,Apartment,Semi-furnished,2332,3,2,1,22,2,8.2,0,1,537006.41
+Downtown,Townhouse,Unfurnished,2448,5,3,1,23,0,4.1,1,1,866549.87
+West End,Townhouse,Semi-furnished,1355,3,2,1,39,4,31.6,1,1,379202.87
+Downtown,Detached,Semi-furnished,948,1,1,1,55,0,6.7,0,1,353245.83
+Oakwood,Detached,Unfurnished,1743,3,1,2,33,3,11.7,0,1,506489.89
+Oakwood,Townhouse,Unfurnished,1896,3,4,1,14,2,2.4,0,1,605525.8
+Hillcrest,Townhouse,Semi-furnished,2414,4,4,3,12,3,15.4,0,1,778695.29
+Greenfield,Detached,Fully furnished,1116,2,3,1,1,2,32.6,1,0,327842.52
+Greenfield,Townhouse,Unfurnished,3040,5,5,2,39,4,6.8,1,0,608683.81
+Downtown,Townhouse,Unfurnished,2529,4,5,3,6,0,28.3,1,1,894275.99
+Riverside,Townhouse,Semi-furnished,2618,5,2,2,10,1,27.6,1,0,787340.47
+Greenfield,Detached,Fully furnished,1114,3,1,3,52,0,26.6,1,0,312228.06

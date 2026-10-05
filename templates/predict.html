@@ -1,0 +1,155 @@
+{% extends 'base.html' %}
+
+{% block title %}Estimate a property · Habitat{% endblock %}
+{% block content %}
+  <div class="container page-container">
+    <div class="page-heading">
+      <div class="eyebrow">YOUR PROPERTY, IN PERSPECTIVE</div>
+      <h1>
+        Let's find <em>its value.</em>
+      </h1>
+      <p>A few details are all it takes. Tell us about the property below.</p>
+    </div>
+    <div class="prediction-layout">
+      <form method="post" class="panel prediction-form" id="predictionForm">
+        {% csrf_token %}
+        {% if form.errors %}
+          <div class="form-error-summary" role="alert">
+            <strong>
+              {% if form.non_field_errors %}
+                Your estimate couldn't be completed.
+              {% else %}
+                Please check the highlighted details.
+              {% endif %}
+            </strong>
+            {% for error in form.non_field_errors %}<p>{{ error }}</p>{% endfor %}
+            {% if not form.non_field_errors %}<p>Correct the fields below and try again.</p>{% endif %}
+          </div>
+        {% endif %}
+        <div id="clientError" class="form-error-summary" role="alert" hidden></div>
+        <section class="form-section">
+          <div class="form-section-heading">
+            <span>01</span>
+            <div>
+              <h2>The essentials</h2>
+              <p>Where it is and what kind of home it is.</p>
+            </div>
+          </div>
+          <div class="form-grid">
+            {% include 'includes/field.html' with field=form.location %}
+            {% include 'includes/field.html' with field=form.property_type %}
+            {% include 'includes/field.html' with field=form.area_sqft %}
+          </div>
+        </section>
+        <section class="form-section">
+          <div class="form-section-heading">
+            <span>02</span>
+            <div>
+              <h2>Room to live</h2>
+              <p>The space, layout, and age of the property.</p>
+            </div>
+          </div>
+          <div class="form-grid three-columns">
+            {% include 'includes/field.html' with field=form.bedrooms %}
+            {% include 'includes/field.html' with field=form.bathrooms %}
+            {% include 'includes/field.html' with field=form.floors %}
+            {% include 'includes/field.html' with field=form.property_age %}
+            {% include 'includes/field.html' with field=form.parking_spaces %}
+            {% include 'includes/field.html' with field=form.furnishing_status %}
+          </div>
+        </section>
+        <section class="form-section">
+          <div class="form-section-heading">
+            <span>03</span>
+            <div>
+              <h2>The neighborhood</h2>
+              <p>Everyday connections that can influence value.</p>
+            </div>
+          </div>
+          {% include 'includes/field.html' with field=form.distance_city_center %}
+          <div class="amenity-grid">
+            {% for field in form %}
+              {% if field.name == 'nearby_school' or field.name == 'nearby_hospital' %}
+                <div class="amenity-control">
+                  <div class="form-check form-switch">
+                    {{ field }}
+                    <label class="form-check-label" for="{{ field.id_for_label }}">{{ field.label }}</label>
+                  </div>
+                  <small id="hint_{{ field.name }}">{{ field.help_text }}</small>
+                  <div id="error_{{ field.name }}" class="field-errors">{{ field.errors }}</div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </section>
+        <div class="form-bottom">
+          <p>
+            <svg class="icon">
+              <use href="#i-info" />
+            </svg>
+            This estimate and its property details will appear in the public demo history. Required fields are marked *.
+          </p>
+          <button class="btn btn-primary" type="submit" id="predictButton">
+            <svg class="icon">
+              <use href="#i-spark" />
+            </svg>
+            <span>Calculate my estimate</span>
+            <svg class="icon">
+              <use href="#i-arrow" />
+            </svg>
+          </button>
+        </div>
+      </form>
+      <aside class="prediction-aside">
+        <div class="aside-card">
+          <span class="aside-icon">
+            <svg class="icon">
+              <use href="#i-home" />
+            </svg>
+          </span>
+          <h2>
+            A clearer picture
+            <br>
+            starts here.
+          </h2>
+          <p>
+            Great estimates start with good details. Use the property's total living area and its current condition.
+          </p>
+          <div class="aside-divider"></div>
+          <div class="aside-fact">
+            <svg class="icon">
+              <use href="#i-check" />
+            </svg>
+            <div>
+              <strong>Real machine learning</strong><small>{{ metadata.selected_model|default:'Model awaiting training' }}</small>
+            </div>
+          </div>
+          <div class="aside-fact">
+            <svg class="icon">
+              <use href="#i-check" />
+            </svg>
+            <div>
+              <strong>Easy to revisit</strong><small>Every successful estimate is saved.</small>
+            </div>
+          </div>
+          <div class="aside-fact">
+            <svg class="icon">
+              <use href="#i-check" />
+            </svg>
+            <div>
+              <strong>A demo you can explore</strong><small>Six fictional neighborhoods · USD</small>
+            </div>
+          </div>
+        </div>
+        <div class="aside-note">
+          <svg class="icon">
+            <use href="#i-info" />
+          </svg>
+          <p>
+            Trained on synthetic data for learning and demonstration. This estimate should not guide an actual purchase.
+          </p>
+        </div>
+      </aside>
+    </div>
+  </div>
+{% endblock %}

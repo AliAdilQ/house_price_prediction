@@ -1,0 +1,255 @@
+{% extends 'base.html' %}
+
+{% load static humanize %}
+
+{% block content %}
+  <div class="container">
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow">
+          <span class="status-dot"></span> PROPERTY INTELLIGENCE, MADE SIMPLE
+        </div>
+        <h1>
+          A home has a story.
+          <br>
+          <em>Find its value.</em>
+        </h1>
+        <p class="hero-description">
+          Predict property prices using machine learning. Turn the details of a house into a thoughtful estimate, in just a few clicks.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="{% url 'predictor:predict' %}">Predict house price
+            <svg class="icon">
+              <use href="#i-arrow" />
+            </svg>
+          </a><a class="text-link" href="{% url 'predictor:about' %}">Explore the model <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="hero-trust">
+          <span>
+            <svg class="icon">
+              <use href="#i-check" />
+            </svg>
+            12 property features</span><span>
+            <svg class="icon">
+              <use href="#i-check" />
+            </svg>
+          Real trained model</span>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="visual-topline">
+          <span>THE SCIENCE OF FEELING AT HOME</span>
+          <svg class="icon">
+            <use href="#i-spark" />
+          </svg>
+        </div>
+        <img class="house-illustration"
+             src="{% static 'images/house.svg' %}"
+             alt="Architectural illustration of a contemporary home with a garden"
+             width="650"
+             height="440">
+        <div class="visual-caption">
+          <span>
+            <svg class="icon">
+              <use href="#i-pin" />
+            </svg>
+            Every detail makes a difference.</span><span class="mini-pill">DATA → VALUE</span>
+          </div>
+          <div class="floating-note">
+            <span class="note-icon">
+              <svg class="icon">
+                <use href="#i-chart" />
+              </svg>
+            </span>
+            <div>
+              <strong>More insight. Less guesswork.</strong><small>Powered by a regression pipeline</small>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="stat-strip" aria-label="Application statistics">
+        <div class="stat-item">
+          <span class="stat-label">DEMO DATASET</span><strong>
+            {% if metadata %}
+              {{ metadata.dataset_rows|intcomma }}
+            {% else %}
+              —
+            {% endif %}
+            <span class="stat-unit">homes</span></strong><small>Synthetic property records</small>
+          </div>
+          <div class="stat-item">
+            <span class="stat-label">MODEL PERFORMANCE</span><strong>
+              {% if metrics %}
+                {{ metrics.r2|floatformat:3 }}
+              {% else %}
+                —
+              {% endif %}
+              <span class="stat-unit">R²</span></strong><small>On an untouched test set</small>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">ESTIMATES CREATED</span><strong>{{ total_predictions|intcomma }}</strong><small>Including seeded demo estimates</small>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">SELECTED ALGORITHM</span><strong class="stat-model">{{ metadata.selected_model|default:'Not trained yet' }}</strong><small>
+                {% if metadata %}
+                  Lowest validation RMSE · 3 models
+                {% else %}
+                  Run the training command to begin
+                {% endif %}
+              </small>
+            </div>
+          </section>
+          <section class="insights-section">
+            <div class="section-heading">
+              <div>
+                <div class="eyebrow">A WINDOW INTO THE DATA</div>
+                <h2>
+                  Small details. <em>Big picture.</em>
+                </h2>
+              </div>
+              <a class="text-link" href="{% url 'predictor:history' %}">View prediction history
+                <svg class="icon">
+                  <use href="#i-arrow" />
+                </svg>
+              </a>
+            </div>
+            <div class="insights-grid">
+              <article class="panel chart-panel">
+                <div class="panel-heading">
+                  <div>
+                    <h3>Value across neighborhoods</h3>
+                    <p>Average saved estimate · USD</p>
+                  </div>
+                  <span class="subtle-tag">{{ total_predictions }} estimates</span>
+                </div>
+                {% if chart_data.labels %}
+                  <div class="chart-wrap">
+                    <canvas id="locationChart"
+                            role="img"
+                            aria-label="Average saved property price by neighborhood"></canvas>
+                  </div>
+                  <details class="chart-table">
+                    <summary>View chart data</summary>
+                    <table class="table table-sm">
+                      <caption class="visually-hidden">Average saved price by neighborhood in USD</caption>
+                      <thead>
+                        <tr>
+                          <th scope="col">Neighborhood</th>
+                          <th scope="col">Average estimate</th>
+                        </tr>
+                      </thead>
+                      <tbody id="chartTableBody">
+                      </tbody>
+                    </table>
+                  </details>
+                {% else %}
+                  <div class="empty-chart">
+                    <svg class="icon">
+                      <use href="#i-chart" />
+                    </svg>
+                    <p>Your neighborhood picture starts with the first prediction.</p>
+                    <a href="{% url 'predictor:predict' %}" class="text-link">Create an estimate →</a>
+                  </div>
+                {% endif %}
+                <p class="chart-footnote">
+                  Demo estimates, including sample records. This is not a market price index.
+                </p>
+              </article>
+              <article class="model-panel"><span class="model-icon">
+                <svg class="icon">
+                  <use href="#i-spark" />
+                </svg>
+              </span>
+              <div class="eyebrow">BUILT ON DATA, EXPLAINED CLEARLY</div>
+              <h3>
+                One estimate.
+                <br>
+                Twelve perspectives.
+              </h3>
+              <p>
+                Location, living area, age, amenities, and more. Our model learns how property characteristics work together.
+              </p>
+              <div class="model-chips">
+                <span>Location</span><span>Living area</span><span>Property age</span><span>+ 9 features</span>
+              </div>
+              <a class="light-link" href="{% url 'predictor:about' %}">Meet the model
+                <svg class="icon">
+                  <use href="#i-arrow" />
+                </svg>
+              </a></article>
+            </div>
+          </section>
+          <section class="how-section">
+            <div class="section-heading">
+              <div>
+                <div class="eyebrow">FROM DETAILS TO DIRECTION</div>
+                <h2>
+                  Your next insight, <em>in three steps.</em>
+                </h2>
+              </div>
+              <p class="section-aside">
+                Simple on the surface.
+                <br>
+                Thoughtful under the hood.
+              </p>
+            </div>
+            <div class="steps-grid">
+            <article><span class="step-number">01</span>
+            <h3>Tell us about the property</h3>
+            <p>Add its neighborhood, space, rooms, and the details that make it a home.</p>
+          </article>
+        <article><span class="step-number">02</span>
+        <h3>Let the model connect the dots</h3>
+        <p>A saved pipeline prepares your inputs and calculates a value in real time.</p>
+      </article>
+    <article><span class="step-number">03</span>
+    <h3>Explore your estimate</h3>
+    <p>See the price, value per square foot, and a record you can revisit anytime.</p>
+  </article>
+</div>
+</section>
+<section class="features-row" aria-label="Features">
+  <div>
+    <svg class="icon">
+      <use href="#i-grid" />
+    </svg>
+    <strong>Consistent preprocessing</strong>
+    <p>One pipeline, from training to prediction.</p>
+  </div>
+  <div>
+    <svg class="icon">
+      <use href="#i-clock" />
+    </svg>
+    <strong>A history worth keeping</strong>
+    <p>Saved estimates, search, and pagination.</p>
+  </div>
+  <div>
+    <svg class="icon">
+      <use href="#i-code" />
+    </svg>
+    <strong>Open by design</strong>
+    <p>Django, scikit-learn, and source on GitHub.</p>
+  </div>
+</section>
+<section class="cta-banner">
+  <div>
+    <span class="eyebrow">CURIOUS ABOUT A PROPERTY?</span>
+    <h2>Start with a little more clarity.</h2>
+  </div>
+  <a class="btn btn-primary" href="{% url 'predictor:predict' %}">Make an estimate
+    <svg class="icon">
+      <use href="#i-arrow" />
+    </svg>
+  </a>
+</section>
+<p class="demo-disclaimer">
+  <svg class="icon">
+    <use href="#i-info" />
+  </svg>
+  Habitat is a portfolio demonstration trained on synthetic data. Estimates are not professional real-estate valuations.
+</p>
+</div>
+{% endblock %}
+{% block scripts %}
+  {{ chart_data|json_script:'chart-data' }}<script src="{% static 'vendor/chartjs/chart.umd.js' %}" defer></script><script src="{% static 'js/charts.js' %}" defer></script>
+{% endblock %}

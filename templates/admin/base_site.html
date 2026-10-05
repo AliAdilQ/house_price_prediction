@@ -1,0 +1,16 @@
+{% extends "admin/base.html" %}
+
+{% load static %}
+
+{% block extrastyle %}
+  {{ block.super }}
+  <link rel="stylesheet" href="{% static 'css/admin.css' %}">
+  <link rel="icon"
+        type="image/svg+xml"
+        href="{% static 'images/favicon.svg' %}">
+{% endblock %}
+{% block branding %}
+  <div id="site-name">
+    <a href="{% url 'admin:index' %}">{{ site_header }}</a>
+  </div>
+{% endblock %}

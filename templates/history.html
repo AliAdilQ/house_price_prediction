@@ -1,0 +1,183 @@
+{% extends 'base.html' %}
+
+{% load humanize %}
+
+{% block title %}Prediction history · Habitat{% endblock %}
+{% block content %}
+  <div class="container page-container">
+    <div class="page-heading heading-with-action">
+      <div>
+        <div class="eyebrow">YOUR EXPLORATION, ON RECORD</div>
+        <h1>
+          A history of <em>possibilities.</em>
+        </h1>
+        <p>Revisit saved estimates and explore the details behind them.</p>
+      </div>
+      <a class="btn btn-primary" href="{% url 'predictor:predict' %}">New prediction
+        <svg class="icon">
+          <use href="#i-arrow" />
+        </svg>
+      </a>
+    </div>
+    <div class="history-stats">
+      <div>
+        <span class="stat-label">MATCHING ESTIMATES</span><strong>{{ summary.count|intcomma }}</strong>
+      </div>
+      <div>
+        <span class="stat-label">AVERAGE ESTIMATED VALUE</span><strong>
+          {% if summary.average %}
+            ${{ summary.average|floatformat:0|intcomma }}
+          {% else %}
+            —
+          {% endif %}
+          <small>USD</small></strong>
+      </div>
+      <div class="history-note">
+        <svg class="icon">
+          <use href="#i-info" />
+        </svg>
+        <p>
+          Public demo history.
+          <br>
+          Includes seeded sample estimates.
+        </p>
+      </div>
+    </div>
+    <section class="panel history-panel">
+      <form method="get" class="history-filters">
+        <div class="search-control">
+          <svg class="icon">
+            <use href="#i-search" />
+          </svg>
+          <label class="visually-hidden" for="historySearch">Search neighborhood or property type</label>
+          <input type="search"
+                 class="form-control"
+                 name="q"
+                 id="historySearch"
+                 value="{{ q }}"
+                 placeholder="Search neighborhood or property type"
+                 maxlength="100">
+        </div>
+        <div>
+          <label class="visually-hidden" for="locationFilter">Neighborhood</label>
+          <select name="location" id="locationFilter" class="form-select">
+            <option value="">All neighborhoods</option>
+            {% for location in locations %}
+              <option {% if selected_location == location %}selected{% endif %}>{{ location }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div>
+          <label class="visually-hidden" for="typeFilter">Property type</label>
+          <select name="type" id="typeFilter" class="form-select">
+            <option value="">All property types</option>
+            {% for type in property_types %}
+              <option {% if selected_type == type %}selected{% endif %}>{{ type }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <button class="btn btn-outline-dark" type="submit">Filter</button>
+        {% if q or selected_location or selected_type %}
+          <a class="text-link" href="{% url 'predictor:history' %}">Clear</a>
+        {% endif %}
+      </form>
+      <div class="table-responsive">
+        <table class="table history-table">
+          <caption class="visually-hidden">Saved property estimates, newest first</caption>
+          <thead>
+            <tr>
+              <th scope="col">PROPERTY</th>
+              <th scope="col">LIVING AREA</th>
+              <th scope="col">ROOMS</th>
+              <th scope="col">ESTIMATED VALUE</th>
+              <th scope="col">CREATED</th>
+              <th scope="col">
+                <span class="visually-hidden">View details</span>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for prediction in page_obj %}
+              <tr>
+                <td>
+                  <div class="property-cell">
+                    <span class="property-icon">
+                      <svg class="icon">
+                        <use href="#i-home" />
+                      </svg>
+                    </span>
+                    <div>
+                      <strong>{{ prediction.property_type }}</strong><span>{{ prediction.location }}
+                        {% if prediction.demo_key %}<span class="demo-tag">DEMO</span>{% endif %}
+                      </span>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  {{ prediction.area_sqft|intcomma }} <small>sq ft</small>
+                </td>
+                <td>
+                  {{ prediction.bedrooms }} <small>bed</small> · {{ prediction.bathrooms }} <small>bath</small>
+                </td>
+                <td class="table-price">${{ prediction.predicted_price|floatformat:0|intcomma }}</td>
+                <td>
+                  <span>{{ prediction.created_at|date:'M j, Y' }}</span><small class="table-time">{{ prediction.created_at|date:'H:i T' }}</small>
+                </td>
+                <td>
+                  <a class="row-link"
+                     href="{% url 'predictor:result' prediction.pk %}"
+                     aria-label="View {{ prediction.property_type }} in {{ prediction.location }} estimated on {{ prediction.created_at }}">
+                    <svg class="icon">
+                      <use href="#i-arrow" />
+                    </svg>
+                  </a>
+                </td>
+              </tr>
+            {% empty %}
+              <tr>
+                <td colspan="6">
+                  <div class="empty-state">
+                    <svg class="icon">
+                      <use href="#i-search" />
+                    </svg>
+                    <h3>
+                      {% if q or selected_location or selected_type %}
+                        No estimates match these filters
+                      {% else %}
+                        Your first estimate is waiting
+                      {% endif %}
+                    </h3>
+                    <p>
+                      {% if q or selected_location or selected_type %}
+                        Try another neighborhood or clear your search.
+                      {% else %}
+                        Add a property to start exploring its potential value.
+                      {% endif %}
+                    </p>
+                    <a href="{% url 'predictor:predict' %}" class="btn btn-primary">Make an estimate</a>
+                  </div>
+                </td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      {% if page_obj.paginator.num_pages > 1 %}
+        <nav class="history-pagination" aria-label="Prediction history pagination">
+          <span>Showing {{ page_obj.start_index }}–{{ page_obj.end_index }} of {{ page_obj.paginator.count }}</span>
+          <div>
+            {% if page_obj.has_previous %}
+              <a class="btn btn-outline-dark btn-sm"
+                 href="?{{ filter_query }}{% if filter_query %}&amp;{% endif %}page={{ page_obj.previous_page_number }}">← Previous</a>
+            {% endif %}
+            <span>Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</span>
+            {% if page_obj.has_next %}
+              <a class="btn btn-outline-dark btn-sm"
+                 href="?{{ filter_query }}{% if filter_query %}&amp;{% endif %}page={{ page_obj.next_page_number }}">Next →</a>
+            {% endif %}
+          </div>
+        </nav>
+      {% endif %}
+    </section>
+  </div>
+{% endblock %}

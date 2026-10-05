@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Page not found · Habitat{% endblock %}
+{% block content %}
+  <div class="container error-page">
+    <div class="error-number">404</div>
+    <div class="eyebrow">A SMALL DETOUR</div>
+    <h1>
+      This address <em>isn't on the map.</em>
+    </h1>
+    <p>The page may have moved, or this estimate may no longer exist.</p>
+    <a class="btn btn-primary" href="{% url 'predictor:home' %}">Find your way home
+      <svg class="icon">
+        <use href="#i-arrow" />
+      </svg>
+    </a>
+  </div>
+{% endblock %}

@@ -1,0 +1,59 @@
+/* Keep Django's native admin behavior and responsive layout, with Habitat colors. */
+:root,
+html[data-theme="light"] {
+  --primary: #1b493b;
+  --secondary: #163e35;
+  --accent: #e5edcf;
+  --header-color: #e5edcf;
+  --header-branding-color: #e5edcf;
+  --header-bg: #163e35;
+  --breadcrumbs-bg: #3e6651;
+  --link-fg: #346b50;
+  --link-selected-fg: #183e2a;
+  --body-bg: #f8f8f2;
+  --darkened-bg: #edf1e6;
+  --selected-bg: #e5eddc;
+  --selected-row: #f0f5e6;
+  --button-bg: #35674e;
+  --button-hover-bg: #1b493b;
+  --default-button-bg: #1b493b;
+  --default-button-hover-bg: #12392e;
+}
+
+html[data-theme="dark"] {
+  --primary: #4f8a69;
+  --secondary: #163e35;
+  --header-bg: #163e35;
+  --header-branding-color: #e5edcf;
+  --breadcrumbs-bg: #234b39;
+  --link-fg: #9bc49f;
+}
+
+#header {
+  min-height: 54px;
+}
+
+#site-name {
+  font-family: Georgia, serif;
+  font-size: 24px;
+  letter-spacing: -.4px;
+}
+
+.module {
+  border-radius: 7px;
+  overflow: hidden;
+  border: 1px solid var(--hairline-color);
+}
+
+.module h2,
+.module caption {
+  padding: 12px;
+}
+
+#content h1 {
+  font-family: Georgia, serif;
+}
+
+div.breadcrumbs {
+  padding-block: 13px;
+}

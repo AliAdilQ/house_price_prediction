@@ -1,0 +1,164 @@
+{% extends 'base.html' %}
+
+{% load humanize %}
+
+{% block title %}Behind the model · Habitat{% endblock %}
+{% block content %}
+  <div class="container page-container">
+    <div class="page-heading">
+      <div class="eyebrow">A PROJECT WITH AN OPEN DOOR</div>
+      <h1>
+        Built with curiosity.
+        <br>
+        <em>Grounded in data.</em>
+      </h1>
+      <p>
+        Habitat is a House Price Prediction System by AliAdilQ, bringing Python, Django, and machine learning together in one approachable experience.
+      </p>
+    </div>
+    <div class="about-grid">
+    <article class="panel about-story"><span class="eyebrow">WHAT'S UNDER THE ROOF</span>
+    <h2>
+      From property details
+      <br>
+      to a useful estimate.
+    </h2>
+    <p>
+      This portfolio project explores how a regression model can estimate a house price from twelve characteristics: location, living area, rooms, floors, age, parking, property type, furnishing, distance, and nearby amenities.
+    </p>
+    <p>
+      Django validates each submission, calls a complete scikit-learn pipeline, and stores the result in SQLite. The history and admin panel make those results easy to inspect.
+    </p>
+    <div class="tech-chips">
+      <span>Python</span><span>Django</span><span>scikit-learn</span><span>pandas</span><span>NumPy</span><span>joblib</span><span>SQLite</span><span>Bootstrap 5</span><span>Chart.js</span><span>JavaScript</span>
+    </div>
+  </article><article class="model-panel about-model">
+  <div class="eyebrow">THE SELECTED MODEL</div>
+  <h3>{{ metadata.selected_model|default:'Awaiting training' }}</h3>
+  <p>
+    Selected by the lowest three-fold cross-validation RMSE on the training split. The final score comes from a separate test set.
+  </p>
+  <div class="about-metrics">
+    <div>
+      <small>TEST R²</small><strong>{{ metrics.r2|floatformat:4|default:'—' }}</strong>
+    </div>
+    <div>
+      <small>TEST RMSE</small><strong>
+        {% if metrics %}
+          ${{ metrics.rmse|floatformat:0|intcomma }}
+        {% else %}
+          —
+        {% endif %}
+      </strong>
+    </div>
+    <div>
+      <small>TEST MAE</small><strong>
+        {% if metrics %}
+          ${{ metrics.mae|floatformat:0|intcomma }}
+        {% else %}
+          —
+        {% endif %}
+      </strong>
+    </div>
+  </div>
+  <p class="model-small">
+    Performance on synthetic data does not establish accuracy on real properties. R² is a goodness-of-fit score, not an accuracy percentage.
+  </p>
+</article>
+</div>
+<section class="panel workflow-panel">
+  <div class="section-heading">
+    <div>
+      <div class="eyebrow">REPRODUCIBLE BY DESIGN</div>
+      <h2>
+        A pipeline you can <em>follow.</em>
+      </h2>
+    </div>
+  </div>
+  <ol class="workflow-steps">
+    <li>
+      <span>01</span><strong>Load & validate</strong>
+      <p>Clean the CSV and verify feature ranges.</p>
+    </li>
+    <li>
+      <span>02</span><strong>Split & prepare</strong>
+      <p>Hold out 20%; encode and scale inside each fold.</p>
+    </li>
+    <li>
+      <span>03</span><strong>Train & compare</strong>
+      <p>Compare linear, forest, and boosting regressors.</p>
+    </li>
+    <li>
+      <span>04</span><strong>Save & predict</strong>
+      <p>Evaluate the winner and serialize the full pipeline.</p>
+    </li>
+  </ol>
+</section>
+{% if metadata.comparison %}
+  <section class="panel comparison-panel">
+    <h2>Model comparison</h2>
+    <p>
+      Mean scores across three validation folds. Lower MAE and RMSE are better; higher R² is better.
+    </p>
+    <div class="table-responsive">
+      <table class="table">
+        <caption class="visually-hidden">Training split cross-validation model performance</caption>
+        <thead>
+          <tr>
+            <th scope="col">Algorithm</th>
+            <th scope="col">R²</th>
+            <th scope="col">MAE (USD)</th>
+            <th scope="col">RMSE (USD)</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for model in metadata.comparison %}
+            <tr>
+              <th scope="row">
+                {{ model.name }}
+                {% if model.name == metadata.selected_model %}
+                  <span class="selected-badge">Selected</span>
+                {% endif %}
+              </th>
+              <td>{{ model.r2|floatformat:4 }}</td>
+              <td>${{ model.mae|floatformat:0|intcomma }}</td>
+              <td>${{ model.rmse|floatformat:0|intcomma }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+{% endif %}
+<div class="about-bottom">
+  <article>
+    <div class="eyebrow">THE DATASET</div>
+    <h2>
+      Imagined homes.
+      <br>
+      Real learning.
+    </h2>
+    <p>
+      The included dataset is synthetic and intended for portfolio/demo purposes.
+      {% if metadata %}
+        Its {{ metadata.dataset_rows|intcomma }} records cover six fictional neighborhoods, with {{ metadata.training_rows|intcomma }} training rows and {{ metadata.test_rows }} held-out test rows.
+      {% endif %}
+      Prices reflect deliberate relationships between area, location, depreciation, amenities, and noise.
+    </p>
+    <p>The application reports USD estimates. Neighborhoods do not correspond to a real city.</p>
+  </article><article>
+  <div class="eyebrow">THE DEVELOPER</div>
+  <h2>Made by AliAdilQ.</h2>
+  <p>
+    A complete, open-source exploration of the connection between data science and thoughtful web development.
+  </p>
+  <a class="btn btn-outline-dark"
+     href="https://github.com/AliAdilQ"
+     target="_blank"
+     rel="noopener noreferrer">Developer on GitHub ↗</a><a class="text-link d-block mt-3"
+   href="https://github.com/AliAdilQ/house_price_prediction"
+   target="_blank"
+   rel="noopener noreferrer">Explore the source code ↗</a></article>
+</div>
+</div>
+{% endblock %}
